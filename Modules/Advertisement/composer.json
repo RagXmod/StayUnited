@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/advertisement",
+    "description": "",
+    "authors": [
+        {
+            "name": "Anthony Pillos",
+            "email": "ianthonypillos@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Advertisement\\Providers\\AdvertisementServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Advertisement\\": ""
+        }
+    }
+}

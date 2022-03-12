@@ -1,0 +1,69 @@
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '../../node_modules/bootstrap/scss/bootstrap';
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+
+// Custom variables
+@import 'dcm/variables';
+@import 'dcm/variables-themes';
+@import 'dcm/mixins';
+
+
+@import 'dcm/reboot';
+@import 'dcm/type';
+@import 'dcm/grid';
+@import 'dcm/tables';
+@import 'dcm/forms';
+@import 'dcm/buttons';
+@import 'dcm/transitions';
+@import 'dcm/dropdown';
+@import 'dcm/input-group';
+@import 'dcm/custom-forms';
+@import 'dcm/nav';
+@import 'dcm/breadcrumb';
+@import 'dcm/pagination';
+@import 'dcm/badge';
+@import 'dcm/modal';
+@import 'dcm/print';
+
+// Custom layout
+@import 'dcm/layout';
+@import 'dcm/header';
+@import 'dcm/sidebar';
+// @import 'dcm/side-overlay';
+@import 'dcm/layout-variations';
+@import 'dcm/hero';
+@import 'dcm/block';
+
+// Custom components
+@import 'dcm/page-loader';
+@import 'dcm/nav-main';
+// @import 'dcm/images';
+// @import 'dcm/lists';
+// @import 'dcm/item';
+// @import 'dcm/overlay';
+// @import 'dcm/timeline';
+@import 'dcm/ribbon';
+
+// Utilities
+@import 'dcm/utilities';
+
+@import '../../node_modules/animate.css/animate.min.css';
+@import '../../node_modules/@fortawesome/fontawesome-free/scss/fontawesome';
+@import '../../node_modules/@fortawesome/fontawesome-free/scss/solid';
+@import '../../node_modules/@fortawesome/fontawesome-free/scss/regular';
+@import '../../node_modules/@fortawesome/fontawesome-free/scss/brands';
+
+
+
+
+// User styles (your own styles/overrides)
+@import 'custom/main';
+@import 'custom/search';

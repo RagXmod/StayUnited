@@ -1,0 +1,41 @@
+//
+// xinspire Theme
+// --------------------------------------------------
+
+// Include base files
+@import 'base';
+
+// Generate color theme
+@include color-theme($dcm-green-primary,
+                     $dcm-green-light,
+                     $dcm-green-lighter,
+                     $dcm-green-dark,
+                     $dcm-green-darker,
+                     $dcm-green-body-bg,
+                     $dcm-green-body-bg-dark,
+                     $dcm-green-body-bg-light,
+                     $dcm-green-body-color,
+                     $dcm-green-body-color-dark,
+                     $dcm-green-body-color-light,
+                     $dcm-green-link-color,
+                     $dcm-green-link-hover-color,
+                     $dcm-green-headings-color,
+                     $dcm-green-input-btn-focus-color,
+                     $dcm-green-input-btn-focus-box-shadow,
+                     $dcm-green-input-bg,
+                     $dcm-green-input-color,
+                     $dcm-green-input-border-color,
+                     $dcm-green-input-focus-bg,
+                     $dcm-green-input-focus-color,
+                     $dcm-green-input-focus-border-color,
+                     $dcm-green-header-bg,
+                     $dcm-green-header-dark-bg,
+                     $dcm-green-sidebar-bg,
+                     $dcm-green-sidebar-dark-bg,
+                     $dcm-green-side-overlay-bg,
+                     $dcm-green-main-nav-link-icon-color,
+                     $dcm-green-main-nav-link-hover-bg,
+                     $dcm-green-main-nav-submenu-bg,
+                     $dcm-green-main-nav-link-icon-dark-color,
+                     $dcm-green-main-nav-link-dark-hover-bg,
+                     $dcm-green-main-nav-submenu-dark-bg);

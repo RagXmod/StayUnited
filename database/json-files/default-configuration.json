@@ -1,0 +1,329 @@
+{
+	"data":
+	[
+		{
+			"id": 41,
+			"group": "general",
+			"identifier": "timezone",
+			"value": "Asia/Manila",
+			"description": null,
+			"created_at": "2019-04-16 06:30:49",
+			"updated_at": "2019-04-16 06:30:49"
+		},
+		{
+			"id": 42,
+			"group": "general",
+			"identifier": "enable_ssl",
+			"value": "no",
+			"description": null,
+			"created_at": "2019-04-16 06:30:49",
+			"updated_at": "2019-04-16 06:30:49"
+		},
+		{
+			"id": 43,
+			"group": "general",
+			"identifier": "enable_cookie_notification",
+			"value": "yes",
+			"description": null,
+			"created_at": "2019-04-16 06:30:49",
+			"updated_at": "2019-04-16 06:30:49"
+		},
+		{
+			"id": 44,
+			"group": "general",
+			"identifier": "supported_country_selected",
+			"value": "US",
+			"description": null,
+			"created_at": "2019-04-16 06:30:49",
+			"updated_at": "2019-04-16 06:30:49"
+		},
+		{
+			"id": 45,
+			"group": "general",
+			"identifier": "supported_language_selected",
+			"value": "en",
+			"description": null,
+			"created_at": "2019-04-16 06:30:49",
+			"updated_at": "2019-04-16 06:30:49"
+		},
+		{
+			"id": 46,
+			"group": "general",
+			"identifier": "social_facebook",
+			"value": "#",
+			"description": null,
+			"created_at": "2019-04-16 06:30:49",
+			"updated_at": "2019-04-18 01:18:44"
+		},
+		{
+			"id": 47,
+			"group": "general",
+			"identifier": "social_twitter",
+			"value": "#",
+			"description": null,
+			"created_at": "2019-04-16 06:30:49",
+			"updated_at": "2019-04-18 01:18:44"
+		},
+		{
+			"id": 48,
+			"group": "general",
+			"identifier": "social_google_plus",
+			"value": "#",
+			"description": null,
+			"created_at": "2019-04-16 06:30:49",
+			"updated_at": "2019-04-18 01:18:44"
+		},
+		{
+			"id": 49,
+			"group": "general",
+			"identifier": "social_pinterest",
+			"value": "#",
+			"description": null,
+			"created_at": "2019-04-16 06:30:49",
+			"updated_at": "2019-04-18 01:18:44"
+		},
+		{
+			"id": 50,
+			"group": "general",
+			"identifier": "site_name",
+			"value": "wooot",
+			"description": null,
+			"created_at": "2019-04-16 06:30:49",
+			"updated_at": "2019-04-16 08:22:50"
+		},
+		{
+			"id": 51,
+			"group": "general",
+			"identifier": "site_logo",
+			"value": "/img/site-logo.png",
+			"description": null,
+			"created_at": "2019-04-18 00:39:17",
+			"updated_at": "2019-04-18 00:39:17"
+		},
+		{
+			"id": 52,
+			"group": "registration",
+			"identifier": "allow_registration",
+			"value": "yes",
+			"description": null,
+			"created_at": "2019-04-18 00:39:57",
+			"updated_at": "2019-04-18 00:39:57"
+		},
+		{
+			"id": 53,
+			"group": "registration",
+			"identifier": "terms_and_condition",
+			"value": "yes",
+			"description": null,
+			"created_at": "2019-04-18 00:39:57",
+			"updated_at": "2019-04-18 00:39:57"
+		},
+		{
+			"id": 54,
+			"group": "registration",
+			"identifier": "email_confirmation",
+			"value": "yes",
+			"description": null,
+			"created_at": "2019-04-18 00:39:57",
+			"updated_at": "2019-04-18 00:39:57"
+		},
+		{
+			"id": 55,
+			"group": "registration",
+			"identifier": "is_recaptcha",
+			"value": "no",
+			"description": null,
+			"created_at": "2019-04-18 00:39:57",
+			"updated_at": "2019-04-18 00:39:57"
+		},
+		{
+			"id": 56,
+			"group": "registration",
+			"identifier": "recaptcha_on_login",
+			"value": "yes",
+			"description": null,
+			"created_at": "2019-04-18 00:39:57",
+			"updated_at": "2019-04-18 00:39:57"
+		},
+		{
+			"id": 57,
+			"group": "registration",
+			"identifier": "recaptcha_on_registration",
+			"value": "yes",
+			"description": null,
+			"created_at": "2019-04-18 00:39:57",
+			"updated_at": "2019-04-18 00:39:57"
+		},
+		{
+			"id": 58,
+			"group": "registration",
+			"identifier": "recaptcha_on_forgot_password",
+			"value": "yes",
+			"description": null,
+			"created_at": "2019-04-18 00:39:57",
+			"updated_at": "2019-04-18 00:39:57"
+		},
+		{
+			"id": 59,
+			"group": "registration",
+			"identifier": "recaptcha_on_contactus",
+			"value": "yes",
+			"description": null,
+			"created_at": "2019-04-18 00:39:57",
+			"updated_at": "2019-04-18 00:39:57"
+		},
+		{
+			"id": 60,
+			"group": "registration",
+			"identifier": "recaptcha_site_key",
+			"value": "",
+			"description": null,
+			"created_at": "2019-04-18 00:40:16",
+			"updated_at": "2019-04-18 00:41:52"
+		},
+		{
+			"id": 61,
+			"group": "registration",
+			"identifier": "recaptcha_site_secret_key",
+			"value": "",
+			"description": null,
+			"created_at": "2019-04-18 00:41:44",
+			"updated_at": "2019-04-18 00:41:52"
+		},
+		{
+			"id": 62,
+			"group": "authentication",
+			"identifier": "throttle_auth_override",
+			"value": "no",
+			"description": null,
+			"created_at": "2019-04-18 00:43:21",
+			"updated_at": "2019-04-18 00:43:21"
+		},
+		{
+			"id": 63,
+			"group": "authentication",
+			"identifier": "forgot_password",
+			"value": "yes",
+			"description": null,
+			"created_at": "2019-04-18 00:43:21",
+			"updated_at": "2019-04-18 00:43:21"
+		},
+		{
+			"id": 64,
+			"group": "authentication",
+			"identifier": "allow_remember_me",
+			"value": "yes",
+			"description": null,
+			"created_at": "2019-04-18 00:43:21",
+			"updated_at": "2019-04-18 00:43:21"
+		},
+		{
+			"id": 65,
+			"group": "seo",
+			"identifier": "meta_title",
+			"value": "Google Play Store Apk Download - Anthony Pillos",
+			"description": null,
+			"created_at": "2019-04-18 01:12:14",
+			"updated_at": "2019-04-18 01:12:14"
+		},
+		{
+			"id": 66,
+			"group": "seo",
+			"identifier": "meta_keywords",
+			"value": "google,apps,play-store,apk-download,free-apk,get-apk,anthony-pillos,google-play-store,free-apps",
+			"description": null,
+			"created_at": "2019-04-18 01:12:14",
+			"updated_at": "2019-04-18 01:12:14"
+		},
+		{
+			"id": 67,
+			"group": "seo",
+			"identifier": "meta_description",
+			"value": "Google Play Store CMS is an android market site specifically for Google Play Store. You can add apps / games  in this CMS based created by Anthony Pillos.",
+			"description": null,
+			"created_at": "2019-04-18 01:12:14",
+			"updated_at": "2019-04-18 01:12:14"
+		},
+		{
+			"id": 68,
+			"group": "seo",
+			"identifier": "site_author",
+			"value": "Anthony Pillos",
+			"description": null,
+			"created_at": "2019-04-18 01:12:14",
+			"updated_at": "2019-04-18 01:12:14"
+		},
+		{
+			"id": 69,
+			"group": "seo",
+			"identifier": "site_author_link",
+			"value": "https://codecanyon.net/user/ianthonypillos",
+			"description": null,
+			"created_at": "2019-04-18 01:12:14",
+			"updated_at": "2019-04-18 01:12:14"
+		},
+		{
+			"id": 70,
+			"group": "general",
+			"identifier": "contact_email",
+			"value": "demo-demogoogelplaystore@mailinator.com",
+			"description": null,
+			"created_at": "2019-04-18 01:17:18",
+			"updated_at": "2019-04-18 01:17:18"
+		},
+		{
+			"id": 71,
+			"group": "app",
+			"identifier": "app_purchase_code",
+			"value": "",
+			"description": null,
+			"created_at": "2019-04-18 01:17:42",
+			"updated_at": "2019-04-18 01:17:42"
+		},
+		{
+			"id": 72,
+			"group": "app",
+			"identifier": "app_username",
+			"value": "",
+			"description": null,
+			"created_at": "2019-04-18 01:17:42",
+			"updated_at": "2019-04-18 01:17:42"
+		},
+		{
+			"id": 73,
+			"group": "app",
+			"identifier": "app_download_time",
+			"value": 15,
+			"description": null,
+			"created_at": "2019-04-18 01:17:42",
+			"updated_at": "2019-04-18 01:17:42"
+		},
+		{
+			"id": 74,
+			"group": "app",
+			"identifier": "app_custom_css",
+			"value": "",
+			"description": null,
+			"created_at": "2019-04-18 01:17:42",
+			"updated_at": "2019-04-18 01:17:42"
+		},
+		{
+			"id": 75,
+			"group": "app",
+			"identifier": "app_custom_js",
+			"value": "",
+			"description": null,
+			"created_at": "2019-04-18 01:17:42",
+			"updated_at": "2019-04-18 01:17:42"
+		},
+		{
+			"id": 76,
+			"group": "general",
+			"identifier": "add_this",
+			"value": "",
+			"description": null,
+			"created_at": "2019-04-18 01:17:42",
+			"updated_at": "2019-04-18 01:17:42"
+		}
+	]
+}

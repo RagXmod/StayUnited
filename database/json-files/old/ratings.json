@@ -1,0 +1,635 @@
+{
+	"data":
+	[
+		{
+			"app_id": "com.bigfishgames.gummydropgoogle",
+			"num": 5,
+			"bar_length": "width:100%",
+			"bar_number": "257,302"
+		},
+		{
+			"app_id": "com.bigfishgames.gummydropgoogle",
+			"num": 4,
+			"bar_length": "width:29%",
+			"bar_number": "76,651"
+		},
+		{
+			"app_id": "com.bigfishgames.gummydropgoogle",
+			"num": 3,
+			"bar_length": "width:12%",
+			"bar_number": "31,422"
+		},
+		{
+			"app_id": "com.bigfishgames.gummydropgoogle",
+			"num": 2,
+			"bar_length": "width:5%",
+			"bar_number": "14,267"
+		},
+		{
+			"app_id": "com.bigfishgames.gummydropgoogle",
+			"num": 1,
+			"bar_length": "width:9%",
+			"bar_number": "25,547"
+		},
+		{
+			"app_id": "com.facebook.katana",
+			"num": 5,
+			"bar_length": "width:100%",
+			"bar_number": "42,405,051"
+		},
+		{
+			"app_id": "com.facebook.katana",
+			"num": 4,
+			"bar_length": "width:26%",
+			"bar_number": "11,151,455"
+		},
+		{
+			"app_id": "com.facebook.katana",
+			"num": 3,
+			"bar_length": "width:15%",
+			"bar_number": "6,492,151"
+		},
+		{
+			"app_id": "com.facebook.katana",
+			"num": 2,
+			"bar_length": "width:7%",
+			"bar_number": "3,109,211"
+		},
+		{
+			"app_id": "com.facebook.katana",
+			"num": 1,
+			"bar_length": "width:20%",
+			"bar_number": "8,688,350"
+		},
+		{
+			"app_id": "com.facebook.orca",
+			"num": 5,
+			"bar_length": "width:100%",
+			"bar_number": "28,189,133"
+		},
+		{
+			"app_id": "com.facebook.orca",
+			"num": 4,
+			"bar_length": "width:25%",
+			"bar_number": "7,308,131"
+		},
+		{
+			"app_id": "com.facebook.orca",
+			"num": 3,
+			"bar_length": "width:16%",
+			"bar_number": "4,726,651"
+		},
+		{
+			"app_id": "com.facebook.orca",
+			"num": 2,
+			"bar_length": "width:7%",
+			"bar_number": "2,111,222"
+		},
+		{
+			"app_id": "com.facebook.orca",
+			"num": 1,
+			"bar_length": "width:23%",
+			"bar_number": "6,626,525"
+		},
+		{
+			"app_id": "com.facebook.pages.app",
+			"num": 5,
+			"bar_length": "width:100%",
+			"bar_number": "691,803"
+		},
+		{
+			"app_id": "com.facebook.pages.app",
+			"num": 4,
+			"bar_length": "width:28%",
+			"bar_number": "198,842"
+		},
+		{
+			"app_id": "com.facebook.pages.app",
+			"num": 3,
+			"bar_length": "width:17%",
+			"bar_number": "119,506"
+		},
+		{
+			"app_id": "com.facebook.pages.app",
+			"num": 2,
+			"bar_length": "width:7%",
+			"bar_number": "55,123"
+		},
+		{
+			"app_id": "com.facebook.pages.app",
+			"num": 1,
+			"bar_length": "width:20%",
+			"bar_number": "140,340"
+		},
+		{
+			"app_id": "com.spotify.music",
+			"num": 5,
+			"bar_length": "width:100%",
+			"bar_number": "7,197,420"
+		},
+		{
+			"app_id": "com.spotify.music",
+			"num": 4,
+			"bar_length": "width:19%",
+			"bar_number": "1,425,554"
+		},
+		{
+			"app_id": "com.spotify.music",
+			"num": 3,
+			"bar_length": "width:6%",
+			"bar_number": "433,014"
+		},
+		{
+			"app_id": "com.spotify.music",
+			"num": 2,
+			"bar_length": "width:2%",
+			"bar_number": "169,551"
+		},
+		{
+			"app_id": "com.spotify.music",
+			"num": 1,
+			"bar_length": "width:5%",
+			"bar_number": "381,024"
+		},
+		{
+			"app_id": "com.soundcloud.android",
+			"num": 5,
+			"bar_length": "width:100%",
+			"bar_number": "2,252,299"
+		},
+		{
+			"app_id": "com.soundcloud.android",
+			"num": 4,
+			"bar_length": "width:22%",
+			"bar_number": "514,799"
+		},
+		{
+			"app_id": "com.soundcloud.android",
+			"num": 3,
+			"bar_length": "width:8%",
+			"bar_number": "189,652"
+		},
+		{
+			"app_id": "com.soundcloud.android",
+			"num": 2,
+			"bar_length": "width:3%",
+			"bar_number": "73,578"
+		},
+		{
+			"app_id": "com.soundcloud.android",
+			"num": 1,
+			"bar_length": "width:6%",
+			"bar_number": "142,321"
+		},
+		{
+			"app_id": "com.zentertain.music.player",
+			"num": 5,
+			"bar_length": "width:100%",
+			"bar_number": "42,364"
+		},
+		{
+			"app_id": "com.zentertain.music.player",
+			"num": 4,
+			"bar_length": "width:22%",
+			"bar_number": "9,679"
+		},
+		{
+			"app_id": "com.zentertain.music.player",
+			"num": 3,
+			"bar_length": "width:12%",
+			"bar_number": "5,475"
+		},
+		{
+			"app_id": "com.zentertain.music.player",
+			"num": 2,
+			"bar_length": "width:4%",
+			"bar_number": "1,721"
+		},
+		{
+			"app_id": "com.zentertain.music.player",
+			"num": 1,
+			"bar_length": "width:12%",
+			"bar_number": "5,370"
+		},
+		{
+			"app_id": "com.apple.android.music",
+			"num": 5,
+			"bar_length": "width:100%",
+			"bar_number": "91,540"
+		},
+		{
+			"app_id": "com.apple.android.music",
+			"num": 4,
+			"bar_length": "width:22%",
+			"bar_number": "20,741"
+		},
+		{
+			"app_id": "com.apple.android.music",
+			"num": 3,
+			"bar_length": "width:19%",
+			"bar_number": "17,470"
+		},
+		{
+			"app_id": "com.apple.android.music",
+			"num": 2,
+			"bar_length": "width:13%",
+			"bar_number": "12,208"
+		},
+		{
+			"app_id": "com.apple.android.music",
+			"num": 1,
+			"bar_length": "width:54%",
+			"bar_number": "49,805"
+		},
+		{
+			"app_id": "com.vevo",
+			"num": 5,
+			"bar_length": "width:100%",
+			"bar_number": "176,153"
+		},
+		{
+			"app_id": "com.vevo",
+			"num": 4,
+			"bar_length": "width:25%",
+			"bar_number": "44,851"
+		},
+		{
+			"app_id": "com.vevo",
+			"num": 3,
+			"bar_length": "width:13%",
+			"bar_number": "22,954"
+		},
+		{
+			"app_id": "com.vevo",
+			"num": 2,
+			"bar_length": "width:6%",
+			"bar_number": "10,975"
+		},
+		{
+			"app_id": "com.vevo",
+			"num": 1,
+			"bar_length": "width:13%",
+			"bar_number": "23,994"
+		},
+		{
+			"app_id": "com.cloudmusic.freemusic",
+			"num": 5,
+			"bar_length": "width:100%",
+			"bar_number": "4,490"
+		},
+		{
+			"app_id": "com.cloudmusic.freemusic",
+			"num": 4,
+			"bar_length": "width:14%",
+			"bar_number": "637"
+		},
+		{
+			"app_id": "com.cloudmusic.freemusic",
+			"num": 3,
+			"bar_length": "width:8%",
+			"bar_number": "372"
+		},
+		{
+			"app_id": "com.cloudmusic.freemusic",
+			"num": 2,
+			"bar_length": "width:3%",
+			"bar_number": "147"
+		},
+		{
+			"app_id": "com.cloudmusic.freemusic",
+			"num": 1,
+			"bar_length": "width:17%",
+			"bar_number": "799"
+		},
+		{
+			"app_id": "com.smule.magicpiano",
+			"num": 5,
+			"bar_length": "width:100%",
+			"bar_number": "584,793"
+		},
+		{
+			"app_id": "com.smule.magicpiano",
+			"num": 4,
+			"bar_length": "width:23%",
+			"bar_number": "137,596"
+		},
+		{
+			"app_id": "com.smule.magicpiano",
+			"num": 3,
+			"bar_length": "width:16%",
+			"bar_number": "95,556"
+		},
+		{
+			"app_id": "com.smule.magicpiano",
+			"num": 2,
+			"bar_length": "width:8%",
+			"bar_number": "51,520"
+		},
+		{
+			"app_id": "com.smule.magicpiano",
+			"num": 1,
+			"bar_length": "width:18%",
+			"bar_number": "107,845"
+		},
+		{
+			"app_id": "com.smule.singandroid",
+			"num": 5,
+			"bar_length": "width:100%",
+			"bar_number": "1,648,127"
+		},
+		{
+			"app_id": "com.smule.singandroid",
+			"num": 4,
+			"bar_length": "width:24%",
+			"bar_number": "397,269"
+		},
+		{
+			"app_id": "com.smule.singandroid",
+			"num": 3,
+			"bar_length": "width:16%",
+			"bar_number": "277,769"
+		},
+		{
+			"app_id": "com.smule.singandroid",
+			"num": 2,
+			"bar_length": "width:6%",
+			"bar_number": "107,982"
+		},
+		{
+			"app_id": "com.smule.singandroid",
+			"num": 1,
+			"bar_length": "width:14%",
+			"bar_number": "243,667"
+		},
+		{
+			"app_id": "com.google.android.apps.maps",
+			"num": 5,
+			"bar_length": "width:100%",
+			"bar_number": "5,488,432"
+		},
+		{
+			"app_id": "com.google.android.apps.maps",
+			"num": 4,
+			"bar_length": "width:29%",
+			"bar_number": "1,608,593"
+		},
+		{
+			"app_id": "com.google.android.apps.maps",
+			"num": 3,
+			"bar_length": "width:11%",
+			"bar_number": "616,480"
+		},
+		{
+			"app_id": "com.google.android.apps.maps",
+			"num": 2,
+			"bar_length": "width:4%",
+			"bar_number": "219,991"
+		},
+		{
+			"app_id": "com.google.android.apps.maps",
+			"num": 1,
+			"bar_length": "width:9%",
+			"bar_number": "513,471"
+		},
+		{
+			"app_id": "com.waze",
+			"num": 5,
+			"bar_length": "width:100%",
+			"bar_number": "4,855,669"
+		},
+		{
+			"app_id": "com.waze",
+			"num": 4,
+			"bar_length": "width:29%",
+			"bar_number": "1,420,902"
+		},
+		{
+			"app_id": "com.waze",
+			"num": 3,
+			"bar_length": "width:6%",
+			"bar_number": "318,952"
+		},
+		{
+			"app_id": "com.waze",
+			"num": 2,
+			"bar_length": "width:1%",
+			"bar_number": "96,512"
+		},
+		{
+			"app_id": "com.waze",
+			"num": 1,
+			"bar_length": "width:3%",
+			"bar_number": "150,506"
+		},
+		{
+			"app_id": "com.google.android.youtube",
+			"num": 5,
+			"bar_length": "width:100%",
+			"bar_number": "14,357,402"
+		},
+		{
+			"app_id": "com.google.android.youtube",
+			"num": 4,
+			"bar_length": "width:20%",
+			"bar_number": "3,009,118"
+		},
+		{
+			"app_id": "com.google.android.youtube",
+			"num": 3,
+			"bar_length": "width:10%",
+			"bar_number": "1,449,949"
+		},
+		{
+			"app_id": "com.google.android.youtube",
+			"num": 2,
+			"bar_length": "width:4%",
+			"bar_number": "678,429"
+		},
+		{
+			"app_id": "com.google.android.youtube",
+			"num": 1,
+			"bar_length": "width:13%",
+			"bar_number": "1,937,517"
+		},
+		{
+			"app_id": "com.instagram.android",
+			"num": 5,
+			"bar_length": "width:100%",
+			"bar_number": "39,676,219"
+		},
+		{
+			"app_id": "com.instagram.android",
+			"num": 4,
+			"bar_length": "width:23%",
+			"bar_number": "9,273,019"
+		},
+		{
+			"app_id": "com.instagram.android",
+			"num": 3,
+			"bar_length": "width:7%",
+			"bar_number": "3,091,487"
+		},
+		{
+			"app_id": "com.instagram.android",
+			"num": 2,
+			"bar_length": "width:2%",
+			"bar_number": "1,045,148"
+		},
+		{
+			"app_id": "com.instagram.android",
+			"num": 1,
+			"bar_length": "width:5%",
+			"bar_number": "2,117,915"
+		},
+		{
+			"app_id": "com.skype.raider",
+			"num": 5,
+			"bar_length": "width:100%",
+			"bar_number": "6,103,763"
+		},
+		{
+			"app_id": "com.skype.raider",
+			"num": 4,
+			"bar_length": "width:27%",
+			"bar_number": "1,653,617"
+		},
+		{
+			"app_id": "com.skype.raider",
+			"num": 3,
+			"bar_length": "width:14%",
+			"bar_number": "888,885"
+		},
+		{
+			"app_id": "com.skype.raider",
+			"num": 2,
+			"bar_length": "width:7%",
+			"bar_number": "436,639"
+		},
+		{
+			"app_id": "com.skype.raider",
+			"num": 1,
+			"bar_length": "width:17%",
+			"bar_number": "1,040,909"
+		},
+		{
+			"app_id": "com.mojang.minecraftpe",
+			"num": 5,
+			"bar_length": "width:100%",
+			"bar_number": "1,587,975"
+		},
+		{
+			"app_id": "com.mojang.minecraftpe",
+			"num": 4,
+			"bar_length": "width:12%",
+			"bar_number": "200,611"
+		},
+		{
+			"app_id": "com.mojang.minecraftpe",
+			"num": 3,
+			"bar_length": "width:6%",
+			"bar_number": "97,134"
+		},
+		{
+			"app_id": "com.mojang.minecraftpe",
+			"num": 2,
+			"bar_length": "width:3%",
+			"bar_number": "48,828"
+		},
+		{
+			"app_id": "com.mojang.minecraftpe",
+			"num": 1,
+			"bar_length": "width:7%",
+			"bar_number": "125,394"
+		},
+		{
+			"app_id": "com.nbadigital.gametimelite",
+			"num": 5,
+			"bar_length": "width:100%",
+			"bar_number": "71,145"
+		},
+		{
+			"app_id": "com.nbadigital.gametimelite",
+			"num": 4,
+			"bar_length": "width:23%",
+			"bar_number": "16,428"
+		},
+		{
+			"app_id": "com.nbadigital.gametimelite",
+			"num": 3,
+			"bar_length": "width:8%",
+			"bar_number": "6,125"
+		},
+		{
+			"app_id": "com.nbadigital.gametimelite",
+			"num": 2,
+			"bar_length": "width:4%",
+			"bar_number": "3,064"
+		},
+		{
+			"app_id": "com.nbadigital.gametimelite",
+			"num": 1,
+			"bar_length": "width:10%",
+			"bar_number": "7,498"
+		},
+		{
+			"app_id": "com.t2ksports.nba2k17android",
+			"num": 5,
+			"bar_length": "width:100%",
+			"bar_number": "7,492"
+		},
+		{
+			"app_id": "com.t2ksports.nba2k17android",
+			"num": 4,
+			"bar_length": "width:18%",
+			"bar_number": "1,370"
+		},
+		{
+			"app_id": "com.t2ksports.nba2k17android",
+			"num": 3,
+			"bar_length": "width:14%",
+			"bar_number": "1,092"
+		},
+		{
+			"app_id": "com.t2ksports.nba2k17android",
+			"num": 2,
+			"bar_length": "width:8%",
+			"bar_number": "658"
+		},
+		{
+			"app_id": "com.t2ksports.nba2k17android",
+			"num": 1,
+			"bar_length": "width:33%",
+			"bar_number": "2,473"
+		},
+		{
+			"app_id": "com.imangi.templerun",
+			"num": 5,
+			"bar_length": "width:100%",
+			"bar_number": "2,532,434"
+		},
+		{
+			"app_id": "com.imangi.templerun",
+			"num": 4,
+			"bar_length": "width:20%",
+			"bar_number": "518,855"
+		},
+		{
+			"app_id": "com.imangi.templerun",
+			"num": 3,
+			"bar_length": "width:10%",
+			"bar_number": "265,427"
+		},
+		{
+			"app_id": "com.imangi.templerun",
+			"num": 2,
+			"bar_length": "width:5%",
+			"bar_number": "129,078"
+		},
+		{
+			"app_id": "com.imangi.templerun",
+			"num": 1,
+			"bar_length": "width:9%",
+			"bar_number": "253,033"
+		}
+	]
+}

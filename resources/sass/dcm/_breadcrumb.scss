@@ -1,0 +1,13 @@
+//
+// Breadcrumb
+// --------------------------------------------------
+
+.breadcrumb.breadcrumb-alt {
+    .breadcrumb-item + .breadcrumb-item::before {
+        position: relative;
+        top: 1px;
+        width: 1.25rem;
+        font-size: $font-size-sm;
+        content: "\2215";
+    }
+}

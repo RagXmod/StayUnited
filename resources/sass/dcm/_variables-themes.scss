@@ -1,0 +1,51 @@
+//
+// Themes variables
+// --------------------------------------------------
+
+
+
+// xInspire Theme
+
+$dcm-green-primary:                       #00a680 !default;
+$dcm-green-light:                         #36c396 !default;
+$dcm-green-lighter:                       lighten($dcm-green-light, 25%) !default;
+$dcm-green-dark:                          darken($dcm-green-primary, 7.5%) !default;
+$dcm-green-darker:                        darken($dcm-green-primary, 15%) !default;
+
+$dcm-green-body-bg:                       #f0f5f3 !default;
+$dcm-green-body-bg-dark:                  darken($dcm-green-body-bg, 4%) !default;
+$dcm-green-body-bg-light:                 lighten($dcm-green-body-bg, 2%) !default;
+
+$dcm-green-body-color:                    $body-color !default;
+$dcm-green-body-color-dark:               $body-color-dark !default;
+$dcm-green-body-color-light:              $dcm-green-body-bg-dark !default;
+
+$dcm-green-link-color:                    $dcm-green-primary !default;
+$dcm-green-link-hover-color:              darken($dcm-green-primary, 20%) !default;
+
+$dcm-green-headings-color:                $dcm-green-body-color-dark !default;
+
+$dcm-green-input-btn-focus-color:         rgba($dcm-green-primary, .25) !default;
+$dcm-green-input-btn-focus-box-shadow:    0 0 0 $input-btn-focus-width $dcm-green-input-btn-focus-color !default;
+
+$dcm-green-input-bg:                      $white !default;
+$dcm-green-input-color:                   $dcm-green-body-color !default;
+$dcm-green-input-border-color:            darken($dcm-green-body-bg, 8%) !default;
+
+$dcm-green-input-focus-bg:                $white !default;
+$dcm-green-input-focus-color:             $dcm-green-body-color-dark !default;
+$dcm-green-input-focus-border-color:      lighten($dcm-green-primary, 10%) !default;
+
+$dcm-green-header-bg:                     $white !default;
+$dcm-green-header-dark-bg:                $dcm-green-primary !default;
+$dcm-green-sidebar-bg:                    $white !default;
+$dcm-green-sidebar-dark-bg:               #353e3c !default;
+$dcm-green-side-overlay-bg:               $white !default;
+
+$dcm-green-main-nav-link-icon-color:      $dcm-green-primary !default;
+$dcm-green-main-nav-link-hover-bg:        $dcm-green-body-bg-dark !default;
+$dcm-green-main-nav-submenu-bg:           $dcm-green-body-bg !default;
+
+$dcm-green-main-nav-link-icon-dark-color: $dcm-green-lighter !default;
+$dcm-green-main-nav-link-dark-hover-bg:   darken($dcm-green-sidebar-dark-bg, 10%) !default;
+$dcm-green-main-nav-submenu-dark-bg:      darken($dcm-green-sidebar-dark-bg, 5%) !default;

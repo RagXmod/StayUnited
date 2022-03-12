@@ -1,0 +1,19 @@
+{
+    "name": "User",
+    "alias": "user",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\User\\Providers\\AuthServiceProvider",
+        "Modules\\User\\Providers\\UserServiceProvider",
+        "Modules\\User\\Providers\\EventServiceProvider",
+        "Modules\\User\\Providers\\ComposerServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

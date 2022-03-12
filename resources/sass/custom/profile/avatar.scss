@@ -1,0 +1,52 @@
+ $gray-500: #adb5bd !default;
+
+ .btn-rounded {
+    border-radius: 2em;
+  }
+
+  .btn-upload {
+    width: 100px;
+    height: 100px;
+    padding: 6px 0;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 1.428571429;
+    font-size: 55px;
+    color: #ccc;
+  }
+
+  .btn-icon {
+    padding: 3px 5px;
+    color: $gray-500;
+  }
+
+  .btn-upload {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .btn-upload input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+  }
+
+  .profile-photo img:hover, .btn-upload:hover {
+    background-color: #fff;
+    border: 2px solid #047aff;
+    cursor: pointer;
+  }
+
+  .profile-photo img {
+    width: 100px;
+  }

@@ -1,0 +1,170 @@
+//
+// Custom Main
+//
+// Add your own styles or override existing ones
+//
+// This file is included last, so you have access
+// to all Bootstrap and Dashmix functions/mixins/styles etc
+// --------------------------------------------------
+
+// If you have many custom styles, you can create and import additional files
+// For example you can create _component1.scss and include it as follows:
+// @import 'component1';
+
+
+
+.dcm-logo img {
+    max-width: 120px;
+}
+
+
+.bg-gd-fruit {
+    background: #a6d86f linear-gradient(135deg, #a6d86f 0%, #44dab0 100%) !important;
+}
+
+
+.bg-light {
+    border-bottom: 1px solid #e8e8e8 !important;
+
+}
+
+.block {
+    &.block-themed {
+        box-shadow: 0 2px 3px 0 rgba(0,0,0,0.15);
+        margin-bottom: 20px;
+
+        > .block-header {
+
+            > .block-title {
+                color: #666 !important;
+            }
+        }
+
+        .btn-block-option {
+            color: #666 !important;
+        }
+
+        .app-title {
+            font-size: 0.8rem;
+       }
+   }
+}
+
+.block-content {
+    &.block-content-no-pad {
+        padding: 1rem 1rem 1px !important;
+    }
+
+    &.block-content-full {
+        padding-bottom: 1.25rem;
+    }
+    :hover .block-app-download {
+        display: inline-block;
+    }
+
+    &.block-content-hover {
+        :hover .stars {
+            display:none;
+        }
+    }
+
+
+    .item.block-app-image {
+        width: 4rem !important;
+        height: auto  !important;
+
+        :hover {
+            width: 4rem !important;
+            height: auto  !important;
+        }
+    }
+
+
+}
+
+.stars-detail {
+    background: url(../svg/star.svg) repeat-x;
+    height: 25px;
+    width: 75px;
+    clear: both;
+    direction: ltr;
+    position: relative;
+}
+
+.stars-detail span.score {
+    display: block;
+    background: url(../svg/stars.svg) repeat-x;
+    height: 15px;
+    width: 75px;
+}
+
+.stars {
+    background: url(../svg/star.svg) repeat-x;
+    height: 25px;
+    width: 75px;
+    clear: both;
+    direction: ltr;
+    position: relative;
+    margin-left: auto;
+}
+
+.stars span.score {
+    display: block;
+    background: url(../svg/stars.svg) repeat-x;
+    height: 15px;
+    width: 75px;
+}
+
+div.block.block-link-shadow:hover, a.block.block-link-shadow:hover {
+    background-color: #f0f5f3;
+    box-shadow: 0 0.1rem 0.1rem #e4e4e4 !important;
+}
+
+
+
+.block-app-download {
+    display:none;
+
+    &.btn-sm {
+        font-size: 0.5875rem;
+    }
+}
+
+
+.is-active {
+    background-color: #f0f5f3 !important;
+    box-shadow: 0 0.1rem 0.1rem #e4e4e4 !important;
+}
+
+
+.block-content {
+    &.block-content-admin {
+        // padding: 0.15rem 0.15rem 12px !important;
+
+        :hover .block-app-download {
+            display: block  !important;
+        }
+        :hover .stars {
+            display:block !important;
+        }
+
+        div.block.block-link-shadow:hover, a.block.block-link-shadow:hover {
+            background-color: transparent !important;
+            box-shadow: 0 0.1rem 0.1rem transparent !important;
+        }
+    }
+}
+
+@include media-breakpoint-up(sm) {
+
+
+    .block-content {
+        &.block-content-admin {
+            // padding: 0.15rem 0.15rem 12px !important;
+
+            .item.block-app-image {
+                width: 5rem !important;
+            }
+        }
+    }
+}

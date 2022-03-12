@@ -1,0 +1,101 @@
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+
+#img-upload{
+    width: 100%;
+}
+
+
+.wrap-uploader .uploader {
+    float: left;
+    margin: 0 26px 20px 0;
+    width: 45%;
+}
+
+.wrap-uploader .uploader .drop-zone {
+    height: 100px;
+    border: 1px dashed #999999;
+    text-align: center;
+    position: relative;
+    font-size: 20px;
+    color: #4d4d4d;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.wrap-uploader .uploader .drop-zone .img-arrow {
+    position: absolute;
+    font-size: 150px;
+    top: -68px;
+    right: -26px;
+    z-index: 0;
+    -webkit-opacity: 0.1;
+    /* Chrome,Safari4+ */
+    -moz-opacity: 0.1;
+    /* FF3.6+ */
+    -ms-opacity: 0.1;
+    -o-opacity: 0.1;
+    opacity: 0.1;
+    filter: progid:DXImageTransform.Microsoft.Alpha(opacity=10);
+    filter: alpha(opacity=10);
+}
+
+.wrap-uploader .uploader .drop-zone .content {
+    margin-top: 30px;
+    font-size: 13px;
+    z-index: 10;
+}
+
+.wrap-uploader .uploader .drop-zone .content .btn-browse {
+    cursor: pointer;
+    color: #ffffff;
+    margin: auto;
+    background-color: #4a7dba;
+    font-size: 10px;
+    padding: 2px 2px 2px 4px;
+    border: 0;
+    width: 80px;
+    border-radius: 5px;
+    margin-top: 4px;
+    position: relative;
+}
+
+.wrap-uploader .uploader .drop-zone .content .btn-browse:hover {
+    background-color: #4499DD;
+}
+
+.wrap-uploader .uploader .drop-zone .content .btn-browse .input-uploader {
+    position: absolute;
+    cursor: pointer;
+    left: 0px;
+    top: 0px;
+    border: 1px solid;
+    -webkit-opacity: 0;
+    /* Chrome,Safari4+ */
+    -moz-opacity: 0;
+    /* FF3.6+ */
+    -ms-opacity: 0;
+    -o-opacity: 0;
+    opacity: 0;
+    filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0);
+    filter: alpha(opacity=0);
+    height: 20px;
+    width: 80px;
+}

@@ -1,0 +1,25 @@
+{
+    "name": "dcm/user",
+    "description": "",
+    "authors": [
+        {
+            "name": "Anthony Pillos",
+            "email": "dev.anthonypillos@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Configuration\\Providers\\ConfigurationServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Configuration\\": ""
+        }
+    }
+}

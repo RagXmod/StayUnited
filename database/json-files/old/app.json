@@ -1,0 +1,1429 @@
+{
+	"data":
+	[
+		{
+			"id": 1,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.facebook.katana",
+			"title": "Facebook",
+			"slug": "facebook",
+			"short_description": "Keeping up with friends is faster and easier than ever. Share updates and photos, engage with friends and Pages, and stay connected to communities important to you. Features on the Facebook app includ...",
+			"description": "Keeping up with friends is faster and easier than ever. Share updates and photos, engage with friends and Pages, and stay connected to communities important to you. <br><br>Features on the Facebook app include:<br><br>* Connect with friends and family and meet new people on your social media network<br>* Set status updates &amp; use Facebook emoji to help relay what’s going on in your world<br>* Share photos, videos, and your favorite memories.<br>* Get notifications when friends like and comment on your posts<br>* Find local social events, and make plans to meet up with friends<br>* Play games with any of your Facebook friends<br>* Backup photos by saving them in albums<br>* Follow your favorite artists, websites, and companies to get their latest news<br>* Look up local businesses to see reviews, operation hours, and pictures<br>* Buy and sell locally on Facebook Marketplace<br>* Watch live videos on the go<br><br><br>The Facebook app does more than help you stay connected with your friends and interests. It's also your personal organizer for storing, saving and sharing photos. It's easy to share photos straight from your Android camera, and you have full control over your photos and privacy settings. You can choose when to keep individual photos private or even set up a secret photo album to control who sees it.<br><br>Facebook also helps you keep up with the latest news and current events around the world. Subscribe to your favorite celebrities, brands, news sources, artists, or sports teams to follow their newsfeeds, watch live streaming videos and be caught up on the latest happenings no matter where you are!<br><br>The most important desktop features of Facebook are also available on the app, such as writing on timelines, liking photos, browsing for people, and editing your profile and groups. <br><br>Now you can get early access to the next version of Facebook for Android by becoming a beta tester. Learn how to sign up, give feedback and leave the program in our Help Center: http://on.fb.me/133NwuP <br><br>Sign up directly here: <br>http://play.google.com/apps/testing/com.facebook.katana<br><br>Problems downloading or installing the app? See http://bit.ly/GPDownload1<br>Still need help? Please tell us more about the issue. http://bit.ly/invalidpackage<br><br>Facebook is only available for users age 13 and over.<br>Terms of Service: http://m.facebook.com/terms.php.",
+			"app_link": "https://play.google.com/store/apps/details?id=com.facebook.katana",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLmZhY2Vib29rLmthdGFuYV9pY29uXzE1NTc5OTAwMzBfMDIz/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.45",
+			"total_ratings": "387459",
+			"seo_title": "Facebook",
+			"seo_keyword": "facebook,facebook-for-android,facebook-android-download,facebook-apk,facebook-android-apk,facebook-download",
+			"seo_description": "Download Facebook apk 226.0.0.49.120 for Android. Find friends, watch live videos, play games &amp; save photos in your social network",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:35:38",
+			"deleted_at": null
+		},
+		{
+			"id": 2,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.facebook.orca",
+			"title": "Messenger",
+			"slug": "messenger",
+			"short_description": "Be together whenever with a simple way to text, video chat and rally the group.* SEND A MESSAGE -Skip exchanging phone numbers, just send a message. It's seamless across devices.* CUT DOWN GLARE WITH...",
+			"description": "Be together whenever with a simple way to text, video chat and rally the group.<br><br>* SEND A MESSAGE -Skip exchanging phone numbers, just send a message. It's seamless across devices.<br>* CUT DOWN GLARE WITH DARK MODE. Dark mode is a sleek new look that goes easy on the eyes by switching the background from white to black.<br>* SHOW YOUR REACTION - Add a silly sticker, send a dancing GIF and use emojis to express yourself better.<br>* SHARE PHOTOS AND VIDEOS - Capture the moment with the Messenger Camera, add a filter or doodle, then send to friends or share to Stories.<br>* RALLY THE GROUP - Make plans to get together with polls, share your location, split the bill and more.<br>* HOP ON A CALL OR VIDEO CHAT - Hang out anywhere, anytime by getting on call or a group video** chat — filters optional :) **Calls are free over Wi-Fi but otherwise standard data charges apply.<br>* SEND A VOICE MESSAGE - When text just won't cut it, just hit record and send say, sing or shout it out loud.<br>* SEND MONEY SECURELY AND EASILY (within US, UK and France only) - Send and receive money from friends in the app by adding your debit card or PayPal* account. *PayPal available in the US only.<br>* SHARE YOUR LOCATION - Suggest a meeting spot or tell friends where you are by sharing your location with just a few taps.<br>* CHAT WITH BUSINESSES - Easily connect with your favorite businesses to make reservations, get customer support, find deals and more.<br>* PLAY GAMES WITH FRIENDS - Challenge friends, climb leaderboards, and discover your next gaming obsession.<br>* BRING SMS INTO MESSENGER - No need to open multiple apps to stay in touch. Use one app for SMS and Messenger.",
+			"app_link": "https://play.google.com/store/apps/details?id=com.facebook.orca",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLmZhY2Vib29rLm9yY2FfaWNvbl8xNTU1NDY0Nzc5XzAxNQ/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.45",
+			"total_ratings": "299469",
+			"seo_title": "Messenger",
+			"seo_keyword": "messenger,messenger-for-android,messenger-android-download,messenger-apk,messenger-android-apk,messenger-download",
+			"seo_description": "Download Messenger apk 220.0.0.20.121 for Android. Be together whenever with a simple way to text, video chat and rally the group.",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:35:41",
+			"deleted_at": null
+		},
+		{
+			"id": 3,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.instagram.android",
+			"title": "Instagram",
+			"slug": "instagram",
+			"short_description": "Instagram is a simple way to capture and share the world’s moments. Follow your friends and family to see what they’re up to, and discover accounts from all over the world that are sharing things you...",
+			"description": "Instagram is a simple way to capture and share the world’s moments. Follow your friends and family to see what they’re up to, and discover accounts from all over the world that are sharing things you love. Join the community of over 1 billion people and express yourself by sharing all the moments of your day — the highlights and everything in between, too.<br><br>Use Instagram to:<br><br>* Post photos and videos you want to keep on your profile grid. Edit them with filters and creative tools and combine multiple clips into one video.<br>* Browse photos and videos from people you follow in your feed. Interact with posts you care about with likes and comments.<br>* Share multiple photos and videos (as many as you want!) to your story. Bring them to life with text, drawing tools and other creative effects. . They disappear after 24 hours and won’t appear on your profile grid or in feed.<br>* Go live to connect with your friends in the moment. Try going live with a friend and sharing a replay to your story when you’re done.<br>* Message your friends privately in Direct. Send them photos and videos that disappear and share content you see on Instagram.<br>* Watch stories and live videos from the people you follow in a bar at the top of your feed.<br>* Discover photos, videos and stories you might like and follow new accounts on the Explore tab.",
+			"app_link": "https://play.google.com/store/apps/details?id=com.instagram.android",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLmluc3RhZ3JhbS5hbmRyb2lkX2ljb25fMTU1NTQ0NDM0N18wMTk/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.65",
+			"total_ratings": "1957989",
+			"seo_title": "Instagram",
+			"seo_keyword": "instagram,instagram-for-android,instagram-android-download,instagram-apk,instagram-android-apk,instagram-download",
+			"seo_description": "Download Instagram apk 98.0.0.15.119 for Android. Instagram – Like, capture and share the world’s moments",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:35:44",
+			"deleted_at": null
+		},
+		{
+			"id": 4,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.google.android.youtube",
+			"title": "YouTube",
+			"slug": "youtube",
+			"short_description": "Get the official YouTube app for Android phones and tablets. See what the world is watching -- from the hottest music videos to what’s trending in gaming, entertainment, news, and more. Subscribe to c...",
+			"description": "Get the official YouTube app for Android phones and tablets. See what the world is watching -- from the hottest music videos to what’s trending in gaming, entertainment, news, and more. Subscribe to channels you love, share with friends, and watch on any device.<br><br>With a new design, you can have fun exploring videos you love more easily and quickly than before. Just tap an icon or swipe to switch between recommended videos, your subscriptions, or your account. You can also subscribe to your favorite channels, create playlists, edit and upload videos, express yourself with comments or shares, cast a video to your TV, and more – all from inside the app.<br><br>FIND VIDEOS YOU LOVE FAST<br><br>• Browse personal recommendations on the Home tab<br><br>• See the latest from your favorite channels on the Subscriptions tab<br><br>• Look up videos you’ve watched and liked on the Account tab<br><br>CONNECT AND SHARE<br><br>• Let people know how you feel with likes, comments, and shares<br><br>• Upload and edit your own videos with filters and music – all inside the app",
+			"app_link": "https://play.google.com/store/apps/details?id=com.google.android.youtube",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLmdvb2dsZS5hbmRyb2lkLnlvdXR1YmVfaWNvbl8xNTU1MTE3NTQ3XzA5NA/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.05",
+			"total_ratings": "1300695",
+			"seo_title": "YouTube",
+			"seo_keyword": "youtube,youtube-for-android,youtube-android-download,youtube-apk,youtube-android-apk,youtube-download",
+			"seo_description": "Download YouTube apk 14.23.50 for Android. Enjoy your favorite videos and channels with the official YouTube app.",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:35:47",
+			"deleted_at": null
+		},
+		{
+			"id": 5,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.game.JewelsStar",
+			"title": "Jewels Star",
+			"slug": "jewels-star",
+			"short_description": "Another classic Match-3 game launch on Android Market.Your mission is to win Jewels Star, pass the levels and try to get all stars in each level.How to play:1: Match 3 or more identical jewels.2: Matc...",
+			"description": "Another classic Match-3 game launch on Android Market.<br>Your mission is to win Jewels Star, pass the levels and try to get all stars in each level.<br><br>How to play:<br>1: Match 3 or more identical jewels.<br>2: Match the jewels until the board transparency,the Jewels star will appear.<br>3: Make the jewels star down to last line to pass the level.<br>Tips: Eliminate the jewels quickly can get extra scores.<br><br>Features:<br>- More than 350 levels and 8 pretty scenes in the game, including starry sky,mountains,snow world and so on.<br>- Match 4 jewels can win the jewel's bomb and 1 lighting.<br>- Match 5 jewels can win color-changing jewels and 2 lightings.<br>- Eliminate 20 jewels continuous can win 1 lighting.<br>- The jeweled bomb can eliminate the jewels around.<br>- The Color-changing jewel can eliminate to any other colored jewel.<br>- The Timing Jewel can extend the playing time.<br>- The lightning Jewel can eliminate jewels in one row.<br>- For the chained jewel,you can eliminate the jewels around to unlock it.<br>- For the frozen jewel,you can eliminate the jewels around to release it.",
+			"app_link": "https://play.google.com/store/apps/details?id=com.game.JewelsStar",
+			"app_image_url": "https://image.winudf.com/v2/image/Y29tLmdhbWUuSmV3ZWxzU3Rhcl9pY29uXzE1MjU3MjY2MTJfMDc1/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.35",
+			"total_ratings": "188507",
+			"seo_title": "Jewels Star",
+			"seo_keyword": "jewels-star,jewels-star-for-android,jewels-star-android-download,jewels-star-apk,jewels-star-android-apk,jewels-star-download",
+			"seo_description": "Download Jewels Star apk 3.33.52 for Android. Fun and addictive Match-3 game!",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:35:50",
+			"deleted_at": null
+		},
+		{
+			"id": 6,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.application.zomato",
+			"title": "Zomato",
+			"slug": "zomato",
+			"short_description": "Zomato lets you search for and discover restaurants to eat out at or order in from. Browse through restaurant menus, photos, user reviews and ratings to decide where you want to eat, and use the map f...",
+			"description": "Zomato lets you search for and discover restaurants to eat out at or order in from. Browse through restaurant menus, photos, user reviews and ratings to decide where you want to eat, and use the map feature to guide you there.<br><br>If you are in India, UAE, or Lebanon, you can also order food online for delivery, with thousands of great food delivery restaurants to choose from.<br><br>Features:<br>* Search easily for Restaurants, Cafes, Pubs and Bars by location, cuisine (e.g. Chinese, Italian, Indian), name (e.g. Starbucks, Domino's Pizza, Amaya).<br>* Explore every restaurant in your city, including the ones near your current location, and use search filters to find the one that suits you best.<br>* View menus, pictures, phone numbers, directions, user reviews, and all the other information you need to choose a restaurant for Dine Out, Food Delivery, Nightlife, or Takeaway.<br>* Browse our theme-based curated lists to discover places for the best burgers, perfect date spots, or the top trending restaurants.<br>* Rate and review restaurants you've been to, and share photos of your foodie moments directly from the app.<br>* Maintain an easy reference list of your favorites or places you want to visit with Bookmarks.<br>* Use the map view to explore restaurants around you, or draw a circle to search in a specific area.<br>* Find and follow your friends to see where they're eating and what they like.<br>* Journal the restaurants you eat at using your Dineline.<br>* In-app table booking (select locations) – you can view and book yourself a table at all partner restaurants.<br><br>Permissions Requested:<br>* Camera - To take photos of food and restaurants for reviews.<br>* Contacts - To get your Google account information for signing in Zomato via Google.<br>* Location - To identify your location and show the restaurants closest to you.<br>* Phone - To make calls to the restaurant directly from the Restaurant listing.<br>* SMS - To read OTP required for phone number verification while placing an Online Order.<br>* Storage - To store photos captured by you and to access photos to be published with your reviews. <br>* Phone state - To identify cellular network information for optimising performance on low bandwidth network.<br><br><br>Zomato is now available in over 10,000 cities across India, the <br>USA, Australia, the UK, UAE, Canada, Ireland, New Zealand, South Africa, Portugal, the Philippines, Indonesia, Turkey, the Czech Republic, Slovakia, Poland, Chile, Italy, Lebanon, Brazil, Sri Lanka, and Qatar. More locations coming very soon.<br><br>USA, Australia, and Canada – we were previously called Urbanspoon in your countries.",
+			"app_link": "https://play.google.com/store/apps/details?id=com.application.zomato",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLmFwcGxpY2F0aW9uLnpvbWF0b19pY29uXzE1NTc2MDI2NjFfMDcx/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.1",
+			"total_ratings": "281285",
+			"seo_title": "Zomato",
+			"seo_keyword": "zomato,zomato-for-android,zomato-android-download,zomato-apk,zomato-android-apk,zomato-download",
+			"seo_description": "Download Zomato apk 13.2.7 for Android. Discover great restaurants to dine out or order food for quick home delivery.",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:35:53",
+			"deleted_at": null
+		},
+		{
+			"id": 7,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.mobile.legends",
+			"title": "Mobile Legends: Bang Bang",
+			"slug": "mobile-legends-bang-bang",
+			"short_description": "Mobile Legends Bang Bang is one of the most popular multiplayer online battle arena (MOBA) game in southeast Aisa. Mobile Legends has a little bit of similarities to the popular MOBAs on PC League of...",
+			"description": "<b>Mobile Legends Bang Bang</b> is one of the most popular multiplayer online battle arena (MOBA) game in southeast Aisa. Mobile Legends has a little bit of similarities to the popular MOBAs on PC League of Legends but designed only for Android&amp;iOS smartphones and tablets. Good graphic and easy to control, different types of historical and mythical hero characters designed. Be sure you will play this game with a good Wifi connection, just because network latency will help your opponent kill your hero to death in game. <b><a href=\"https://apkpure.com/url?q=https%3A%2F%2Fapkpure.com%2Fmobile-legends-bang-bang%2Fcom.mobile.legends\" rel=\"nofollow\" target=\"_blank\" title=\"Download Mobile Legends\">Download Mobile Legends Bang Bang</a> on APKPure and play today!<br></b><br>
+
+Join your friends in a brand new 5v5 MOBA showdown against real human opponents, Mobile Legends! Choose your favorite heroes and build the perfect team with your comrades-in-arms! 10-second matchmaking, 10-minute battles. Laning, jungling, tower rushing, team battles, all the fun of PC MOBAs and action games in the palm of your hand! Feed your eSports spirit!<br><br>
+
+Mobile Legends, 2017’s brand new mobile eSports masterpiece. Shatter your opponents with the touch of your finger and claim the crown of strongest Challenger!<br><br>
+
+Your phone thirsts for battle!<br><br><b>Mobile Legends Top Features: </b><br><br><b>
+
+1. Classic MOBA Maps, 5v5 Battles </b><br>
+Real-time 5v5 battles against real opponents. Fight over 3 lanes to take the enemy’s tower. 4 jungle areas. 18 defense towers. 2 Wild Bosses. Complete reproductions of classic MOBA maps. Full-on 5v5, Human vs. Human battles. A triumphant return to genuine MOBA gameplay.<br><br><b>
+
+2. Win with Teamwork &amp; Strategy </b><br>
+Block damage, control the enemy, and heal teammates! Choose from Tanks, Mages, Marksmen, Assassins, Supports, etc. to anchor your team or be match MVP! New heroes are constantly being released!<br><br><b>
+
+3. Fair Fights, Carry Your Team to Victory </b><br>
+Just like classic MOBAs, there is no hero training or paying for stats. Winners and losers are decided based on skill and ability on this fair and balanced platform for competitive gaming. Play to Win, not Pay to Win.<br><br><b>
+
+4. Simple Controls, Easy to Master </b><br>
+With a virtual joystick on the left and skill buttons on the right, 2 fingers are all you need to become a master! Autolock and target sifting allow you to last hit to your heart’s content. Never miss! And a convenient tap-to-equip system lets you focus on the thrill of battle!<br><br><b>
+
+5. 10 Second Matchmaking, 10 Minute Matches </b><br>
+Matchmaking only takes 10 seconds, and battles last 10 minutes, glossing over the quiet early-game leveling up and jumping right into intense battles. Less boring waiting and repetitive farming, and more thrilling action and fist-pumping victories. At any place, at any moment, just pick up your phone, fire up the game, and immerse yourself in heart-pounding MOBA competition.<br><br><b>
+
+6. Smart Offline AI Assistance </b><br>
+In most MOBAs, a dropped connection means hanging your team out to dry, but with Mobile Legends’s powerful reconnection system, if you get dropped, you can be back in the battle in seconds. And while you’re offline, your character will be controlled by our AI system to avoid a 5-on-4 situation.<br><br>
+
+PLEASE NOTE! Mobile Legends: Bang bang is free to download and play, however some game items can also be purchased for real money. If you do not want to use this feature, please set up password protection for purchases in the settings of your Google Play Store app. Also, under our Terms of Service and Privacy Policy, you must be at least 12 years of age to play or download Mobile Legends: Bang bang.",
+			"app_link": "https://play.google.com/store/apps/details?id=com.mobile.legends",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLm1vYmlsZS5sZWdlbmRzX2ljb25fMTU1NTM4Nzg3M18wMTk/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.35",
+			"total_ratings": "405037",
+			"seo_title": "Mobile Legends: Bang Bang",
+			"seo_keyword": "mobile-legends-bang-bang-apk,mobile-legends-bang-bang-apk-download,mobile-legends-bang-bang-download,mobile-legends-bang-bangapk,mobile-legends-bang-bang-android,mobile-legends",
+			"seo_description": "Download Mobile Legends: Bang Bang apk 1.3.81.4061 for Android. Enjoy the Classic MOBA on Your Mobile. Challenge Top Players All Over the World!",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:35:56",
+			"deleted_at": null
+		},
+		{
+			"id": 8,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.king.candycrushsaga",
+			"title": "Candy Crush Saga",
+			"slug": "candy-crush-saga",
+			"short_description": "Join Tiffi and Mr. Toffee in their sweet adventure through the wonderful Candy Kingdom. Switch and match your way through hundreds of levels in this delicious puzzle adventure. Isn't it the sweetest g...",
+			"description": "<div>Join Tiffi and Mr. Toffee in their sweet adventure through the wonderful Candy Kingdom. Switch and match your way through hundreds of levels in this delicious puzzle adventure. Isn't it the sweetest game ever? Take on this deliciously sweet saga alone or play with friends to see who can get the highest score!</div>
+<div><br></div>
+<div>Candy Crush Saga is a sweet and charming puzzle game, which contains some relevant social information. Each player should match the different types of candies, and create a connection for them, then they will disappear. The whole game contains up to more than 200 levels to open a new candy adventure for every player.</div>
+<div><br></div>
+<div>The game is very simple and easy to play and to get started, but to achieve the master level still has a considerable difficulty. Because in the game you need to focus on how to move the different color of candies, and connect them together to achieve the purpose of disappearing.</div>
+<div><br></div>
+<div>Candy Crush Saga offers a variety of different game modes. The general model is the most representative one, which contains hundreds of different game levels. You need to pass all the levels in order to proceed to the next step. In any case, you could explore a mysterious journey in the world full of jelly, candy and other sweets.</div>
+<div><br></div>
+<div>The game is based on the theme of candy, the basic rule is eliminating candies that line in three to five. To get higher scores in the game, you need to put the same kind candies together and then detonating them, the effects will be different. The hurdles of game will be unlocked one by one, and every fifteen levels passed you could invite Facebook friends to unlock a longer trip. The first twenty hurdles will be unlocked directly, however, it need train tickets (sometimes the boat ticket, or airline ticket) after 35th levels.</div>
+<div><br></div>
+<p>------------------------------- </p>
+<p><span style=\"line-height: 1.42857;\">Candy Crush Saga features:</span><br></p>
+<p>● Collect sugar drops to advance along the sugar track for special suprises!</p>
+<p>● Tasty candy graphics that will leave you hungry for more</p>
+<p>● Unwrap delicious environments and meet the sweetest characters</p>
+<p>● Helpful magical boosters to help with challenging levels </p>
+<p>● Complete adventurous levels and unlock treats</p>
+<p>● Easy and fun to play, challenging to master </p>
+<p>● Hundreds of sweet levels in the Candy Kingdom - more added every 2 weeks!</p>
+<p>● Leaderboards to watch your friends and competitors!</p>
+<p>● Easily sync the game between devices and unlock full game features when connected to the Internet</p>
+<p>-------------------------------</p>
+<p class=\"MsoNormal\"><span style=\"font-weight: bold;\"><a name=\"OLE_LINK2\"></a></span><a name=\"OLE_LINK1\"><span lang=\"EN-US\"><span style=\"font-weight: bold; font-size: 18px;\">How to Win Candy Crush Saga?</span><p></p></span></a></p>
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:-18.0pt;
+mso-char-indent-count:0;mso-list:l0 level1 lfo1\"><!--[if !supportLists]--><span style=\"font-weight: bold;\"><span lang=\"EN-US\">1.<span style=\"font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">      
+</span></span><!--[endif]--></span><span lang=\"EN-US\"><span style=\"font-weight: bold;\">Create Power Candies</span><p></p></span></p>
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:
+0\"><span lang=\"EN-US\">Striped candy by adding four candy horizontally or vertically.<p></p></span></p>
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:
+0\"><span lang=\"EN-US\">Wrapped candy by creating two three-match combination in a single
+move. Like letter ‘T’ or ’L’<p></p></span></p>
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:
+0\"><span lang=\"EN-US\">Color bomb by aligning four candies of the same color.<p></p></span></p>
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:-18.0pt;
+mso-char-indent-count:0;mso-list:l0 level1 lfo1\"><!--[if !supportLists]--><span style=\"font-weight: bold;\"><span lang=\"EN-US\">2.<span style=\"font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">      
+</span></span><!--[endif]--></span><span lang=\"EN-US\"><span style=\"font-weight: bold;\">Save up Power Candies to Get Super
+Combos</span><p></p></span></p>
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:
+0\"><span lang=\"EN-US\">Don’t use power candies as soon as you get them. Combine power-up
+candies and get more powerful.<p></p></span></p>
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:
+0\"><span lang=\"EN-US\">Use rainbow sprinkles, pink crusted doughnuts, jelly fishes, striped
+candies, wrapped candies and color bombs etc.<p></p></span></p>
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:
+0\"><span lang=\"EN-US\">Swap two striped candies to clear candies horizontally and
+vertically.<p></p></span></p>
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:
+0\"><span lang=\"EN-US\">Swap two wrapped candies to clear a five by five explosion of
+candies surrounding it.<p></p></span></p>
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:
+0\"><span lang=\"EN-US\">Swap two color bombs to clear all the visible candies in the play
+area. This is the most powerful.<p></p></span></p>
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:
+0\"><span lang=\"EN-US\">Swap a striped candy with a wrapped candy to clear three
+rows/columns of candies horizontally and vertically.<p></p></span></p>
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:
+0\"><span lang=\"EN-US\">Swap a striped candy with a color bomb and it can upgrade all the
+candies on the same color as striped candy.<p></p></span></p>
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:
+0\"><span lang=\"EN-US\">Swap a wrapped candy with a color bomb and it can upgrade all the
+candies on the same color as wrapped candy.<p></p></span></p>
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:-18.0pt;
+mso-char-indent-count:0;mso-list:l0 level1 lfo1\"><!--[if !supportLists]--><span style=\"font-weight: bold;\"><span lang=\"EN-US\">3.<span style=\"font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">      
+</span></span><!--[endif]--></span><span lang=\"EN-US\"><span style=\"font-weight: bold;\">Remember your Mission</span><p></p></span></p>
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:
+0\"><span lang=\"EN-US\">Do remember your mission and don’t be busy creating super combos.<p></p></span></p>
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:
+0\"><span lang=\"EN-US\">Missions are:<p></p></span></p>
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:
+0\"><span lang=\"EN-US\">Moves levels. Jelly levels. Timed levels. Ingredient Drop levels.
+Candy Order levels etc.<p></p></span></p>
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:-18.0pt;
+mso-char-indent-count:0;mso-list:l0 level1 lfo1\"><!--[if !supportLists]--><span style=\"font-weight: bold;\"><span lang=\"EN-US\">4.<span style=\"font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">      
+</span></span><!--[endif]--></span><span lang=\"EN-US\"><span style=\"font-weight: bold;\">Pay Attention to Those Jellies
+on the Edge.</span><p></p></span></p>
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:
+0\"><span lang=\"EN-US\">These jellies are more difficult to clear because of their position
+so always remember to clear them first and you will have more chances to win. </span></p>
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:
+0\"><span lang=\"EN-US\"><br></span><span style=\"line-height: 1.42857; text-indent: 0cm;\">Already a fan of Candy Crush Saga? Like us on Facebook and share us with your opinions about the game.</span></p>
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:
+0\"><span style=\"line-height: 1.42857; text-indent: 0cm;\"><br></span></p>
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:
+0\"><span style=\"line-height: 1.42857; text-indent: 0cm;\">You may also like the GAMEs: <a href=\"https://apkpure.com/url?q=https%3A%2F%2Fapkpure.com%2Fcandy-crush-soda-saga%2Fcom.king.candycrushsodasaga\" rel=\"nofollow\" target=\"_blank\">Candy Crush Soda Saga</a>, <a href=\"https://apkpure.com/url?q=https%3A%2F%2Fapkpure.com%2Fcandy-crush-jelly-saga%2Fcom.king.candycrushjellysaga\" rel=\"nofollow\" target=\"_blank\">Candy Crush Jelly Saga</a> and <a href=\"https://apkpure.com/url?q=https%3A%2F%2Fapkpure.com%2Fguides-candy-crush-saga%2Fcom.masguide97.guidescandysaga\" rel=\"nofollow\" target=\"_blank\">Guides Candy Crush Saga</a>, ect.</span></p>
+<p><br></p>",
+			"app_link": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLmtpbmcuY2FuZHljcnVzaHNhZ2FfaWNvbl8xNTU1NTAzNzIwXzAxMQ/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.7",
+			"total_ratings": "87240",
+			"seo_title": "Candy Crush Saga",
+			"seo_keyword": "candy-crush-saga-apk,candy-crush-saga-apk-download,candy-crush-saga-download,candy-crush-sagaapk,candy-crush-saga-android,casual-game-download",
+			"seo_description": "Candy Crush Saga is a sweet and charming puzzle game, but very simple and easy to play for everybody.",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:35:59",
+			"deleted_at": null
+		},
+		{
+			"id": 9,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.moonactive.coinmaster",
+			"title": "Coin Master",
+			"slug": "coin-master",
+			"short_description": "Join your Facebook friends and millions of players around the world in attacks, spins and raids to build your viking village to the top! Do you have what it takes to be the next Coin Master? Can you t...",
+			"description": "Join your Facebook friends and millions of players around the world in attacks, spins and raids to build your viking village to the top! <br><br>Do you have what it takes to be the next Coin Master? Can you travel through time and magical lands to battle it out to be the best Pirate, Hippie, King, Warrior or VIKING of them of all!<br><br>Spin to earn your loot<br>Spin the wheel to fall on your fortune, be it attack time, loot, shields or raids. Win your loot by landing on coins or gold sacks so you can build strong villages through the game and move up in levels. Win shields to guard your village from other vikings trying to attack you. Become the Coin Master with the strongest village and the most loot!<br><br>Attack and Raid fellow vikings!<br>Earning coins through the slot machine isn't the only way to get loot, you can steal it too! Attack or raid friend and foe to save enough loot to build your village. No need to break the piggy bank! Fight back and come out victorious against your enemies. Boom! Take revenge on those who have attacked your village and take whats rightfully yours! Bring your Coin Dozer and get rich again! You never know what treasures you can find in someone else's village! <br><br>Collect all the Cards!<br>It's not always about the loot, it's about the treasure too! Collect cards to complete sets and move on to the next village. With every village you conquer your wins will be greater<br><br>Play with friends!<br>Trade your cards with our online community to collect them all! Join our fast growing interactive Facebook community to meet new viking friends, earn big rewards, and trade treasures! <br><br>★ Battle your way to be the next Coin Master with your friends by your side.<br>★ Join in millions of players worldwide!<br>★ Coin Master is free on all devices with in-app purchases.<br><br>Follow Coin Master on Facebook for exclusive offers and bonuses!<br><br>Facebook: www.facebook.com/coinmaster<br><br>Are you having problems? <br>Please contact us in the game by clicking on the menu &gt; Settings &gt; Support or email us at support@coinmastergame.com",
+			"app_link": "https://play.google.com/store/apps/details?id=com.moonactive.coinmaster",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLm1vb25hY3RpdmUuY29pbm1hc3Rlcl9pY29uXzE1NTU1NjAwMDJfMDE3/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.35",
+			"total_ratings": "508124",
+			"seo_title": "Coin Master",
+			"seo_keyword": "coin-master,coin-master-for-android,coin-master-android-download,coin-master-apk,coin-master-android-apk,coin-master-download",
+			"seo_description": "Download Coin Master apk 3.5.13 for Android. Play the Best Adventure Game with Friends !!!",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:36:02",
+			"deleted_at": null
+		},
+		{
+			"id": 10,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.ludusstudio.runandgun",
+			"title": "Run &amp; Gun: BANDITOS",
+			"slug": "run-amp-gun-banditos",
+			"short_description": "Run fast. Shoot sharp. Get what's yours!Your precious treasure is stolen. Enemies are all around. Be the hero and take back what’s yours!The greatest challenge you can find is already here. Run and co...",
+			"description": "Run fast. Shoot sharp. Get what's yours!<br><br>Your precious treasure is stolen. Enemies are all around. Be the hero and take back what’s yours!<br><br>The greatest challenge you can find is already here. Run and collect as much gold as you can. Test your skills with various obstacles and shoot your way through vast number of enemies to survive the run. Unlock your full potential to beat them all. <br><br>Get in the game for the Run &amp; Gun adventure – an endless runner with a twist:<br><br>- Choose among various banditos, each having unique powerful skills<br>- Gather treasures to upgrade your characters and unlock new boosts<br>- Earn numerous achievements to show off your skills<br>- Play in a colorful and vivid world<br>- Compare with other players, be the best!<br><br>Run &amp; Gun - get what’s yours!",
+			"app_link": "https://play.google.com/store/apps/details?id=com.ludusstudio.runandgun",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLmx1ZHVzc3R1ZGlvLnJ1bmFuZGd1bl9pY29uXzE1NDcyMjU1MjBfMDk4/icon.png?w=170&fakeurl=1",
+			"current_ratings": "5",
+			"total_ratings": "1656146",
+			"seo_title": "Run &amp; Gun: BANDITOS",
+			"seo_keyword": "run-gun-banditos,run-gun-banditos-for-android,run-gun-banditos-android-download,run-gun-banditos-apk,run-gun-banditos-android-apk,run-gun-banditos-download",
+			"seo_description": "Download Run & Gun: BANDITOS apk 1.3 for Android. Run fast! Shoot sharp! Get what&#39;s yours!",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:36:05",
+			"deleted_at": null
+		},
+		{
+			"id": 11,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.ea.gp.nbamobile",
+			"title": "NBA LIVE Mobile Basketball",
+			"slug": "nba-live-mobile-basketball",
+			"short_description": "Portugal win Euro 2016 and football fans
+can have a rest. For basketball fans, you can experience great fun at home. No
+need to play basketball under the sun, you can get same fun when play at home....",
+			"description": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Portugal win Euro 2016 and football fans
+can have a rest. For basketball fans, you can experience great fun at home. No
+need to play basketball under the sun, you can get same fun when play at home.<p></p></span></p>
+
+<p class=\"MsoNormal\"><span lang=\"EN-US\">NBA Live Mobile is such a great game which is
+just right for you if you are a basketball fan. With it, you don't have to wait
+for real NBA season and enjoy the game on your portable devices. Play, connect,
+and compete with friends easily.<p></p></span></p>
+
+<p class=\"MsoNormal\"><span style=\"line-height: 1.42857;\">Build a team in 5 vs 5 action. Follow NBS’s
+live events. Some skills will help you.</span><br></p>
+
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:-18.0pt;
+mso-char-indent-count:0;mso-list:l0 level1 lfo1\"><!--[if !supportLists]--><span lang=\"EN-US\">1.<span style=\"font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">      
+</span></span><!--[endif]--><span lang=\"EN-US\">Know your rivals<p></p></span></p>
+
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:
+0\"><span lang=\"EN-US\">Look at your rivals’ precious metals which indicate their
+levels. Gold is the best, then silver and bronze. Similar to Olympic medals. Tap
+on the sheets to know the breakdown of their areas of expertise. Including 3
+pointers, speed, shooting, passing, defense and dribbling.<p></p></span></p>
+
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:-18.0pt;
+mso-char-indent-count:0;mso-list:l0 level1 lfo1\"><!--[if !supportLists]--><span lang=\"EN-US\">2.<span style=\"font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">      
+</span></span><!--[endif]--><span lang=\"EN-US\">Fill lineups<p></p></span></p>
+
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt\"><span lang=\"EN-US\">Small
+Ball: Dribbling and Speed<p></p></span></p>
+
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt\"><span lang=\"EN-US\">Two-Way:
+Passing and Defense<p></p></span></p>
+
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt\"><span lang=\"EN-US\">Big Man:
+Shooting and Defense<p></p></span></p>
+
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt\"><span lang=\"EN-US\">Defensive:
+Defense and Speed<p></p></span></p>
+
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt\"><span lang=\"EN-US\">Shooting:
+3 Pointer and Shooting<p></p></span></p>
+
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:
+0\"><span lang=\"EN-US\">You must use each player in a particular lineup as
+indicated by player card’s colored icon. Furthermore, you must keep on looking
+to improve your lineup by meaning the squad.<p></p></span></p>
+
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:-18.0pt;
+mso-char-indent-count:0;mso-list:l0 level1 lfo1\"><!--[if !supportLists]--><span lang=\"EN-US\">3.<span style=\"font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';\">      
+</span></span><!--[endif]--><span lang=\"EN-US\">Buy player cards<p></p></span></p>
+
+<p class=\"MsoListParagraph\" style=\"margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:
+0\"><span lang=\"EN-US\">Use coins earned from gameplay or NBA Cash to buy player
+cards is a good way to complete your roster. You can buy elite players through
+Live Events using the “Auctions” tab. Here you can also win trophies and
+collectibles.<p></p></span></p>
+<p>Note: Internet connection needed. Facebook login required. Must be at least 13 years old.</p>
+<p><br></p>",
+			"app_link": "https://play.google.com/store/apps/details?id=com.ea.gp.nbamobile",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLmVhLmdwLm5iYW1vYmlsZV9pY29uXzE1NjA3OTM0MTFfMDI2/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.55",
+			"total_ratings": "1251757",
+			"seo_title": "NBA LIVE Mobile Basketball",
+			"seo_keyword": "nba-game-apk,nba-game-apk-download,nba-live-mobile-apk,nba-live-mobile-apk-download,nba-live-mobile-download,nba-live-mobileapk,nba-live-mobile-android,sports-game-download",
+			"seo_description": "Download NBA LIVE Mobile apk 1.1.1 and all version history for Android. With it, you don't have to wait for real NBA season and enjoy the game on your portable devices. ",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:36:08",
+			"deleted_at": null
+		},
+		{
+			"id": 12,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.combineinc.streetracing.driftthreeD",
+			"title": "Street Racing 3D",
+			"slug": "street-racing-3d",
+			"short_description": "#1 Free street racing 3D car game!Drive a top-class sports car, join the top street racing camp! Real racing, drift in the asphalt. Racing in multiple races, driving on the streets, full of exciting c...",
+			"description": "#1 Free street racing 3D car game!<br>Drive a top-class sports car, join the top street racing camp!<br> <br>Real racing, drift in the asphalt. Racing in multiple races, driving on the streets, full of exciting challenges, and the world's professional racers compete to become a street legend!<br> <br>____________________________________________________________________________<br> <br>Start driving in unique car or never seen before on the asphalt roads. More extremely fast and beautiful cars on asphalt tracks. start your racer, the world's top-class racing cars for you to choose!  Upgrade turbo engine, find the tune for your car, colorful paints and cool stickers.<br> <br>Race in different modes of street scene. Show your rivals that you are the best in real competition with amazing speed. Unbelievable turns, achieve highest possible velocity racers, to be the stronger. Driving skill need to exercise in the different mode competition, so start racing in arcade style, perform amazing stunts. Unique mix of arcade action and simulation way of driving. Start driving and earning rewards, collect coins and diamonds on the street asphalt. Drag your careen into high stake racing.<br>_______________________________________________________________________________<br> <br>Street Racing 3D Features:<br>• Street themed asphalt racing<br>• Drive 30+ extreme cars <br>• High speed racing in street<br>• Real drift racing for speed<br>• Challenge friends, start a fierce racing on the track<br>• Leader board score, you are the king of speed<br>• Create your car, show the perfect look<br>• Collect as many coins and diamonds as possible<br>• High-speed racing mode, driving technology is the first<br>• Win the PVP event, get a great reward<br> <br>Street racing 3D has already started, drive your turbo car with the fast speed in the street asphalt. Racing is the best checking for your skills. Experience drift speed in the road, be the king of car racers.",
+			"app_link": "https://play.google.com/store/apps/details?id=com.combineinc.streetracing.driftthreeD",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLmNvbWJpbmVpbmMuc3RyZWV0cmFjaW5nLmRyaWZ0dGhyZWVEX2ljb25fMTU1NTU2MDAxMF8wMTk/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.4",
+			"total_ratings": "915360",
+			"seo_title": "Street Racing 3D",
+			"seo_keyword": "street-racing-3d,street-racing-3d-for-android,street-racing-3d-android-download,street-racing-3d-apk,street-racing-3d-android-apk,street-racing-3d-download",
+			"seo_description": "Download Street Racing 3D apk 3.9.2 for Android. Street car racing has started, experience the drving skills!",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:36:12",
+			"deleted_at": null
+		},
+		{
+			"id": 13,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.gameloft.android.ANMP.GloftFWHM",
+			"title": "Sniper Fury",
+			"slug": "sniper-fury",
+			"short_description": "The time to take action and strike back is now!We’re putting a call out for the best sniper in the world to take aim at evil, wherever it hides. There’s no room for remorse, so do your duty and shoot...",
+			"description": "The time to take action and strike back is now!<br>We’re putting a call out for the best sniper in the world to take aim at evil, wherever it hides. There’s no room for remorse, so do your duty and shoot to kill…<br><br>THE MOST STUNNING OF ALL SNIPER SHOOTING GAMES<br>• Unbelievable 3D sniper graphics that probably make this the best game for FPS gun fun.<br>• Don't call this one of those ordinary gun games. You’ll use your 3D sniper shooting game skills to strike against soldiers, vehicles &amp; more!<br>• “Bullet time” effects that blow other FPS gun games away. Watch amazing sniper shots from your top games.<br>• Weather effects unlike any other shooting game.<br><br>MODERN &amp; FUTURE FPS FIREPOWER<br>• Take your gun game to the next level; shoot 3D sniper rifles, railguns &amp; more!<br>• Upgrade your battlefield arsenal to strike at evil!<br>• Custom options make your best games even better.<br><br>PVP MULTIPLAYER BATTLEFIELD<br>• Steal resources from players in this PvP Multiplayer shooting game.<br>• Build a strong shooter squad in possibly the best game of its kind.<br><br>EASY TO PLAY, TOUGH TO MASTER<br>• Like all the best games, Sniper Fury rewards you for answering the call of this free, action-packed gun game.<br>• Connect to our FPS community for content, contests, rewards &amp; more top games!<br><br>TAKE AIM AT THE BEST FPS LEAGUES<br>• Earn a high score and aim to enter the top game league and unlock the best rewards!<br>• Be the best hitman on duty in this shooting game where only the best of the best reach the top.<br><br>CLANS<br>• Join a 3D sniper Clan of top game players.<br>• Trade, chat &amp; share tips with your Clan to help fellow hitman shooters.<br>• Establish a home base for your 3D sniper Clan to unlock battlefield perks!<br>• CLAN WAR: The best games turn Clanmates into real friends. Call rivals to action and prove you’re the best hitman team!<br><br>GEAR SETS: As you play your gun games, collect shooter gear to unlock powers and strike opponents. <br>PROTOTYPE WEAPONS: It’s your duty to rush the battlefield with the latest, most state-of-the-art hitman/assassin tools you could ask for in any shooting game.<br>IMPROVED BULLET SKINS: New bullet skins to kill your opponents in style in one of the top games around!<br>CLAN LEADERBOARDS: Check your Clan’s FPS victories and shoot to the top to win your gun games!<br><br>This is probably the best game for fans of FPS action, shooting games, gun games, being a hitman or assassin, launching a furious strike on the battlefield, war, and any of the top games for free multiplayer shooter fun!<br><br>The most amazing of all 3D sniper FPS shooting games. Don't forget to answer the call &amp; rate us as one of the best games on the Play Store.<br><br>You can download and play this game for free. Please be informed that it also allows you to play using virtual currency, which can be acquired as you progress through the game, or by deciding to watch certain advertisements, or by paying with real money. Purchases of virtual currency using real money are performed using a credit card, or other form of payment associated with your account, and are activated when you input your Google Play account password, without the need to re-enter your credit card number or PIN. <br><br>In-app purchases can be restricted by adjusting the authentication settings within your Play Store settings (Google Play Store Home &gt; Settings &gt; Require authentication for purchases) and setting up a password for each purchase / Every 30 minutes or Never.<br><br>Find out more about the game: http://www.sniperfury.com/<br>__<br><br>Visit our official site at http://gmlft.co/website_EN<br>Check out the new blog at http://gmlft.co/central<br><br>Don't forget to follow us on social media:<br>Facebook: http://gmlft.co/Sniper_Facebook<br>Twitter: http://gmlft.co/Sniper_Insta<br>Instagram: http://gmlft.co/GL_SNS_IG<br>YouTube: http://gmlft.co/SniperFury_YouTube<br>Forum: http://gmlft.co/SniperFury_Forum<br><br>Terms of Use: http://www.gameloft.com/en/conditions-of-use<br>Privacy Policy: http://www.gameloft.com/en/privacy-notice<br>End-User License Agreement: http://www.gameloft.com/en/eula",
+			"app_link": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftFWHM",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLmdhbWVsb2Z0LmFuZHJvaWQuQU5NUC5HbG9mdEZXSE1faWNvbl8xNTU5MTQzODQ5XzAyNQ/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.45",
+			"total_ratings": "1196784",
+			"seo_title": "Sniper Fury",
+			"seo_keyword": "sniper-fury,sniper-fury-for-android,sniper-fury-android-download,sniper-fury-apk,sniper-fury-android-apk,sniper-fury-download",
+			"seo_description": "Download Sniper Fury apk 4.6.1c for Android. Answer the call to become a sniper. Your duty: Shoot to kill &amp; save the world!",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:36:15",
+			"deleted_at": null
+		},
+		{
+			"id": 14,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.netflix.mediaclient",
+			"title": "Netflix",
+			"slug": "netflix",
+			"short_description": "Netflix is the world’s leading subscription service for watching TV episodes and movies on your favorite device. This Netflix mobile application delivers the best experience anywhere, anytime. Get the...",
+			"description": "Netflix is the world’s leading subscription service for watching TV episodes and movies on your favorite device. This Netflix mobile application delivers the best experience anywhere, anytime.<br> <br>Get the free app as a part of your Netflix membership and you can instantly watch thousands of TV episodes &amp; movies on your mobile device.  <br> <br>If you are not a Netflix member sign up for Netflix and start enjoying immediately on your mobile device with our one-month free trial.<br> <br>How does Netflix work?<br>• Netflix membership gives you access to unlimited TV shows and movies for one low monthly price.  <br>• With the Netflix app you can instantly watch as many TV episodes &amp; movies as you want, as often as you want, anytime you want.<br>• You can Browse a growing selection of thousands of titles, and new episodes that are added regularly. <br>• Search for titles and watch immediately on your phone or on an ever expanding list of supported devices.<br>• Rate your favorite shows and movies and tell us what you like so Netflix can help suggest the best titles for you.<br>• Start watching on one device, and resume watching on another. Check out netflix.com for all the TVs, game consoles, tablets, phones, Blu-ray players and set top boxes on which you can watch Netflix.<br><br>By clicking INSTALL, you consent to the installation of the Netflix application and any updates or upgrades thereto.<br><br>─────────────────────────────────<br><br>License Agreement<br> <br>By downloading this application you agree to the Netflix <a href=\"https://apkpure.com/url?q=http%3A%2F%2Fwww.google.com%2Furl%3Fq%3Dhttp%253A%252F%252Fwww.netflix.com%252Ftermsofuse%26amp%3Bsa%3DD%26amp%3Bsntz%3D1%26amp%3Busg%3DAFQjCNEy_dzfikLlvCKDdDlfFqQwBoSCCg\" rel=\"nofollow\" target=\"_blank\">Terms of Use</a> and <a href=\"https://apkpure.com/url?q=http%3A%2F%2Fwww.google.com%2Furl%3Fq%3Dhttp%253A%252F%252Fwww.netflix.com%252Fprivacy%26amp%3Bsa%3DD%26amp%3Bsntz%3D1%26amp%3Busg%3DAFQjCNHvMVqH2AQZ95KFg9OBw8gQlTacaA\" rel=\"nofollow\" target=\"_blank\">Privacy Statement</a>, located at http://www.netflix.com. For clarity, residents of the European Economic Area (EEA) are deemed to have acknowledged (rather than agreed to) the Privacy Statement.<br> <br>1-month free Netflix membership offer is available to first time and certain former members and cannot be combined with any other offer. Internet access and valid payment method are required to redeem offer.  <b>Netflix will begin to bill your payment method for the Netflix membership fee at the end of the free month unless you cancel prior to the end of the first month</b>. Your Netflix membership is a month-to-month subscription that you can cancel at any time. Go to \"Your Account\" on the Netflix website for cancellation instructions. No refund or credit for partial monthly subscription periods. A device that streams from Netflix (manufactured and sold separately) and broadband Internet connection are required to watch instantly.<br><br>For complete terms and conditions, please visit http://www.netflix.com/termsofuse<br>For privacy statement, please visit http://www.netflix.com/privacy",
+			"app_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLm5ldGZsaXgubWVkaWFjbGllbnRfaWNvbl8xNTU1MzgwMDMwXzA5MQ/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.2",
+			"total_ratings": "980403",
+			"seo_title": "Netflix",
+			"seo_keyword": "netflix,netflix-for-android,netflix-android-download,netflix-apk,netflix-android-apk,netflix-download",
+			"seo_description": "Download Netflix apk 6.26.1 build 15 31696 for Android. Netflix is the leading subscription service for watching TV episodes and movies.",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:36:18",
+			"deleted_at": null
+		},
+		{
+			"id": 15,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.valvesoftware.android.steam.community",
+			"title": "Steam",
+			"slug": "steam",
+			"short_description": "With the free Steam app for Android, you can participate in the Steam community wherever you go. Chat with your Steam friends, browse community groups and user profiles, read the latest gaming news an...",
+			"description": "With the free Steam app for Android, you can participate in the Steam community wherever you go. Chat with your Steam friends, browse community groups and user profiles, read the latest gaming news and stay up to date on unbeatable Steam sales.",
+			"app_link": "https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLnZhbHZlc29mdHdhcmUuYW5kcm9pZC5zdGVhbS5jb21tdW5pdHlfaWNvbl8xNTUyMDg4OTMzXzA3MQ/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.1",
+			"total_ratings": "1629979",
+			"seo_title": "Steam",
+			"seo_keyword": "steam,steam-for-android,steam-android-download,steam-apk,steam-android-apk,steam-download",
+			"seo_description": "Download Steam apk 2.3.10 for Android. Steam: chat and participate in the Steam community, catch unbeatable Steam sales",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:36:21",
+			"deleted_at": null
+		},
+		{
+			"id": 16,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.gamefly.android.gamecenter",
+			"title": "GameFly",
+			"slug": "gamefly",
+			"short_description": "GameFly is the ultimate video game and movie app for Android phones and tablets.- Get info on 8,000+ games for Xbox One, Xbox 360, PS4, PS3, PS Vita, Wii U, 3DS, and more- Rent the latest Blu-ray and...",
+			"description": "GameFly is the ultimate video game and movie app for Android phones and tablets.<br><br>- Get info on 8,000+ games for Xbox One, Xbox 360, PS4, PS3, PS Vita, Wii U, 3DS, and more<br>- Rent the latest Blu-ray and DVD movies<br>- Pre-order, buy new and used, and Keep games and movies you rent<br>- Check out user reviews and ratings<br>- Up-to-the-minute gaming news <br>- Browse screenshots and videos <br>- GameFly members can manage their Q and account on the go<br><br>Sign up and become a member now",
+			"app_link": "https://play.google.com/store/apps/details?id=com.gamefly.android.gamecenter",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLmdhbWVmbHkuYW5kcm9pZC5nYW1lY2VudGVyX2ljb25fMTU1MjU1MjMxNV8wNTA/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.4",
+			"total_ratings": "1284477",
+			"seo_title": "GameFly",
+			"seo_keyword": "gamefly,gamefly-for-android,gamefly-android-download,gamefly-apk,gamefly-android-apk,gamefly-download",
+			"seo_description": "Download GameFly apk 7.91 for Android. Start your GameFly 1-Month FREE Trial now!",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:36:24",
+			"deleted_at": null
+		},
+		{
+			"id": 17,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.mojang.minecraftpe",
+			"title": "Minecraft",
+			"slug": "minecraft",
+			"short_description": "Explore infinite worlds and build everything from the simplest of homes to the grandest of castles. Play in creative mode with unlimited resources or mine deep into the world in survival mode, craftin...",
+			"description": "Explore infinite worlds and build everything from the simplest of homes to the grandest of castles. Play in creative mode with unlimited resources or mine deep into the world in survival mode, crafting weapons and armor to fend off dangerous mobs. Create, explore and survive alone or with friends on mobile devices or Windows 10.<br><br>
+
+Minecraft Online - Minecraft also support HTML5 version game, play <b><a href=\"https://apkpure.com/url?q=https%3A%2F%2Fyaksgames.com%2Fgames%2Fminecraft-online%2FG05E3087BD\" rel=\"nofollow\" target=\"_blank\" title online><u><font color=\"#3984c6\">Minecraft Online</font></u></a></b>, Minecraft free online game now.<br><br>
+
+EXPAND YOUR GAME:<br>
+Marketplace - Discover the latest community creations in the marketplace! Get unique maps, skins, and texture packs from your favorite creators.<br><br>
+
+Slash commands - Tweak how the game plays: you can give items away, summon mobs, change the time of day, and more. <br><br>
+
+Add-Ons - Customize your experience even further with free Add-Ons! If you're more tech-inclined, you can modify data-driven behaviors in the game to create new resource packs.<br><br>
+
+MULTIPLAYER<br>
+Realms - Play with up to 10 friends cross-platform, anytime, anywhere on Realms, your own private server that we host for you. Try a free 30-day trial in-app.<br><br>
+
+Multiplayer - Play with up to 4 friends with a free Xbox Live account online.<br>
+Servers - Join free massive multiplayer servers and play with thousands of others! Discover gigantic community-run worlds, compete in unique mini-games and socialize in lobbies full of new friends.<br><br>
+
+SUPPORT: https:///www.minecraft.net/help
+LEARN MORE: https:///www.minecraft.net/",
+			"app_link": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe",
+			"app_image_url": "https://image.winudf.com/v2/image/Y29tLm1vamFuZy5taW5lY3JhZnRwZV9pY29uXzE1MTQ0NTEwNDZfMDMw/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.45",
+			"total_ratings": "1450529",
+			"seo_title": "Minecraft",
+			"seo_keyword": "minecraft,minecraft-for-android,minecraft-android-download,minecraft-apk,minecraft-android-apk,minecraft-download",
+			"seo_description": "Download Minecraft apk  for Android. Minecraft is about placing blocks to build things and going on adventures!",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:36:27",
+			"deleted_at": null
+		},
+		{
+			"id": 18,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.t2ksports.nba2k19and",
+			"title": "NBA 2K19",
+			"slug": "nba-2k19",
+			"short_description": "NBA 2K19 for mobile is the latest entry of the NBA2K franchise, the most authentic NBA gaming experience on any mobile platform.   It’s packed with all new features, such as the new STORY mode and, fo...",
+			"description": "NBA 2K19 for mobile is the latest entry of the NBA2K franchise, the most authentic NBA gaming experience on any mobile platform.   It’s packed with all new features, such as the new STORY mode and, for the first time, online match play.  A brand new soundtrack accompanies you in your journey to the top of the NBA.<br><br>Features:<br>•	All new STORY mode – relive the storied history of the most famous NBA franchises and players.<br>•	All new MyCAREER mode with an all new story and refined team interaction.<br>•	2K Beats – an all new soundtrack, with songs from Travis Scott, Migos and more.<br>•	Simplified controls for more immersive and responsive gameplay!",
+			"app_link": "https://play.google.com/store/apps/details?id=com.t2ksports.nba2k19and",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLnQya3Nwb3J0cy5uYmEyazE5YW5kX2ljb25fMTU1MjI4ODQ5NF8wMDY/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4",
+			"total_ratings": "1212863",
+			"seo_title": "NBA 2K19",
+			"seo_keyword": "nba-2k19,nba-2k19-for-android,nba-2k19-android-download,nba-2k19-apk,nba-2k19-android-apk,nba-2k19-download",
+			"seo_description": "Download NBA 2K19 apk 52.0.1 for Android. The NBA 2K franchise returns with NBA 2K19",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:36:30",
+			"deleted_at": null
+		},
+		{
+			"id": 19,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.yy.hiyo",
+			"title": "HAGO",
+			"slug": "hago",
+			"short_description": "Play Games, Make FriendsGet connected LIVE with gamers from different locations. Hop onto the PK battle, play and chat at the same time! Exciting BattleExpect weekly new additions to cute and cool gam...",
+			"description": "Play Games, Make Friends<br>Get connected LIVE with gamers from different locations. Hop onto the PK battle, play and chat at the same time!<br> <br>Exciting Battle<br>Expect weekly new additions to cute and cool games such as Sheep Fight、Knife Hit 、Fun Link and many more! Never the same!<br> <br>Connect with Players Everywhere<br>Get online and high with gamers via voice chat anywhere — LIVE!<br> <br>Get Acquainted<br>Get to know more friends in-game, indulge in fun conversations, and enjoy the game together! <br> <br>Rapid Progression Game<br>Play anywhere and anytime! 3 minutes is all it takes to play to your heart's end!<br><br>To know more about Hago: https://ihago.net/",
+			"app_link": "https://play.google.com/store/apps/details?id=com.yy.hiyo",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLnl5LmhpeW9faWNvbl8xNTU1MzQyNTk1XzA4NQ/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.3",
+			"total_ratings": "172259",
+			"seo_title": "HAGO",
+			"seo_keyword": "hago,hago-for-android,hago-android-download,hago-apk,hago-android-apk,hago-download",
+			"seo_description": "Download HAGO apk 2.10.5 for Android. Play Games, Make Friends",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:36:33",
+			"deleted_at": null
+		},
+		{
+			"id": 20,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.utorrent.client",
+			"title": "µTorrent®- Torrent Downloader",
+			"slug": "utorrent-torrent-downloader",
+			"short_description": "µTorrent is the official BitTorrent android torrent downloader. Enjoy awesome torrent downloading experience with no download speed or size limits. µTorrent downloads files at high speeds using the Bi...",
+			"description": "µTorrent is the official BitTorrent android torrent downloader. Enjoy awesome torrent downloading experience with no download speed or size limits.<br> <br>µTorrent downloads files at high speeds using the BitTorrent hyper distribution communications protocol for peer-to-peer file sharing (\"P2P\"). Splitting the downloadable file into multiple parts and employing multi threading through seeding helps you download music, movies and video files many times faster.<br><br>uTorrent is the unbeatable #1 Android torrents downloader in the Google Play Store with over 100 million downloads. <br> <br>Fast, light, and powerful: that’s the core of our torrent download technology. The uTorrent app reflects that. We developed uTorrent downloader around your mobile download needs.<br><br>♣ Beautifully light, clean design<br>♣ Simply download files directly to your phone/tablet<br>♣ Share files &amp; torrents with ease from your phone/tablet.<br>♣ No download speed limits and no torrent download size limits<br>♣ Better music listening and video viewing experience with integrated music and video players<br>♣ Translations in Pусский, Español, Italiano, Português do Brasil<br>♣ Download free music, movie and videos from BitTorrent’s Bundle licensed content partners<br> <br>New Users <br>♣ Look out for magnet links and click on them when searching for torrents online.<br>♣ Downloaded more than one music file in a torrent? Play them all at once as a playlist<br>♣ Select files to download within a torrent to minimize your storage footprint<br>♣ To get the best performance and avoid running up your data charges on mobile movie &amp; music download, we recommend taking advantage of torrenting and seeding on Wifi-only mode whenever possible<br><br>Advanced Features<br>♣    Wi-fi only mode to save on mobile data<br>♣    Choose your file download location<br>♣    Download torrents and download magnet links<br>♣    Choose between deleting torrents only, or torrents &amp; files<br><br>uTorrent is pleased to announce a version 4 for the most downloaded torrent app on the Playstore. Version 4 represents a significant transition to a new core architecture paving the way for major developments to come.<br><br>Version 4 has been a true labor of love as the uTorrent team pushed hard to optimize version 4 for better performance, faster downloads and for a more user centric mobile torrenting experience<br><br>Users love free music downloads and watching videos/movies online. And the 2 million plus 5 star reviews are testimony of their confidence in uTorrent. <br><br>Upgrade today to enjoy the world’s best torrenting experience on the go!<br> <br>Looking for answers to frequently asked questions (FAQ) or a guide to get started with your downloads? Visit this page: http://bit.ly/1kx19Zt<br><br>Like us on Facebook: http://www.facebook.com/utorrent<br>Follow us on Twitter: http://twitter.com/utorrent<br> <br>By downloading or using uTorrent – torrent downloader app, you agree to the Terms of Use (http://www.bittorrent.com/legal/terms-of-use) and Privacy Policy (http://www.bittorrent.com/legal/privacy)<br> <br>Your feedback is very important to us. Please email us directly at utandroid@bittorrent.com if you have any problems with your download, or any requests for the team. Thank you in advance.<br> <br>Enjoy an ads-free experience with the Pro version of this downloader app -- now with auto-shutdown and battery saving preferences. Check out µTorrent Pro: http://bit.ly/1fuF34P<br> <br>Upgraded to Pro in-app, and wondering how to get Pro back? Just re-download the free app-- it will turn into Pro on its own.<br> <br>Looking for a torrent remote control for your uTorrent download client on your home computer? Check out µTorrent Remote for Android: http://bit.ly/TZrpvg<br> <br>**Beta Testers Wanted**<br>We are launching Torrent streaming!<br>Please help us test this beta feature by signing up here: https://play.google.com/apps/testing/com.utorrent.client<br><br>Brought to you by the µTorrent mobile team<br>--Light. Limitless. µTorrent® for Android.<br><br>bit torrent скачать торрент",
+			"app_link": "https://play.google.com/store/apps/details?id=com.utorrent.client",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLnV0b3JyZW50LmNsaWVudF9pY29uXzE1NjA5ODcwMTFfMDA3/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.6",
+			"total_ratings": "993608",
+			"seo_title": "µTorrent®- Torrent Downloader",
+			"seo_keyword": "utorrent-torrent-downloader,utorrent-torrent-downloader-for-android,utorrent-torrent-downloader-android-download,utorrent-torrent-downloader-apk,utorrent-torrent-downloader-android-apk,utorrent-torrent-downloader-download",
+			"seo_description": "Download µTorrent®- Torrent Downloader apk 5.5.4 for Android. Download and play torrents on phone (Official app) &amp; #1 torrent app on Android",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:36:36",
+			"deleted_at": null
+		},
+		{
+			"id": 21,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.maxmpz.audioplayer.unlock",
+			"title": "Poweramp Full Version Unlocker",
+			"slug": "poweramp-full-version-unlocker",
+			"short_description": "Music moves people; it unites us, it allows us to relax, and sometimes, when done right, it can even motivate us to do great things. Poweramp does great things. The #1 paid music player in the Google...",
+			"description": "Music moves people; it unites us, it allows us to relax, and sometimes, when done right, it can even motivate us to do great things. Poweramp does great things. <br><br>The #1 paid music player in the Google Play Store 8 years running—Poweramp is the most powerful music player available on the Android OS. Features like gapless play, an unmatched equalization system, great crossfade, and support for most popular music file format might all make Poweramp the best $3.99 you have ever spent in your life—4+ million users would agree to that. <br><br>If you have not already, try out the free full trial version. The trial version will give you 15 days of the full, uninterrupted, Poweramp experience. That means you get to experience your music like only Poweramp can offer. If you need a few reasons why to buy the full version of Poweramp, here are two good reasons:<br><br>- Get all the future updates for free: Once you purchase Poweramp, all the future updates are free to you as long as you have the Unlocker.<br><br>- Have a dedicated music player: Poweramp is dedicated to being the best music player available, and we will never change from that. Poweramp is focus on doing nothing more than being a great music player. <br><br>==========<br><br>***Please don't try to update if you purchased Unlocker on Poweramp site, as Google Play Unlocker is not the same. Just keep your current Unlocker as is. <br><br><br>Poweramp F.A.Q. - <br>http://forum.powerampapp.com/index.php?/topic/1737-faq/<br><br>Full Version/Unlocker/Purchase Issues F.A.Q. - <br>http://forum.powerampapp.com/index.php?/topic/3851-full-versionunlockerpurchase-issues-faq/",
+			"app_link": "https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer.unlock",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLm1heG1wei5hdWRpb3BsYXllci51bmxvY2tfaWNvbl8xNTU2ODM5NDcyXzAzOA/icon.png?w=170&fakeurl=1",
+			"current_ratings": "5",
+			"total_ratings": "1242804",
+			"seo_title": "Poweramp Full Version Unlocker",
+			"seo_keyword": "poweramp-full-version-unlocker,poweramp-full-version-unlocker-for-android,poweramp-full-version-unlocker-android-download,poweramp-full-version-unlocker-apk,poweramp-full-version-unlocker-android-apk,poweramp-full-version-unlocker-download",
+			"seo_description": "Download Poweramp Full Version Unlocker apk  for Android. Unlocks Poweramp - Powerful Music Player for Android",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:36:39",
+			"deleted_at": null
+		},
+		{
+			"id": 22,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.tencent.ig",
+			"title": "PUBG MOBILE",
+			"slug": "pubg-mobile",
+			"short_description": "Description The official PLAYERUNKNOWN'S BATTLEGROUNDS designed exclusively for mobile. Play free anywhere, anytime. PUBG MOBILE delivers the most intense free-to-play multiplayer action on mobile. Dr...",
+			"description": "Description <br>The official PLAYERUNKNOWN'S BATTLEGROUNDS designed exclusively for mobile. Play free anywhere, anytime. PUBG MOBILE delivers the most intense free-to-play multiplayer action on mobile. Drop in, gear up, and compete. Survive epic 100-player battles, and fast past 4v4 team deathmatch and zombie modes. Last one standing wins. Be the one!<br><br>\"Absolutely remarkable\" - IGN<br>\"It's awesome.\" - Pocket Gamer<br>\"Keeps players coming back\" - Vice<br><br>2018 Mobile Game of the Year – Golden Joystick Award<br>Best Game of 2018 – GooglePlay awards<br><br>FREE ON MOBILE - Play console quality gaming on the go. Delivers jaw-dropping HD graphics and 3D sound. Featuring customizable mobile controls, training modes, and voice chat. Powered by the Unreal Engine 4.<br><br>MASSIVE BATTLE MAPS - Compete on four unique battlegrounds varying in size, terrain, and weather - frozen tundra, urban city spaces, and dense jungles. Master each battleground's secrets to create your own strategic approach to win. <br><br>DEPTH AND VARIETY - Play Solo, Duo, and in 4-player Squads. Offers FPS (First-Person Shooter) and TPS (Third-Person Shooter) play, Classic and lightning-fast arcade modes, and an arsenal of realistic weapons and vehicles. Featuring 4v4 Team Deathmatch and Zombie modes.<br><br>ADAPT &amp; OVERCOME – You make the call. Brawl with your bare hands, frying pan or crowbar. Run and gun or fire from the shadows. Your duty? Survive by any means necessary. Every minute, day, fortnite, you are a black ops team of one. <br><br>ALWAYS GROWING - Daily events &amp; challenges, and monthly updates delivering new gameplay features and modes that keep PUBG MOBILE always growing and expanding. <br><br>* Requires a stable internet connection.<br>* PUBG MOBILE recommended system requirements: Android 5.1.1 or above and at least 2 GB memory.<br><br>Contact us:<br>Official site: http://www.pubgmobile.com<br>Facebook: http://www.facebook.com/PUBGMOBILE<br>Twitter: https://twitter.com/PUBGMobile<br>Reddit: https://www.reddit.com/r/PUBGMobile/<br><br>Please contact our customer service at PUBGMOBILE_CS@tencentgames.com if you have any questions.",
+			"app_link": "https://play.google.com/store/apps/details?id=com.tencent.ig",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLnRlbmNlbnQuaWdfaWNvbl8xNTYwMzA2NzY4XzA0Nw/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.35",
+			"total_ratings": "853104",
+			"seo_title": "PUBG MOBILE",
+			"seo_keyword": "pubg-mobile,pubg-mobile-for-android,pubg-mobile-android-download,pubg-mobile-apk,pubg-mobile-android-apk,pubg-mobile-download",
+			"seo_description": "Download PUBG MOBILE apk 0.13.0 for Android. New version! Vikendi, a 6km x 6km snow map, is coming!",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:36:44",
+			"deleted_at": null
+		},
+		{
+			"id": 23,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.snapchat.android",
+			"title": "Snapchat",
+			"slug": "snapchat",
+			"short_description": "Snapchat is the most fun way to share the moment with friends and family 👻 Snapchat opens right to the camera, so you can send a Snap in seconds! Just take a photo or video, add a caption, and send it...",
+			"description": "Snapchat is the most fun way to share the moment with friends and family 👻 <br><br>Snapchat opens right to the camera, so you can send a Snap in seconds! Just take a photo or video, add a caption, and send it to your best friends and family. Express yourself with Filters, Lenses, Bitmojis, and all kinds of fun effects.<br><br><br>SNAP 📸 <br>• Snapchat opens right to the camera. Tap to take a photo, or press and hold for video.<br>• Add a Lens or Filter to your photo — new ones are added every day! Change the way you look, dance with your 3D Bitmoji, and discover games you can play with your face.<br>• Create your own Filters to add to photos and videos — or try out Lenses made by our community!<br><br>CHAT 💬 <br>• Stay in touch and Chat with friends with live messaging, or share your day with Group Stories.<br>• Video Chat with up to 16 friends at once. You can even use Filters and Lenses!<br>• Express yourself with Friendmojis — exclusive Bitmojis made just for you and a friend.<br><br>DISCOVER 🔍<br>• Follow friends and watch their Stories to see their day unfold.<br>• Keep up to date with exclusive Stories from top publishers and creators.<br>• Watch breaking news, original Shows, and community Stories — made just for your phone.<br><br>SNAP MAP 🗺<br>• See where your friends are hanging out, if they’ve shared their location with you.<br>• Share your location with your best friends, or go off the grid with Ghost Mode.<br>• Discover live Stories from the community nearby, or across the world!<br><br>MEMORIES 🎞️<br>• Look back on Snaps you’ve saved with free cloud storage.<br>• Edit and send old moments to friends, or save them to your Camera Roll.<br>• Create Stories from your favorite memories to share with friends and family.<br><br>FRIENDSHIP PROFILE 👥<br>• Every friendship has its own special profile to see the moments you’ve saved together.<br>• Discover new things you have in common with Charms. See how long you’ve been friends, your astrological compatibility, your Bitmojis’ fashion sense, and more!<br>• Friendship Profiles are just between you and a friend, so you can bond over what makes your friendship special.<br><br>Happy Snapping!<br><br>• • •<br><br>Please note: Friends, family, and other Snapchatters can always capture or save your messages by taking a screenshot, using a camera, or otherwise. Be mindful of what you Snap!",
+			"app_link": "https://play.google.com/store/apps/details?id=com.snapchat.android",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLnNuYXBjaGF0LmFuZHJvaWRfaWNvbl8xNTU3MzI1OTc4XzA3MA/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.35",
+			"total_ratings": "924829",
+			"seo_title": "Snapchat",
+			"seo_keyword": "snapchat,snapchat-for-android,snapchat-android-download,snapchat-apk,snapchat-android-apk,snapchat-download",
+			"seo_description": "Download Snapchat apk 10.59.5.0 for Android. Send photo &amp; video messages to family &amp; friends — it&#39;s the most fun way to chat!",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:36:47",
+			"deleted_at": null
+		},
+		{
+			"id": 24,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.pinterest",
+			"title": "Pinterest",
+			"slug": "pinterest",
+			"short_description": "Looking for creative ideas? Whether you’re planning your next big travel adventure, searching for home design concepts, looking for fashion &amp; fitness tips or checking out new recipes, explore life...",
+			"description": "Looking for creative ideas? Whether you’re planning your next big travel adventure, searching for home design concepts, looking for fashion &amp; fitness tips or checking out new recipes, explore lifestyle inspiration on Pinterest. Good ideas start here!<br><br>Discover billions of possibilities for every part of your life, from new recipes to creative home design ideas. Create extra home storage space, find your new favorite recipe, or get tattoo inspiration on Pinterest.<br><br>Save ideas on Pinterest:<br>★ Find lifestyle inspiration &amp; explore articles on trending and recommended topics <br><br>★ Collaborate with friends for your next group trip, party or DIY project <br><br>★ See ideas &amp; images out in the world that you like and snap a photo with Pinterest Lens to find out how to buy/make/do them!<br><br>Discover wedding tips, beauty inspiration and design concepts for your big day. Explore thousands of recommended or trending images, get travel inspiration or read new recipes and creative food ideas for your next dinner party. With fitness tips, interesting DIY projects to try out and tons of great fashion, style &amp; beauty tips, Pinterest keeps all of your lifestyle inspiration in one place.<br><br>You never know what sparks a great design idea or when inspiration for your next DIY project might strike.<br><br>Get inspired from anywhere on the internet. Save your ideas, organize them by topic and share with others – all from your pocket! <br><br>Get ideas for the topics you care about most:<br>- Home design, architecture &amp; DIY<br>- Creative wedding tips <br>- Travel, fitness &amp; beauty<br>- Fashion and style inspiration<br>- Food, new recipes &amp; cooking <br><br>Download Pinterest to start exploring possibilities for your next DIY or home design project.",
+			"app_link": "https://play.google.com/store/apps/details?id=com.pinterest",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLnBpbnRlcmVzdF9pY29uXzE1NTU5NTQyMjNfMDU5/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.75",
+			"total_ratings": "601607",
+			"seo_title": "Pinterest",
+			"seo_keyword": "pinterest,pinterest-for-android,pinterest-android-download,pinterest-apk,pinterest-android-apk,pinterest-download",
+			"seo_description": "Download Pinterest apk 7.21.0 for Android. Explore lifestyle inspiration: new recipes, creative wedding tips &amp; design ideas",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:36:50",
+			"deleted_at": null
+		},
+		{
+			"id": 25,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.sgiggle.production",
+			"title": "Tango",
+			"slug": "tango",
+			"short_description": "Check out our interactive video platform for live content and instant communication.Broadcast your world and earn easy money off your livestreams with Tango Live.Simply go live, get fans, and earn cas...",
+			"description": "Check out our interactive video platform for live content and instant communication.<br><br>Broadcast your world and earn easy money off your livestreams with Tango Live.<br>Simply go live, get fans, and earn cash!<br><br>Meet people from around the world and showcase your talents in a new way. Promote your dancing, play a live game, share a cooking recipe, showcase new music, or show off your singing skills - and redeem gifts from fans for real cash!<br><br>As a viewer, follow your favorite broadcasters and chat directly. Give gifts to show your support and become a VIP to get special status!",
+			"app_link": "https://play.google.com/store/apps/details?id=com.sgiggle.production",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLnNnaWdnbGUucHJvZHVjdGlvbl9pY29uXzE1NTYyMTU1NzBfMDk1/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.65",
+			"total_ratings": "1412805",
+			"seo_title": "Tango",
+			"seo_keyword": "tango,tango-for-android,tango-android-download,tango-apk,tango-android-apk,tango-download",
+			"seo_description": "Download Tango apk 6.8.235641 for Android. 24/7 broadcasts all over the world - join the LIVE community!",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:36:53",
+			"deleted_at": null
+		},
+		{
+			"id": 26,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.oovoo",
+			"title": "ooVoo",
+			"slug": "oovoo",
+			"short_description": "ooVoo Free High-Quality Video Calling, Messaging and Collaborative Stories: Keeping you connected with the people who matter most! Video chat live with anyone worldwide or send messages via video, pho...",
+			"description": "<b>ooVoo Free High-Quality Video Calling, Messaging and Collaborative Stories: Keeping you connected with the people who matter most! Video chat live with anyone worldwide or send messages via video, photo or text!</b> <br><b>All NEW ooVoo CHAINS — a bold new form of social chat and communication in a world of plain messaging apps</b><br>Chains are collections of short videos, images and text — Record, edit, collaborate, and share the things you love with your friends anywhere in the world.<br><b>Use the new Chains feature to:</b><br>★ Create great content for the global ooVoo community – Link your videos together to create great stories with your friends and anyone in the world<br>★ View top Trending chains and great chains your friends in your Network have uploaded<br>★ Easy to Upload — Already have awesome content to upload? Easily upload pictures or videos straight from your camera roll, or add text to any chain you’d like to contribute to.<br>★ Discover amazing and interesting content, connect with your friends, and collaborate with members of the ooVoo community<br><b>Free Video Chat &amp; Free Messaging</b><br>Use ooVoo for a 1-on-1 or group video call with up to 8 people at a time. Our robust, in-app messaging services allow you to send video messages, pictures, text and more!<br><b>Cutting Edge Technology!</b> <br>ooVoo's modern technology is superior to standard messaging apps:<br>Easily send messages or call friends and groups with the touch of a button.<br>Most free messaging apps work only on specific networks while ooVoo provides a crisp and clear video chat over a variety of different communication networks (WiFi, LTE, 4G, 3G)<br>The app comes with cross-platform, cross-device support — Talk to all your friends from a phone, tablet, or computer. <br><b>Share with friends. Share with family. Share with us! For any feedback, questions, concerns, or feature requests, shoot us an email at support@oovoo.com.</b> <br>Follow us on the social networks: <br>Facebook - <b>facebook.com/ooVoo</b> <br>Instagram - <b>instagram.com/ooVoo</b> <br>Twitter - <b>@ooVoo</b>",
+			"app_link": "https://play.google.com/store/apps/details?id=com.oovoo",
+			"app_image_url": "https://image.winudf.com/v2/image/Y29tLm9vdm9vX2ljb25fMTUwODE4MzcwOF8wNDA/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.8",
+			"total_ratings": "1896650",
+			"seo_title": "ooVoo",
+			"seo_keyword": "oovoo,oovoo-for-android,oovoo-android-download,oovoo-apk,oovoo-android-apk,oovoo-download",
+			"seo_description": "Download ooVoo apk 4.2.1 for Android. Join a community of over 180M users! Video chat, message &amp; find amazing stories",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:36:56",
+			"deleted_at": null
+		},
+		{
+			"id": 27,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.spotify.music",
+			"title": "Spotify",
+			"slug": "spotify",
+			"short_description": "Spotify apk is free on Android mobile and
+tablet. Listen to the amazing music, wherever you are. With Spotify, you can:
+•
+Have access to a world of music
+•
+Listen to artists and albums.
+•
+Create you...",
+			"description": "<p class=\"MsoNormal\">
+
+</p>
+<p class=\"MsoNormal\"><span lang=\"EN-US\"><p></p></span></p>
+<p class=\"MsoNormal\"><span lang=\"EN-US\">Spotify apk is free on Android mobile and
+tablet. Listen to the amazing music, wherever you are. </span>With Spotify, you can:</p>
+<p class=\"MsoNormal\"><span style=\"font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin\">•</span>
+<span lang=\"EN-US\">Have access to a world of music <p></p></span></p>
+<p class=\"MsoNormal\"><span style=\"font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin\">•</span>
+<span lang=\"EN-US\">Listen to artists and albums. <p></p></span></p>
+<p class=\"MsoNormal\"><span style=\"font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin\">•</span>
+<span lang=\"EN-US\">Create your own playlist of your favorite songs<p></p></span></p>
+<p class=\"MsoNormal\">
+
+
+
+
+
+
+
+
+
+
+
+</p>
+<p class=\"MsoNormal\"><span lang=\"EN-US\"><p></p></span></p>
+<p class=\"MsoNormal\"><span lang=\"EN-US\">Want to discover new music? Choose a
+ready-made playlist that suits your mood or get personalized recommendations.<p></p></span></p>
+<p class=\"MsoNormal\"><span lang=\"EN-US\"><p></p></span></p>
+<p class=\"MsoNormal\"><span lang=\"EN-US\">Listen for free on mobile, tablet or pc<p></p></span></p>
+<p class=\"MsoNormal\"><span style=\"font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin\">•</span><span lang=\"EN-US\"> Play any artist, album, or playlist on shuffle mode<p></p></span></p>
+<p class=\"MsoNormal\"><span style=\"font-family: 宋体;\">•</span><span lang=\"EN-US\"> Play any song, any time, anywhere</span><br></p>
+<p class=\"MsoNormal\"><b>Spotify Premium apk features</b><br></p>
+<p class=\"MsoNormal\"><span style=\"font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin\">•</span><span lang=\"EN-US\"> Play any song, any time on any device--mobile, tablet, or your
+computer<p></p></span></p>
+<p class=\"MsoNormal\"><span style=\"font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin\">•</span>
+<span lang=\"EN-US\">Easy to operate- Just search for the music and click play. <p></p></span></p>
+<p class=\"MsoNormal\"><span style=\"font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin\">•</span><span lang=\"EN-US\"> Download music for offline listening. Enjoy anywhere you are.<p></p></span></p>
+<p class=\"MsoNormal\"><span style=\"font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin\">•</span><span lang=\"EN-US\"> Enjoy b</span>etter sound quality than ever.</p>
+<p class=\"MsoNormal\"><span style=\"font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin\">•</span><span lang=\"EN-US\"> No ads – just uninterrupted music.<p></p></span></p>
+<p class=\"MsoNormal\"><span style=\"font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin\">•</span><span lang=\"EN-US\"> No commitment - cancel any time you like.</span></p>
+<p class=\"MsoNormal\">You can enjoy 30 free trial before deciding to upgrade to Premium.</p>
+<p class=\"MsoNormal\"><b>FAQs.</b><br></p>
+<p class=\"MsoNormal\"><span lang=\"EN-US\">1. Why upgrade to Spotify Premium?<p></p></span></p>
+<p class=\"MsoNormal\"><span style=\"font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin\">•</span>
+<span lang=\"EN-US\">No ads. When studying and dancing, you won’t be interrupted by
+ads.<p></p></span></p>
+<p class=\"MsoNormal\"><span style=\"font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin\">•</span>
+<span lang=\"EN-US\">Lots of different music, instantly. Hear any song you want.<p></p></span></p>
+<p class=\"MsoNormal\"><span style=\"font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin\">•</span>
+<span lang=\"EN-US\">Enjoy offline mode. Listen to songs without wasting your data.<p></p></span></p>
+<p class=\"MsoNormal\"><span style=\"font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin\">•</span>
+<span lang=\"EN-US\">Protect your ears. Premium packs more sound quality into
+songs.<p></p></span></p>
+<p class=\"MsoNormal\"><span lang=\"EN-US\">2. Why get Spotify Premium apk for Family?<p></p></span></p>
+<p class=\"MsoNormal\"><span style=\"font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin\">•</span>
+<span lang=\"EN-US\">Save a lot. Always $14.99, the more people you add, the more
+you save.<p></p></span></p>
+<p class=\"MsoNormal\"><span style=\"font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin\">•</span>
+<span lang=\"EN-US\">Individual accounts. No need to worry about tantrums. <p></p></span></p>
+<p class=\"MsoNormal\"><span style=\"font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin\">•</span>
+<span lang=\"EN-US\">Keep your playlists. Upgrade and save your music and get special
+recommendations.<p></p></span></p>
+<p class=\"MsoNormal\"><span style=\"font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin\">•</span>
+<span lang=\"EN-US\">Super simple bill. Low price is ready for you and up to five
+family members.<p></p></span></p>
+<p class=\"MsoNormal\"><span lang=\"EN-US\">3. Will we get regular Premium apk, or a
+light version?<p></p></span></p>
+<p class=\"MsoNormal\"><span lang=\"EN-US\">You will get regular Premium, with all
+Premium benefits. Listen to your tunes on-demand, ad-free and offline.<p></p></span></p>
+<p class=\"MsoNormal\"><span lang=\"EN-US\">4. How does the bill work? Do we split the
+cost?<p></p></span></p>
+<p class=\"MsoNormal\"><span lang=\"EN-US\">Only one simple bill every month to cover
+the whole family. It’s always $14.99 for you and up to 5 people. For each
+person, it’s less than $3 every month.<p></p></span></p>
+<p class=\"MsoNormal\"><span lang=\"EN-US\">5. Can I add friends too?<p></p></span></p>
+<p class=\"MsoNormal\">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+<p class=\"MsoNormal\"><span lang=\"EN-US\">It is special discount for family. So you
+need to live at the same address.<p></p></span></p>",
+			"app_link": "https://play.google.com/store/apps/details?id=com.spotify.music",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLnNwb3RpZnkubXVzaWNfaWNvbl8xNTU1NDg2MjEzXzA1Nw/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.25",
+			"total_ratings": "1764266",
+			"seo_title": "Spotify",
+			"seo_keyword": "spotify-music-apk,spotify-music-apk-download,spotify-music-download,spotify-premiumapk,spotify-music-android,spotify-apk,spotify-premium-apk,spotify-android,spotify-premium-android",
+			"seo_description": "Download Spotify Music apk 8.5.10.774 for Android. Spotify Premium apk gives you instant access to millions of songs on your Android device.",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:36:59",
+			"deleted_at": null
+		},
+		{
+			"id": 28,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.maxmpz.audioplayer",
+			"title": "Poweramp",
+			"slug": "poweramp",
+			"short_description": "Poweramp is a powerful music player for Android.Poweramp v3 is a major update focused on the new Audio engine, UI, and navigation.• new Audio engine:  • support for hi-res output (where supported by t...",
+			"description": "Poweramp is a powerful music player for Android.<br><br>Poweramp v3 is a major update focused on the new Audio engine, UI, and navigation.<br><br>• new Audio engine:<br>  • support for hi-res output (where supported by the device)<br>  • new DSP, including updated Equalizer/Tone/Stereo expand, and the new Reverb/Tempo effects<br>  • internal 64bit processing<br>  • new configurable per-output Options<br>  • new configurable Resampler, Dither options<br>  • opus, tak, mka, dsd dsf/dff formats support<br>  • gapless smoothing<br>  • 30/50/100 volume levels (Settings/Audio/Advanced Tweaks)<br><br>• new UI:<br>  • visualizations (supporting .milk presets and spectrum)<br>  • new \"wave\" seekbar, can be also static via Skin options<br>  • Light and Dark skins included, both with Pro Buttons and Static Seekbar options<br>  • new notifications<br>  • new menus, panels, popups, dialogs, etc.<br>  • as previously, 3rd party skins are available (v2 skins are not compatible)<br><br>• new navigation:<br>  • pull down or click album art to go to the current playing list<br>  • as previously, swipe album art for the next/previous track, drag more for category <br>change (applies also to the bottom miniplayer)<br>  • use bottom miniplayer to return to the main ui or to change tracks<br>  • swipe left/right from lists for fast return<br>  • pinch-zoom in lists<br>  • long press on item for the selection menu<br><br>Key Features:<br>- plays mp3, mp4/m4a (incl. alac), ogg, wma, flac, wav, ape, wv, tta, mpc, aiff; V3 also plays opus, dsd (dff/dsf), mka, tak, flv (audio)<br>- 10 band optimized graphical equalizer for all supported formats, presets, custom presets<br>- separate powerful Bass and Treble adjustment<br>- stereo eXpansion, mono mixing, balance, tempo control, reverb, system MusicFX (where supported by the device)<br>- Android Auto<br>- Google Assistant support<br>- Chromecast support<br>- unique Direct Volume Control (DVC) for extended dynamic range and really deep bass<br>- crossfade<br>- gapless <br>- replay gain<br>- plays songs from folders and from own library<br>- dynamic queue<br>- lyrics support, including lyrics search via plugin<br>- embed and standalone .cue files support<br>- support for m3u, m3u8, pls, wpl playlists, playlist importing and exporting<br>- downloads missing album art<br>- artist images downloading<br>- custom visual themes, lot of skins available on Play<br>- widgets with many selectable styles, advanced customizations<br>- lock screen options<br>- Milkdrop compatible visualization support (and 3rd party downloadable visualizations)<br>- headset support, automatic Resume on headset and/or BT connection<br>- scrobbling<br>- tag editor<br>- audio info with detailed audio processing information<br>- ultra fast library scan<br>- high level of customization via settings<br><br>* Android, Android Auto, Google Assistant, Chromecast are trademarks of Google LLC.<br><br><br>This version is 15 days full featured Trial. See Related Apps for Poweramp Full Version Unlocker or use Buy option in Poweramp settings to buy the Full Version. <br><br>====<br><br>Common Questions/Answers for Poweramp:<br>Q. Does my Poweramp v2 purchase include Poweramp v3?<br>A. Yes, it does.<br><br>Q. How do I disable visualization?<br>A. It's disabled by default, can be enabled/disabled by first left button right under cover. <br><br>Q. Seekbar? Titles on cover? Other UI tweaks?<br>A. Please use settings / Look and feel / Skin and set built-in skin options as needed.<br><br>Q. My songs are missing from folders/library/playlists.<br>A. Please ensure you have all your folders with music actually checked in Poweramp settings/ Library / Music Folders.<br><br>Q. Amplified basses are distorted over Bluetooth.<br>A. For really deep basses over bluetooth, disable Bluetooth Absolute Volume in Developer options (or device Sounds settings, depending on device/Android).",
+			"app_link": "https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLm1heG1wei5hdWRpb3BsYXllcl9pY29uXzE1NTU4MDg0NDdfMDgx/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.7",
+			"total_ratings": "173649",
+			"seo_title": "Poweramp",
+			"seo_keyword": "poweramp,poweramp-for-android,poweramp-android-download,poweramp-apk,poweramp-android-apk,poweramp-download",
+			"seo_description": "Download Poweramp apk 2.0.10-build-860589-x86-play for Android. Powerful Music Player for Android",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:37:02",
+			"deleted_at": null
+		},
+		{
+			"id": 29,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.aimp.player",
+			"title": "AIMP",
+			"slug": "aimp",
+			"short_description": "ATTENTION!1. App may works unstable on Xiaomi devices based on MIUI firmware. 2. App does not have built-in music library and uses old school playlist-based approach to music playbackABOUT PERMISSIONS...",
+			"description": "ATTENTION!<br>1. App may works unstable on Xiaomi devices based on MIUI firmware. <br>2. App does not have built-in music library and uses old school playlist-based approach to music playback<br><br>ABOUT PERMISSIONS<br>An access to phone is required to pause / resume playback after call if actions on audio focus change are disabled<br><br>Please, report about all bugs into our forum: http://www.aimp.ru/forum/index.php?board=141.0 or write mail to support.<br><br>+ Supported formats: *.ape; *.mpga; *.mp3; *.wav; *.ogg; *.umx; *.mod; *.mo3; *.it; *.s3m; *.mtm; *.xm; *.aac; *.flac; *.mp4; *.m4a; *.m4b; *.mpc; *.wv; *.opus; *.dsf; *.dff; *.tta<br>+ Support for Android Auto<br>+ OpenSL / AudioTrack / AAudio based output methods<br>+ CUE Sheet support<br>+ Playback speed control<br>+ Balance control<br>+ 29-band graphic equalizer<br>+ Volume normalization via replay gain or peak-based<br><br>+ Themes: built-in light, dark and black themes<br>+ Themes: custom themes support<br>+ Themes: an ability to change theme hue<br><br>+ Bookmarks<br>+ User defined playback queue<br>+ Automatic detection of tags encoding<br>+ Album Arts support (from tags / from file folder / from the Internet)<br>+ Multiple playlists <br>+ Smart-playlists based on folders<br>+ Internet radio<br>+ Lyrics support<br>+ HTTP Live Streaming<br><br>+ An ability to cross-fade tracks<br>+ An ability to down mix multi-channels audio files to stereo<br>+ An ability to down mix audio files to mono (optional)<br>+ An ability to register playing track as ringtone from player<br>+ An ability to repeat playlist / track / playback without repeating<br>+ An ability to play music from File Managers<br>+ An ability to control playback from notification area<br>+ An ability to control playback via Headset<br>+ An ability to switch the tracks via volume buttons (optional)<br>+ An ability to share audio files<br><br>+ An ability to group files by template<br>+ An ability to sort files by template / manually<br>+ An ability to search files in filtering mode<br>+ An ability to delete files physically<br><br>+ An ability to load files from selected folder<br>+ An ability to quick add all music from all SD-cards<br>+ An ability to play files from the File Manager applications<br><br>+ Integration with standard lock screen  (for Android v4.0 and newer)<br>+ Widget for the desktop (4x1, 4x2 and 4x4 with resize ability)<br>+ Widget for the lock screen (for Android v4.2 and newer)",
+			"app_link": "https://play.google.com/store/apps/details?id=com.aimp.player",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLmFpbXAucGxheWVyX2ljb25fMTU1MTY5MDYxOV8wNjI/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.95",
+			"total_ratings": "1315313",
+			"seo_title": "AIMP",
+			"seo_keyword": "aimp,aimp-for-android,aimp-android-download,aimp-apk,aimp-android-apk,aimp-download",
+			"seo_description": "Download AIMP apk v2.90, Build 845 (06.06.2019) for Android. AIMP for Android is light version of AIMP audio player for the Android OS",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:37:05",
+			"deleted_at": null
+		},
+		{
+			"id": 30,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.soundcloud.android",
+			"title": "SoundCloud",
+			"slug": "soundcloud",
+			"short_description": "SoundCloud is the world's largest music and audio streaming platform with 200 million tracks and counting. With a global community of more than 20 million artists from every creative corner of the wor...",
+			"description": "SoundCloud is the world's largest music and audio streaming platform with 200 million tracks and counting. With a global community of more than 20 million artists from every creative corner of the world, SoundCloud is where you find music that exists nowhere else – like exclusive tracks, playlists, DJ sets, remixes and freestyles – right alongside chart-topping albums and mainstream releases.<br><br>Our massive catalog has the biggest hits in hip-hop, electronic, rock, classical, jazz and podcasts, but also the sub-genres within these communities that you’ll be hearing about next year.  <br><br>SoundCloud is where artists and fans collide to push music culture forward together. Connect to emerging artists or today’s superstars directly and in real time, and hear their new releases within seconds of them being shared. With every like, play, comment, and repost, you’re supporting creators and the future of music.<br><br>Download the app to join our diverse community, connect with artists you love, and discover what’s next in music, first on SoundCloud.<br><br>SOUNDCLOUD FREE:<br><br>- Access the most diverse catalog of content from millions of emerging and established artists<br>- Get suggested tracks based on your likes and listening habits<br>- Discover the best music in each genre with SoundCloud charts<br>- Connect with friends and interact with your favorite artists directly<br>- Create playlists for parties, workouts, your commute, or any mood<br>- Find new music faster with our curated playlists, “SoundCloud Weekly,” “Fresh Pressed,” and hundreds more<br><br>SOUNDCLOUD GO:<br><br>- Save unlimited tracks for offline listening<br>- Ad-free listening<br>- Your subscription helps financially support the millions of creators who are starting and growing their careers on SoundCloud<br>- Try 30 days free, then $5.99/month*<br><br>SOUNDCLOUD GO+:<br><br>- Save unlimited tracks for offline listening<br>- Access full catalog, no previews <br>- Get ad-free listening<br>- High quality audio<br>- Your subscription helps financially support the millions of creators who are starting and growing their careers on SoundCloud<br>- Try 30 days free, then $12.99/month**<br><br>JOIN THE COMMUNITY<br><br>SoundCloud Blog: http://blog.soundcloud.com<br>Instagram: http://instagram.com/soundcloud<br>Facebook: http://www.facebook.com/soundcloud<br>Twitter: https://www.twitter.com/soundcloud<br><br>PROBLEMS? FEEDBACK?<br><br>The more you tell us, the better SoundCloud gets.<br><br>http://soundcloudcommunity.com<br>http://help.soundcloud.com<br>https://twitter.com/SCsupport<br><br>SoundCloud is available in English, Brazilian Portuguese, Dutch, French, German, Italian and Spanish.<br><br>*Get SoundCloud Go free for first 7 days, and $5.99/month after that. Free 7-day trial only available for users who haven't previously subscribed to SoundCloud Go. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for $5.99 within 24-hours prior to the end of the current period. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription. Offer limited to users based in the US.<br><br>**Get SoundCloud Go+ free for first 30 days, and $12.99/month after that. Free 30-day trial only available for users who haven't previously subscribed to SoundCloud Go+. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for $12.99 within 24-hours prior to the end of the current period. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription. Offer limited to users based in the US.<br><br>Privacy Policy: https://soundcloud.com/pages/privacy<br>Terms of Use: https://soundcloud.com/terms-of-use",
+			"app_link": "https://play.google.com/store/apps/details?id=com.soundcloud.android",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLnNvdW5kY2xvdWQuYW5kcm9pZF9pY29uXzE1NTY3ODk0MjBfMDIy/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.65",
+			"total_ratings": "56734",
+			"seo_title": "SoundCloud",
+			"seo_keyword": "soundcloud,soundcloud-for-android,soundcloud-android-download,soundcloud-apk,soundcloud-android-apk,soundcloud-download",
+			"seo_description": "Download SoundCloud apk 2019.06.11-release for Android. The world’s largest audio and music streaming platform, with over 150M tracks",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:37:08",
+			"deleted_at": null
+		},
+		{
+			"id": 31,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.musixmatch.android.lyrify",
+			"title": "Musixmatch",
+			"slug": "musixmatch",
+			"short_description": "Musixmatch is the world’s largest collection of song lyrics used by millions of people to get instant synchronised lyrics for Youtube, Spotify, Pandora and more. You can also now use it to get song tr...",
+			"description": "Musixmatch is the world’s largest collection of song lyrics used by millions of people to get instant synchronised lyrics for Youtube, Spotify, Pandora and more. <br>You can also now use it to get song translations on the go.<br><br><br><b>KEY FEATURES:</b><br><br>Musixmatch lets you:<br><br>	• Enjoy song lyrics with music from Spotify, Youtube, Pandora, Apple Music, SoundCloud, Google Play Music and all your other favourite streaming services<br>	• Tap on the real- time notification to display the Floating Lyrics widget and get the current track’s lyrics<br>	• Easily learn new languages by displaying the translation of the lyrics, in time with music. <br>	• Identify and get the lyrics to any song that’s playing around you with one tap<br>	• Search for your favourite song by title, artist and even just using a single line of the lyrics<br><br><br><b>ADDITIONAL FEATURES</b><br><br>With Musixmatch you can also:<br><br>	• Use the smart seek to find your favourite lyrics by easily skipping through a song using the the progress bar<br>	• Share your favourite song lyrics on amazing backgrounds with the LyricsCard feature<br>	• Play Youtube videos in full screen, on landscape mode, to enjoy the FloatingLyrics fully integrated with the video <br>	• Play, pause, skip track from your lock screen<br>	• Get notified instantly when new lyrics from your favourite artists are available<br>	• Quickly and easily find all your favorites on your profile<br>	• Preview songs or watch their Youtube videos<br>	• Collect your identified songs in a Spotify playlist<br>	• Join our Community so you can submit all your favourite lyrics, put them in time with music and even have fun translating them <br>	• Fetch song info and cover art for your songs.<br><br><br><b>WEARABLES &amp; TV STREAMING</b><br><br>  • Musixmatch is available on your Android Wear devices<br>  • Enjoy Musixmatch at home casting local music and lyrics to your TV with Chromecast<br><br><b>MUSIXMATCH PREMIUM FEATURES</b><br><br>Party mode - sing along to any song with word by word syncing and beautiful themes.<br>Offline lyrics - enjoy all the lyrics you have viewed without a connection.<br>No ads - get all the lyrics with no ads.<br>No commitment - cancel any time you like.<br><br><b>GET STARTED</b><br><br>Not sure where to start?<br>Be sure to have enabled the FloatingLyrics and let Musixmatch find lyrics for your songs on Spotify, Pandora, Play music, YouTube, SoundCloud and more.<br><br><b>COMMUNITY</b><br><br>Love Musixmatch? Don’t miss our updates:<br><br>Musixmatch Blog: https://blog.musixmatch.com/<br>Facebook: https://www.facebook.com/musixmatch<br>Twitter: https://twitter.com/Musixmatch<br>Instagram: https://www.instagram.com/musixmatch/<br>G+: https://plus.google.com/+musixmatch<br>Spotify: https://open.spotify.com/user/musixmatch<br><br><b>PROBLEMS? FEEDBACK?</b><br><br>We love receiving your feedback, they help us to improve Musixmatch. <br>Reach us: on Twitter: @musixmatch or via email <br>Visit our Support: https://support.musixmatch.com<br><br><b>REVIEWS AND HONORS </b><br><br>Awarded in Android Excellence Apps 2018.<br>The best Music Player as for AndroidPolice, Android Authority and The Next Web.<br>\"Best Apps 2014 and 2015\" selection on Google Play Store.<br>+50,000,000 people enjoying their Music with the power of Lyrics<br>Google Play Editor Choice with +1,2 mln 5 stars reviews<br><br><br><b>PERMISSIONS </b><br><br>*We only ask for the permissions we need for the app to be at its best.<br>Musixmatch requests the \"Notification access\" permission only to listen for music.",
+			"app_link": "https://play.google.com/store/apps/details?id=com.musixmatch.android.lyrify",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLm11c2l4bWF0Y2guYW5kcm9pZC5seXJpZnlfaWNvbl9pZF8xNTYwOTg1MzY0XzAzNg/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.85",
+			"total_ratings": "1520415",
+			"seo_title": "Musixmatch",
+			"seo_keyword": "musixmatch,musixmatch-for-android,musixmatch-android-download,musixmatch-apk,musixmatch-android-apk,musixmatch-download",
+			"seo_description": "Download Musixmatch apk 7.4.1 for Android. All the music you love with lyrics and translations",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:37:12",
+			"deleted_at": null
+		},
+		{
+			"id": 32,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.slacker.radio",
+			"title": "LiveXLive",
+			"slug": "livexlive",
+			"short_description": "LiveXLive Powered by Slacker, formerly Slacker Radio, is a totally reimagined music streaming app that lets you listen to your favorite music and watch live streaming performances for free, all in one...",
+			"description": "LiveXLive Powered by Slacker, formerly Slacker Radio, is a totally reimagined music streaming app that lets you listen to your favorite music and watch live streaming performances for free, all in one place.<br><br>With our global coverage and massive collection of music, you’ll get:<br><br>•    Free access to the music and events you love<br>•    Hundreds of interactive and hand-crafted music stations<br>•    Music recommendations personalized just for you, so you can discover new favorites<br>•    Live video streams of festivals and concerts from around the world<br>•    Exclusive hosted audio and video shows every week<br>•    The ability to easily collect and share your favorite songs<br>•    The power to create your own stations and playlists<br>•    Unique interactive news and sports programming<br>•    On-demand access to millions of songs and albums with subscription<br>•    Offline data-free listening on mobile with subscription<br><br><br>Check out LiveXLive.com and follow @livexlive on social media for announcements about upcoming events and exciting new features.<br><br>Want to get the most out of LiveXLive Powered by Slacker?<br><br>Subscribe to LiveXLive Plus:<br><br>•    Ad-free listening<br>•    Maximum audio quality<br>•    Unlimited skips<br>•    Auto renews monthly at $3.99 USD<br><br><br>Subscribe to LiveXLive Premium:<br>•    All the benefits of LiveXLive Plus<br>•    Listen offline<br>•    Play millions of songs and albums on demand<br>•    Create your own playlists and stations<br>•    Auto renews monthly at $9.99 USD<br><br><br>Privacy policy: https://www.slacker.com/privacy<br><br>Terms of use: https://www.slacker.com/terms",
+			"app_link": "https://play.google.com/store/apps/details?id=com.slacker.radio",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLnNsYWNrZXIucmFkaW9faWNvbl8xNTU2Mzg3MDY1XzA3Ng/icon.png?w=170&fakeurl=1",
+			"current_ratings": "5",
+			"total_ratings": "417524",
+			"seo_title": "LiveXLive",
+			"seo_keyword": "livexlive,livexlive-for-android,livexlive-android-download,livexlive-apk,livexlive-android-apk,livexlive-download",
+			"seo_description": "Download LiveXLive apk 8.1.2 for Android. Free access to the music you love and live stream events from around the world.",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:37:15",
+			"deleted_at": null
+		},
+		{
+			"id": 33,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.runtastic.android",
+			"title": "Runtastic",
+			"slug": "runtastic",
+			"short_description": "Ready to start your running training &amp; fitness activities? Lace up your running shoes and track distance, time, speed, elevation, calories burned and other stats with the Runtastic running app.Sta...",
+			"description": "Ready to start your running training &amp; fitness activities? Lace up your running shoes and track distance, time, speed, elevation, calories burned and other stats with the Runtastic running app.<br><br>Start by tracking your runs in the <b>free version</b> &amp; benefit from numerous useful features:<br><br>* Get audio feedback from the <b>Voice Coach</b> in the running app.<br>* Monitor your running statistics to <b>analyze your training patterns</b>.<br>* Set your <b>Yearly Running Goal</b> &amp; we’ll help you to reach it with your run tracker.<br>* Are you up for a <b>challenge</b>? We will help you maximize your motivation with targeted challenges. <br>* Track miles for your running shoes &amp; we’ll let you know when it’s time to get a new pair.<br>* <b>Join a group</b> &amp; run with friends.<br>* Engage in a little friendly competition &amp; check the <b>Leaderboard</b> to see which of your friends has run the farthest <br>* Start a Runtastic activity directly from your wrist. Runtastic is fully <b>optimized for Android Wear 2.0</b>, integrated with <b>Garmin Connect</b> (Garmin Forerunner, Fenix, GPS-enabled Vivo or Edge bike computer), <b>Polar Flow</b>, <b>Google Fit</b> &amp; <b>Runtastic Wearable Connect</b>.<br> <br>Unlock <b>all features</b> including running training plans with the <b>Runtastic Premium Membership</b>:<br> <br>* Start your running or marathon training with one of our training plans adapted to your fitness level. <br>* Track &amp; save your favorite routes or discover new running routes from other users with the mile tracker.<br>* Take your running sessions to the next level &amp; start interval trainings.<br>* Keep track of your personal records in the jogging app.<br>* Get drawn into another world with Story Runs.<br>* Send personal encouragement and custom messages within the Runtastic community via LIVE Tracking &amp; Cheering.<br>* Push through those moments when you run out of energy with a boost from your favorite Powersong.<br> <br><b>Join the community</b> &amp; get inspired by millions of fellow fitness fans worldwide.<br> <br>Unleash your full potential: The Runtastic Premium Membership will unlock all Premium features in Runtastic Results and other Runtastic apps too.<br> <br>APP USAGE INFO &amp; PREMIUM MEMBERSHIP DETAILS<br>The Runtastic running app is free to download and use. Some features, such as your running training plans, are unlocked only with the purchase of a Premium Membership. Your Membership renews automatically if you do not cancel it within 24 hours prior to the end of the subscription period. The renewal of your Premium Membership will be charged to your account up to 24 hours before your current Membership expires. The cancellation of an in-app Membership subscription is not permitted. The option to disable the automatic renewal of your Premium Membership is available to you in your Google Play account settings.  <br><br>Do you have further questions about our apps? Contact us via https://help.runtastic.com/hc/en-us",
+			"app_link": "https://play.google.com/store/apps/details?id=com.runtastic.android",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLnJ1bnRhc3RpYy5hbmRyb2lkX2ljb25fMTU2MDg0NjM2MF8wMDI/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.6",
+			"total_ratings": "556632",
+			"seo_title": "Runtastic",
+			"seo_keyword": "runtastic,runtastic-for-android,runtastic-android-download,runtastic-apk,runtastic-android-apk,runtastic-download",
+			"seo_description": "Download Runtastic apk 9.0 for Android. Track runs &amp; workouts with this app for fitness exercises &amp; marathon training!",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:37:18",
+			"deleted_at": null
+		},
+		{
+			"id": 34,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "losebellyfat.flatstomach.absworkout.fatburning",
+			"title": "Lose Belly Fat in 30 Days - Flat Stomach",
+			"slug": "lose-belly-fat-in-30-days-flat-stomach",
+			"short_description": "Sweat just 10 minutes a day! Lose belly fat and flatten your tummy with our short and effective fat burning workouts at home! You will get a flat stomach in just a few weeks!Belly fat covers your abs...",
+			"description": "Sweat just 10 minutes a day! <b>Lose belly fat</b> and flatten your tummy with our <b>short and effective</b> fat burning workouts at home! You will get a flat stomach in just a few weeks!<br><br>Belly fat covers your abs and harms your health. It can raise the risk of high blood pressure, cancer, and other diseases. Experts have pointed out that aerobic exercises help in burning calories and boosting the metabolism. Try the aerobic exercises in this app to get rid of the annoying belly fat and improve your health.<br><br>We have prepared systematic and scientifically-proven workout plans to help you lose belly fat and get a flatter stomach in a simple and fun way. No equipment or coach needed, you can easily do the belly workout at home or anywhere, anytime.<br><br>Why choose this workout app Lose Belly Fat?<br>-100% free! No hidden charges!<br>-Quick and effective workouts maximize fat burning.<br>-Requires no equipment. Burn belly fat, lose weight and stay fit with just your body weight.<br>-Abs workout exercise with 3 difficulty levels (easy, medium, hard) designed by experts.<br>-Suitable for both beginner and pro.<br>-Beginner friendly.<br>-Animation and video guidance just like your personal workout trainer.<br>-Track your weight loss progress.<br>-Daily workout tracker to track burned calories.<br>-Customized workout reminders remind you to tone your stomach.<br>-Health tips help you develop a balanced diet for weight loss and good health.<br>-Stomach workouts, belly fat exercises, ab workouts, and core workout aimed to bring you a flat tummy and a good figure.<br>-Do these abs workout exercises 10 minutes a day to burn belly fat and achieve your goal of having a flat tummy.<br><br>Stop wasting your time with those useless methods. Download Lose Belly Fat for free and start working out at home to burn fat, tone your belly, lose weight and build muscle faster. You'll have beach-ready abs in no time!<br><br>Belly fat burning exercises                                    <br>Belly fat exercise<br>Belly fat loss<br>Stomach fat burning exercise <br>Lose stomach fat quickly<br>Fat burning exercises<br>Reduce belly fat<br>Lose spare tire belly <br>Lose belly fat at home<br>Exercise to get a flat tummy <br>Workouts to lose weight at home<br>Exercise at home to burn belly fat<br>Fat burning workouts  <br>Abs workout at home<br>Ab workouts<br>Core workout for men<br>Core workout for women<br>Fat burning workouts for women<br>Hiit workouts for women<br>Weight loss app<br>Body fat burning exercise<br>Weight loss exercises<br>Low calorie diet<br>Female fitness exercise<br>Core workout<br>Fat burning workouts for men<br>Hiit workouts for men<br><br>Fitness Coach<br>All workouts are designed by professional fitness coach. Workout guide through the exercise, just like having a personal fitness coach in your pocket!",
+			"app_link": "https://play.google.com/store/apps/details?id=losebellyfat.flatstomach.absworkout.fatburning",
+			"app_image_url": "https://image.winudf.com/v2/image1/bG9zZWJlbGx5ZmF0LmZsYXRzdG9tYWNoLmFic3dvcmtvdXQuZmF0YnVybmluZ19pY29uXzE1NTI5OTA5NTBfMDE1/icon.png?w=170&fakeurl=1",
+			"current_ratings": "5",
+			"total_ratings": "670330",
+			"seo_title": "Lose Belly Fat in 30 Days - Flat Stomach",
+			"seo_keyword": "lose-belly-fat-in-30-days-flat-stomach,lose-belly-fat-in-30-days-flat-stomach-for-android,lose-belly-fat-in-30-days-flat-stomach-android-download,lose-belly-fat-in-30-days-flat-stomach-apk,lose-belly-fat-in-30-days-flat-stomach-android-apk,lose-belly-fat-in-30-days-flat-stomach-download",
+			"seo_description": "Download Lose Belly Fat in 30 Days - Flat Stomach apk 1.2.4 for Android. Want to Lose Belly Fat fast at Home?Want to get a Flat Stomach in 30 days?",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:37:21",
+			"deleted_at": null
+		},
+		{
+			"id": 35,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "sworkitapp.sworkit.com",
+			"title": "Sworkit",
+			"slug": "sworkit",
+			"short_description": "Over 25 million people use Sworkit because it's the smartest workout app on the planet. You choose what kind of workout you want and how long you have, then Sworkit will show you exactly what to do. N...",
+			"description": "Over 25 million people use Sworkit because it's the smartest workout app on the planet. You choose what kind of workout you want and how long you have, then Sworkit will show you exactly what to do. No more needing a gym, or weights, or excuses, just Sworkit. <br><br><h3>Is it legit?</h3>
+<br>Yes, we were <b>rated #1</b> by a recent study assessing fitness apps based on the parameters for safety, stretching, progression, and more set by the ACSM (American College of Sports Medicine). We've delivered over 50 millions workouts to people of all fitness levels. <br><br><h3>What can we do for you?</h3>
+<br>• Get you started on a <b>6 week program</b> to get \"Leaner,\" \"Fitter,\" or \"Stronger.\" We have plans for beginners, intermediate, and advanced. <br>• Give you a huge database of <b>body weight exercises</b>. That means you can do these workouts from anywhere. No more travel or too busy excuses. You can even do a 5 minute stretch in the office. <br>• Provide the ability to <b>make your own custom workout.</b> That means you can make a workout with all of your favorite exercises, nothing you despise. Hello, motivation! <br><br><h3>Who is this app made for?</h3>
+<br><b>We made this app with the whole purpose to be for anyone who needs an easy solution for fitness, without the complicated exercises and overpriced guidance</b>, we encourage everyone to find what they love in the app and thrive. So that means it's for you, your family, your friends, your teacher, your boss. It's for the traveler that needs energy, the new mom who can't make too much noise, and the dad who is realizing the dad-bod fad went out of style way too fast. <br><br><i>We also serve as a solution for Health + Wellness coaches. That's how awesome it is.</i><br>• Personal trainers<br>• Sports trainers <br>• Physical therapists<br>• PE teachers and more.<br><br>-------------------------------------------------------<br><br>Here are all the benefits of Sworkit that help you get in shape faster and more reliably than ever. <br>• Guided workout plans<br>• 200+ workouts and exercises<br>• Custom exercise intervals (H.I.I.T + Tabata) <br>• Unlimited custom workouts<br>• Ask a Trainer access<br>• Access to our Web App<br><br><i>Subscriptions to Sworkit are available through a monthly subscription for $14.99 USD and a yearly subscription for $89.99 USD. Each subscription is auto-renewing. Subscription applies to Sworkit Personalized Workouts</i><br><br>Let Sworkit help you make this the workout plan that sticks. <br>Twitter: @Sworkit<br>Facebook: http://facebook.com/sworkitapps<br>Instagram: @SworkitApps<br>Pinterest: https://www.pinterest.com/Sworkit",
+			"app_link": "https://play.google.com/store/apps/details?id=sworkitapp.sworkit.com",
+			"app_image_url": "https://image.winudf.com/v2/image1/c3dvcmtpdGFwcC5zd29ya2l0LmNvbV9pY29uXzE1NTQ4ODE5NDVfMDc2/icon.png?w=170&fakeurl=1",
+			"current_ratings": "5",
+			"total_ratings": "625657",
+			"seo_title": "Sworkit",
+			"seo_keyword": "sworkit,sworkit-for-android,sworkit-android-download,sworkit-apk,sworkit-android-apk,sworkit-download",
+			"seo_description": "Download Sworkit apk 8.2.0 for Android. The #1 fitness app for beginners.",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:37:24",
+			"deleted_at": null
+		},
+		{
+			"id": 36,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "homeworkout.homeworkouts.noequipment",
+			"title": "Home Workout",
+			"slug": "home-workout",
+			"short_description": "Home Workouts provides daily workout routines for all your main muscle groups. In just a few minutes a day, you can build muscles and keep fitness at home without having to go to the gym. No equipment...",
+			"description": "Home Workouts provides daily workout routines for all your main muscle groups. In just a few minutes a day, you can build muscles and keep fitness at home without having to go to the gym. No equipment or coach needed, all exercises can be performed with just your body weight.<br><br>The app has workouts for your abs, chest, legs, arms and butt as well as full body workouts. All the workouts are designed by experts. None of them need equipment, so there's no need to go to the gym. Even though it just takes a few minutes a day, it can effectively tone your muscles and help you get six pack abs at home.<br><br>The warm-up and stretching routines are designed to make sure you exercise in a scientific way. With animations and video guidance for each exercise, you can make sure you use the right form during each exercise.<br><br>Stick with our home workouts, and you will notice a change in your body in just a few short weeks.<br><br>Features<br>*Warm-up and stretching routines<br>*Records training progress automatically<br>*The chart tracks your weight trends<br>*Customize your workout reminders<br>*Detailed video and animation guides<br>*Lose weight with a personal trainer<br>*Share with your friends on social media<br><br>Bodybuilding App<br>Looking for a bodybuilding app? No satisfied bodybuilding app? Try our build muscle app! This build muscle app has effective muscle building workout, and all muscle building workout is designed by expert.<br><br>Strength Training App<br>It's not only just a build muscle app, but also a strength training app. If you are still looking for muscle building workout, muscle building apps or strength training app, this muscle building apps is the best one you can find among the muscle building apps.<br><br>Home Workouts for Men<br>Want effective home workouts for men? We provide different home workouts for men to workout at home. The home workout for men is proven to help you get six pack abs in a short time. You'll find the home workout for men that most suitable for you. Try our home workout for men now!<br><br>Fat Burning Workouts &amp; Hiit Workouts<br>The best fat burning workouts &amp; hiit workouts for better body shape. Burn calories with fat burning workouts, and combine with hiit workouts to get the best results.<br><br>Multiple Exercises<br>Push ups, squats, sit ups, plank, crunch, wall sit, jumping jacks, punch, triceps dips, lunges...<br><br>Fitness Coach<br>The best fitness apps and workout apps. All sport and gym workout in this workout apps and fitness apps are designed by professional fitness coach. Sport and gym workout guide through the exercise, gym workout and sport, just like having a personal fitness coach in your pocket!",
+			"app_link": "https://play.google.com/store/apps/details?id=homeworkout.homeworkouts.noequipment",
+			"app_image_url": "https://image.winudf.com/v2/image1/aG9tZXdvcmtvdXQuaG9tZXdvcmtvdXRzLm5vZXF1aXBtZW50X2ljb25fMTU1NTU2MDEyN18wMDc/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.75",
+			"total_ratings": "608109",
+			"seo_title": "Home Workout",
+			"seo_keyword": "home-workout,home-workout-for-android,home-workout-android-download,home-workout-apk,home-workout-android-apk,home-workout-download",
+			"seo_description": "Download Home Workout apk 1.0.28 for Android. Home workouts for fast bodybuilding at home - no equipment needed.",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:37:27",
+			"deleted_at": null
+		},
+		{
+			"id": 37,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.fitnesskeeper.runkeeper.pro",
+			"title": "Runkeeper",
+			"slug": "runkeeper",
+			"short_description": "Everyone. Every run. Join the community that helps people get out the door and stick with running forever! Track exercise, set goals, sweat, and see progress along the way. Whether you’re working your...",
+			"description": "Everyone. Every run. Join the community that helps people get out the door and stick with running forever! Track exercise, set goals, sweat, and see progress along the way. Whether you’re working your way up to tracking a 5K goal or deep into marathon training, use the GPS app trusted by 50 million users and counting.<br><br>OVERVIEW<br>• Track Workouts - Go for a run, walk, jog, bike, or any activity really. With GPS, you’ll get a clear view of your training in real time.<br>• Set Goals - Have a race, weight, or pace in mind? We can coach you to get there. <br>• Follow a Plan - We have personalized routines to fit into your busy schedule. And helpful reminders, just in case.<br>• Stay Motivated - Join challenges, snag exercise rewards, and share achievements with your friends.<br>• See Progress - This whole running thing works. You’ll see the sweat and we’ll show you the numbers to prove it!<br><br>TOP FEATURES<br>• Running Groups - Create a custom challenge, invite friends, track each other’s progress, and use the chat to cheer each other on. <br>• Audio Cues - A motivating voice that you can customize to relay your pace, distance, and time.<br>• Training Plans - Make major progress by following a plan. We’ll be here for you every step of the way.<br>• Routes - Save, discover, and build new routes with GPS.<br>• Challenges - Stay motivated with exclusive workout experiences and rewards.<br>• Partner Apps - Keep moving with the music you love with our Spotify integration. Connect with other top health apps like Fitbit, MyFitnessPal, and more.<br>• Bluetooth Connectivity - Wireless headphones and heart rate monitors make great workout companions. Also, sync Android Wear, Pebble, and Garmin watches in seconds.<br>• Stopwatch Mode - Easily add indoor cardio (treadmill, cycling) and gym workouts to keep full exercise log all in one place.<br>• Social Sharing - Upload your activities and more with your friends on Facebook and Twitter.<br><br>RUNKEEPER GO (Premium)<br>• Prescribed Workouts - Get a weekly workout schedule tailored to you.<br>• Progress Insights - See how your runs stack up to each other and get a full view of your fitness journey.<br>• Live Tracking - Whether it’s training day or race day, share your location with family and friends.",
+			"app_link": "https://play.google.com/store/apps/details?id=com.fitnesskeeper.runkeeper.pro",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLmZpdG5lc3NrZWVwZXIucnVua2VlcGVyLnByb19pY29uXzE1NTQ3NDAwOTZfMDA1/icon.png?w=170&fakeurl=1",
+			"current_ratings": "5",
+			"total_ratings": "1382590",
+			"seo_title": "Runkeeper",
+			"seo_keyword": "runkeeper,runkeeper-for-android,runkeeper-android-download,runkeeper-apk,runkeeper-android-apk,runkeeper-download",
+			"seo_description": "Download Runkeeper apk 9.9.1 for Android. Track, measure, and improve your fitness.",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:37:30",
+			"deleted_at": null
+		},
+		{
+			"id": 38,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.nike.ntc",
+			"title": "Nike Training",
+			"slug": "nike-training",
+			"short_description": "Welcome to Nike Training Club, your Ultimate Personal Trainer. Get fit with 185+ free workouts from strength and endurance to mobility and yoga — featuring our world-class Nike Master Trainers in ever...",
+			"description": "Welcome to Nike Training Club, your Ultimate Personal Trainer. Get fit with 185+ free workouts from strength and endurance to mobility and yoga — featuring our world-class Nike Master Trainers in every drill.<br><br><br>WORKOUTS ANYTIME, ANYWHERE<br>Nike Training Club users love our short, body-weight only workouts to get the results they want even when life gets in the way.     <br><br><br>PERSONALIZED WORKOUT RECOMMENDATIONS<br>Our daily “Picks For You” are based specifically on your routine. The more you train with Nike Training Club, the more personal your recommendations become.<br><br><br>GUIDANCE TO REACH YOUR GOALS  <br>Our Workout Collections offer a set of recommended workouts and expert advice to help you focus your routine and make progress toward your goals. Get the body you want with Collections like Get Leaner Stronger Abs, Always Ready For the Beach, a 6-Week Guide to Get Lean, and more. <br><br><br>WORKOUTS FOR ALL LEVELS<br>The Nike Training Club workout library includes:<br>• Body-part focused workouts targeting your abs &amp; core, arms &amp; shoulders and glutes &amp; legs<br>• Boxing, Yoga, Strength, Endurance and Mobility workouts<br>• Workout times ranging from 15-45 Minutes<br>• Beginner, Intermediate and Advanced Levels<br>• Low, Moderate and High Intensity<br>• Bodyweight only, Light and Full Equipment<br>• Time-based and Rep-based options<br><br><br>And if that’s not enough, get motivated by some of your favorite athletes with their inspired workouts:<br>• Isaiah Thomas<br>• Sydney Leroux Dwyer <br>• Michael B. Jordan<br>• Cristiano Ronaldo<br>• Serena Williams<br>• Kevin Hart<br>• Kyrie Irving<br>• Rory McIlroy<br>• Alex Morgan<br>• Ellie Goulding<br><br><br>ALL YOUR ACTIVITIES COUNT<br>Enter and record other activities you do, like basketball, spinning, studio classes, and many more, all so you can keep track of your fitness life. <br> <br>And don’t forget — Nike Training Club also syncs your workouts with Google Fit.<br><br><br>TRACK YOUR RUNS<br>Run with Nike Run Club, and all your runs will be automatically recorded in your activity history.",
+			"app_link": "https://play.google.com/store/apps/details?id=com.nike.ntc",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLm5pa2UubnRjX2ljb25fMTU0ODg4MzI4OV8wODY/icon.png?w=170&fakeurl=1",
+			"current_ratings": "5",
+			"total_ratings": "1295793",
+			"seo_title": "Nike Training",
+			"seo_keyword": "nike-training,nike-training-for-android,nike-training-android-download,nike-training-apk,nike-training-android-apk,nike-training-download",
+			"seo_description": "Download Nike Training apk 5.18.1 for Android. 185+ free workouts you can do anytime, anywhere",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:37:33",
+			"deleted_at": null
+		},
+		{
+			"id": 39,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.cleanmaster.mguard",
+			"title": "Clean Master",
+			"slug": "clean-master",
+			"short_description": "Clean Master,  one of the best optimization tools with space cleaner and antivirus for android devices, helps keep your phone clean and safe from virus. Clean Master also free up space and RAM to impr...",
+			"description": "<b>Clean Master,  one of the best optimization tools with space cleaner and antivirus for android devices, helps keep your phone clean and safe from virus. Clean Master also free up space and RAM to improve your phone's performance. Enjoy your speedy phone now! </b> <br><br><b>Clean Master Key Functions:</b><br><br>🔥 JUNK CLEANER (JUNK FILES)<br>Clean Master helps <b>free up your storage space</b> by removing junk, residual and cache files which slows down your phone.<br>With our professional cleaner, you can also free up much more space from cleaning cache data from social apps without worrying about deleting the wrong files.<br><br>👑 FREE ANTIVIRUS<br><b>Scans for virus</b> on all apps (pre-installed or not), <b>blocks and removes virus</b> to keep your phone safe from viruses, trojans and protects your privacy with Clean Master's free antivirus engine which is certified by AV-TEST!<br><br>🌟 WiFi SECURITY<br>Clean Master added the WiFi Security feature to <b>detect fake WiFi and unauthorized connections</b>. Keep your phone safe from insecure public WiFi.<br> <br>🚀 BOOST MOBILE<br>One Tap Boost helps <b>speed up phone by freeing up RAM</b>. After boosting your mobile, you can run a speed test to see how much faster it is.<br><br>🔋 BATTERY SAVER<br>Clean Master helps to <b>save battery power and extend battery life</b> by hibernating running apps.<br><br>🎮 Game Master<br>With Game Master, you can manage your games, accelerate loading speed of games and find more fun games here.<br><br><b>Other optimization features</b><br>☆CHARGE MASTER- Prevents overcharging, displays charging status and application message while charging.<br>☆ APPLOCK- Keeps your app privacy safe with an AppLock PIN or pattern.<br><br><b> Clean Master, the world's leading space cleaner &amp; antivirus app on Google Play. </b><br><br>We added some powerful features to make Clean Master more smarter and convenient. These features will require additional phone permissions.<br><b>Rest assured none of your personal info will be collected per the Privacy Policy.</b><br><br>1.New junk clean engine, added clean junk messages and more (require SMS, Contacts, Call Logs, Calendar and Location permissions)<br>2.New way to interact with your phone on lock screen (require Microphone permission)<br>3.More personalized settings to beautify your phone<br><br>New features are only accessible to some users now, welcome to contact us to try it in advance.<br><br>👉【LIKE US and STAY CONNECTED】👈<br>Follow our Instagram and Google+ to get more interesting pictures, videos &amp; Clean Master usage tips every day!<br>Instagram: https://www.instagram.com/cleanmasterteam/<br>Google+: https://plus.google.com/u/0/communities/106742377658392172082<br>Facebook: https://www.facebook.com/kscleanmaster/<br><br>Enhance the functionality of the intelligent data<br>We will use the installed app(s)  list and app(s)  installation folder contents for the cloud engine to enhance the junk files recognition capability of JUNK CLEANER (JUNK FILES), the running app(s) status for the cloud engine to enhance the effect of BOOST MOBILE and power saving ability of BATTERY.<br><br>TOS: http://www.cmcm.com/protocol/site/tos.html<br>Policy: http://www.cmcm.com/protocol/site/privacy.html<br>Ad Choice: http://www.cmcm.com/protocol/site/ad-choice.html<br><br>Clean Master use accessibility services to improve junk clean feature in some devices.",
+			"app_link": "https://play.google.com/store/apps/details?id=com.cleanmaster.mguard",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLmNsZWFubWFzdGVyLm1ndWFyZF9pY29uXzE1NTgzNTE4MTdfMDQw/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.3",
+			"total_ratings": "1586977",
+			"seo_title": "Clean Master",
+			"seo_keyword": "clean-master-apk,clean-master-android,clean-master-space-cleaner-antivirus-free-ram-apk,clean-master-space-cleaner-antivirus-free-ram-android,clean-master-space-cleaner-antivirus-free-ram-download",
+			"seo_description": "Download Clean Master- Space Cleaner & Antivirus & Free Ram apk 7.1.6 for Android. Clean Master, best android tool with antivirus, space cleaner &amp; speed booster!",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:37:36",
+			"deleted_at": null
+		},
+		{
+			"id": 40,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.sail.advanced.booster",
+			"title": "Deep Booster",
+			"slug": "deep-booster",
+			"short_description": "Deep Booster is one of the best cleaning apps. it's a light, fast &amp; smart android phone cleaner and booster app that clean phone memory and storage space with simply 1 tap.this is a memory cleaner...",
+			"description": "Deep Booster is one of the best cleaning apps. it's a light, fast &amp; smart android phone cleaner and booster app that clean phone memory and storage space with simply 1 tap.this is a memory cleaner, junk files cleaner, RAM cleaner,booster &amp; CPU cooler. It optimizes cache memory space, keeping your Android devices cleaner and booster. <br>The cleaner app will monitor your system by our cleaning services; it will send notice sweep and delete junk file when the cache is full;With the cleaner app, you can delete cache memory data at any time to create a new memory for the next session of the device. CPU cooler can cool down your android phone CPU temperature effectively with one tap.<br>This is fastest clean app, its one of best phone speed booster, cleaner apps for android to speed up your phone. The lowest power consumption with can optimize your android performance.<br>Download Deep Booster to keep your phone clean and security NOW!<br><br>【Deep Booster Features: 】<br>★Memory boost-- Let your device no more laggy <br>★Advanced cleaning-- Sort the useless files,free up more space<br>★Battery Saver -- Increase battery life by feezing<br>★Notification Cleaner -- No annoying notifications <br>★Phone Info -- Real time monitoring of device info<br>★App Manager -- Controlling cell phone apps<br>★CPU Cooler -- Minimizes CPU temperature and enhances performance <br><br>Deep Booster Highlights:<br><br>-❤ Phone Boost<br>Clean unnecessary apps running in background to free up memory, Deep Booster can intelligently clean background processes, stop stealthy running apps and disable stealthy auto-start apps even on non-root devices. freeing up RAM .<br><br>-❤ Junk Clean<br>Deep Booster is clean master. Analyze all of your apps, photo junk, video junk, cache junk, and residual junk...<br>to prevent your phone from running slowly or lagging. Absolutely, Laggy issues as well as running slow will be effectively alleviated. Cleaner can help boost and optimize your phone's speed and performance.<br><br>-❤ Battery Saver<br>Scan application information in your mobile and prolong battery stand-by time by shutting down useless process and freezing self-starting applications completely.<br><br>-❤ Notification Cleaner <br>There are always many annoying notifications when we use the phone. Deep Booster is clean master. Analyze all of your apps, Manage and organize notifications effectively, reduce interruptions, create a smooth, clean and fast phone experience.,to prevent your phone from running slowly or lagging helps to gather all the useless notifications to make them quiet and clean, phone being more efficient. <br><br>-❤ Phone Info<br>Real time monitoring of device info<br><br>-❤ App Manager<br>Remove apps you don't use to save more space, and boost/speed up your phone.<br><br>-❤ CPU Cooler<br>CPU cooler for android that stops overheating apps &amp; settings<br><br><br>If you have any questions about Deep Booster, please email us at: <br>DeepBooster@outlook.com.",
+			"app_link": "https://play.google.com/store/apps/details?id=com.sail.advanced.booster",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLnNhaWwuYWR2YW5jZWQuYm9vc3Rlcl9pY29uXzE1NTUyNjM0NTNfMDA2/icon.png?w=170&fakeurl=1",
+			"current_ratings": "5",
+			"total_ratings": "139412",
+			"seo_title": "Deep Booster",
+			"seo_keyword": "deep-booster,deep-booster-for-android,deep-booster-android-download,deep-booster-apk,deep-booster-android-apk,deep-booster-download",
+			"seo_description": "Download Deep Booster apk 1.3.2 for Android. Deep Booster helps protect your phone from security and sublime its performance.",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:37:39",
+			"deleted_at": null
+		},
+		{
+			"id": 41,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.google.android.apps.translate",
+			"title": "Google Translate",
+			"slug": "google-translate",
+			"short_description": "• Translate between 103 languages by typing• Tap to Translate: Copy text in any app and your translation pops up• Offline: Translate 59 languages when you have no Internet• Instant camera translation:...",
+			"description": "• Translate between 103 languages by typing<br>• Tap to Translate: Copy text in any app and your translation pops up<br>• Offline: Translate 59 languages when you have no Internet<br>• Instant camera translation: Use your camera to translate text instantly in 38 languages<br>• Camera Mode: Take pictures of text for higher-quality translations in 37 languages<br>• Conversation Mode: Two-way instant speech translation in 32 languages<br>• Handwriting: Draw characters instead of using the keyboard in 93 languages<br>• Phrasebook: Star and save translations for future reference in any language<br><br>Translations between the following languages are supported:<br>Afrikaans, Albanian, Amharic, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bosnian, Bulgarian, Catalan, Cebuano, Chichewa, Chinese (Simplified), Chinese (Traditional), Corsican, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Filipino, Finnish, French, Frisian, Galician, Georgian, German, Greek, Gujarati, Haitian Creole, Hausa, Hawaiian, Hebrew, Hindi, Hmong, Hungarian, Icelandic, Igbo, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Korean, Kurdish (Kurmanji), Kyrgyz, Lao, Latin, Latvian, Lithuanian, Luxembourgish, Macedonian, Malagasy, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Myanmar (Burmese), Nepali, Norwegian, Pashto, Persian, Polish, Portuguese, Punjabi, Romanian, Russian, Samoan, Scots Gaelic, Serbian, Sesotho, Shona, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Swahili, Swedish, Tajik, Tamil, Telugu, Thai, Turkish, Ukrainian, Urdu, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba, Zulu<br><br>Permissions Notice<br>Google Translate may ask for permission to access the following features:<br>• Microphone for speech translation<br>• Camera for translating text via the camera<br>• SMS for translating text messages<br>• External storage for downloading offline translation data<br>• Accounts and credentials for signing-in and syncing across devices",
+			"app_link": "https://play.google.com/store/apps/details?id=com.google.android.apps.translate",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMudHJhbnNsYXRlX2ljb25fMTU1NTM2NzQwOF8wMDE/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.7",
+			"total_ratings": "940964",
+			"seo_title": "Google Translate",
+			"seo_keyword": "google-translate,google-translate-for-android,google-translate-android-download,google-translate-apk,google-translate-android-apk,google-translate-download",
+			"seo_description": "Download Google Translate apk 5.29.0.RC05.247256929 for Android. The world is closer than ever with over 100 languages",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:37:43",
+			"deleted_at": null
+		},
+		{
+			"id": 42,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.sec.android.easyMover",
+			"title": "Samsung Smart Switch Mobile",
+			"slug": "samsung-smart-switch-mobile",
+			"short_description": "▣ Smart Switch gives you the freedom to move your contacts, music, photos, calendar, text messages, device settings and more to your new Galaxy device. Plus, Smart Switch™ helps you find your favorite...",
+			"description": "▣ Smart Switch gives you the freedom to move your contacts, music, photos, calendar, text messages, device settings and more to your new Galaxy device. Plus, Smart Switch™ helps you find your favorite apps or suggest similar ones on Google Play™. <br><br>▣ Who can transfer? <br>• Android™ owners <br>- Wireless transfer: Android 4.0 or higher<br>- Wireless transfers from a compatible Android device to Galaxy device: Android 4.0 or higher (Note that non-Samsung devices with Android versions lower than 6.0 can only connect with Galaxy devices that support a mobile AP.) <br>- Wired transfer: Android 4.3 or higher, charger cable, and a USB connector <br><br>• iOS™ owners - use the option that’s best for you: <br>- Wired transfer from your iOS device to your Galaxy: iOS 5.0 or above, iOS device cable (lightning or 30 pin), and a USB connector <br>- Import from iCloud™: iOS 4.2.1 or higher and Apple ID <br>- PC/Mac transfer using iTunes™: Smart Switch PC/Mac software – Get started http://www.samsung.com/smartswitch <br><br>• BlackBerry™ owners <br>- Wireless transfers: BlackBerry OS 7 or 10 (Mobile AP) <br>- Wired transfer from your BlackBerry device to your Galaxy: BlackBerry OS 7 or 10 for transfers via USB connector<br><br>• Windows™ Mobile owners <br>- Wireless transfers: Windows OS 8.1 or 10 <br>* Note: For more information and step-by-step directions, go to http://www.samsung.com/smartswitch<br><br>▣ What can be transferred? <br>- Contacts, calendar(Device content only), messages, photos, music (DRM free content only, Not supported for iCloud), videos (DRM free content only), call logs, memos, alarms, Wi-Fi, wallpapers, documents, app data (Galaxy devices only), home layouts (Galaxy devices only) <br>- You can send app data and home layouts by upgrading your Galaxy device to M OS (Galaxy S6 or higher). <br><br>▣ Which devices are supported? <br>• Galaxy: Recent Galaxy mobile devices and tablets (From Galaxy S2) <br>* Note: For Galaxy S2, old OS (GB/ICS) version can cause incompatibility. If your S2 does not work properly, please try after firmware update. <br><br>• Other Android devices: <br>- HTC, LG, Sony, Huawei, Lenovo, Motorola, PANTECH, Panasonic, Kyocera, NEC, SHARP, Fujitsu, Xiaomi, Vivo, OPPO, Coolpad(DazenF2), RIM(Priv), YotaPhone, ZTE(Nubia Z9), Gionee, LAVA, MyPhone(My28s), Cherry Mobile, Google(Pixel/Pixel2)<br><br>* Note: For reasons such as compatibility between devices, it may not be possible to install and use Smart Switch on certain devices. <br>1. To transfer data, both devices must have a minimum of 500 MB free space in their internal memory.<br>2. If you are using a wired connection, your device must support a 'Transferring media files (MTP)' USB option to allow content to be transferred.<br>3. If you have a non-Samsung device that constantly disconnects from the wireless network, go to Advanced Wi-Fi on your device, turn off the “Wi-Fi initialize” and “Disconnect low Wi-Fi signal” options, and try again.<br> (The options described above may not be available, depending on your device manufacturer and OS version.)<br><br>※ Application permissions<br>The following permissions are required for the app service.<br>[ Required permissions ]<br>. Phone: Used to transfer call log data<br>. Contacts: Used to transfer contacts data<br>. Calendar: Used to transfer calendar data<br>. SMS: Used to transfer SMS data<br>. Storage: Used to save the files necessary for data transfer<br>. Microphone: Used for high-frequency audio when searching for Galaxy devices.<br>. Location: Used to connect Galaxy devices using Bluetooth.<br><br>If your system software version is lower than Android 6.0, please update the software to configure App permissions.<br>Previously allowed permissions can be reset on Apps menu in device settings after software update.",
+			"app_link": "https://play.google.com/store/apps/details?id=com.sec.android.easyMover",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLnNlYy5hbmRyb2lkLmVhc3lNb3Zlcl9pY29uXzE1NTU0MDAxNDhfMDU2/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.7",
+			"total_ratings": "1174740",
+			"seo_title": "Samsung Smart Switch Mobile",
+			"seo_keyword": "samsung-smart-switch-mobile,samsung-smart-switch-mobile-for-android,samsung-smart-switch-mobile-android-download,samsung-smart-switch-mobile-apk,samsung-smart-switch-mobile-android-apk,samsung-smart-switch-mobile-download",
+			"seo_description": "Download Samsung Smart Switch Mobile apk 3.6.04.11 for Android. You can open Smart Switch from device&#39;s Settings menu (Android Oreo or later).",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:37:46",
+			"deleted_at": null
+		},
+		{
+			"id": 43,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "de.mobileconcepts.cyberghost",
+			"title": "CyberGhost",
+			"slug": "cyberghost",
+			"short_description": "Your Android device and CyberGhost VPN go together like milk and cookies.Here’s why they make the perfect match for your uninterrupted privacy. Step 1: Choose a tough cookieGhosties are tough cookies....",
+			"description": "Your Android device and CyberGhost VPN go together like milk and cookies.<br><br>Here’s why they make the perfect match for your uninterrupted privacy.<br><br> <br><br><b>Step 1: Choose a tough cookie</b><br><br>Ghosties are tough cookies. We’ve been fighting for your right to privacy for 7 years and we’re not stopping anytime soon!<br><br>Over 20 million Ghosties trust us because we keep NO LOGS and we give them a flexible way to enjoy the free and open internet.<br><br> <br><b>Step 2: Don’t cry over spilled milk</b> <br><br>We bet you don’t want your confidential data spread across the web like spilled milk all over the kitchen floor.<br><br>That’s why we route your traffic through our encrypted VPN tunnel and keep it safe from handsy cybercriminals.<br><br> <br><br><b>Step 3: Hands off, Santa!</b><br><br>Keep your cookies and milk secured at all times (not just on X-mas) with CyberGhost.<br><br>It’s as simple as:<br><br>● Automating your protection on Wi-Fi, no matter the network you’re on.<br><br>● Choosing from 3700+ servers in 60+ countries to unlock access to geo-restricted content.<br><br>● Hiding your IP and anonymizing your online activity with the strongest encryption out there.<br><br>We keep your data safe from your ISP’s prying eyes, snoopers engaged in mass surveillance, cyber criminals and scammers.<br><br> <br><b>Step 4: No crumbs left behind</b><br><br>CyberGhost VPN keeps NO LOGS of your online activity while you’re connected to our fast servers.<br><br>What you do online is your business. Ours is to protect your privacy as you move across the web.<br><br> <br><br><b>CyberGhost VPN extras (aka the sprinkles on your cookies):</b><br><br>● <b>One-tap protection</b> – start an encrypted connection in one tap – easy-peasy!<br><br>● <b>Best location</b> – enjoy instant VPN protection as you’re automatically matched with the best server based on your location.<br><br>● <b>Favorites</b> - add your preferred servers to a special list and easily access them whenever you want to.<br><br>● <b>Access blocked content</b> - hide your location and binge on your favorite shows and movies at excellent speed!<br><br>● <b>A company you can trust</b> – we're the only VPN company you can put a face on. Meet us (and our dogs) on our website!<br><br>● <b>24/7 support via live chat</b> – ask us questions in 4 languages (or more - we’ll just Google translate it 😀 ) and we’ll be happy to help with anything!<br><br> <br><br><b>Where there’s an Android device, there’s a Ghostie to protect it!<br><br> <br><br>Take a FREE VPN tour, on the house</b><br><br>Now that you’re here, how about you take CyberGhost for a spin?<br><br>Start your trial with NO credit card and NO purchase needed!<br><br>(Go on, do it, we’ll wait...)<br><br> <br>Don't take out word for it – here's what the experts say<br><br>THEVPNLAB - \"Even first-time VPN users will quickly understand how to use CyberGhost and what it can offer its customers. Users can choose to connect to whatever server they like, in any location they want, with unlimited data.\"<br><br>TechAdvisor - \"A slick, fully featured VPN with an interface simple enough for the beginner, yet with options that will also keep the serious privacy enthusiast happy.\"<br><br> <br><br><b>And here’s how Ghosties feel about it</b><br><br>Very easy to use and provides a great experience<br><br>Works exactly as advertised and the speed it great. Would recommend without hesitation :)<br><br> <br><br>Very Good VPN at a correct price :)<br><br>Very Good VPN at a correct price :) . Works flawlessly and also does not dig a hole in your pocket, basically a very friendly VPN.<br><br> <br><br>Discrete, fast, reliable service<br><br>This is an excellent VPN at a price that beats any competition. A large number of servers in numerous countries can be selected. The speed is fantastic, no difference from using the ISP server directly. Highly recommended!<br><br> <br><br><b>Contact us:</b><br><br>If you need help, have a question or want to drop some feedback, get in touch with our support team on the website or email us at support@cyberghost.ro<br><br> <br><br>You can also find us on:<br><br>https://twitter.com/cyberghost_EN<br><br>http://www.youtube.com/user/cyberghostvpn<br><br>https://www.facebook.com/cyberghostEN",
+			"app_link": "https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost",
+			"app_image_url": "https://image.winudf.com/v2/image1/ZGUubW9iaWxlY29uY2VwdHMuY3liZXJnaG9zdF9pY29uXzE1NTQ3MzgzODRfMDgz/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.35",
+			"total_ratings": "1497949",
+			"seo_title": "CyberGhost",
+			"seo_keyword": "cyberghost,cyberghost-for-android,cyberghost-android-download,cyberghost-apk,cyberghost-android-apk,cyberghost-download",
+			"seo_description": "Download CyberGhost apk 7.1.0.139.4334 for Android. The fastest free VPN to unblock and access all your favorite apps and sites",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:37:49",
+			"deleted_at": null
+		},
+		{
+			"id": 44,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.dewmobile.kuaiya.play",
+			"title": "Zapya",
+			"slug": "zapya",
+			"short_description": "Share files using QR codes, watch the hottest short videos, and talk with your friends using the best file sharing application that is free to use and supports all platforms! Need to share files but h...",
+			"description": "<b>Share files using QR codes, watch the hottest short videos, and talk with your friends using the best file sharing application that is <b><font color=\"#44d804\"><b>free</b></font></b> to use and supports all platforms! </b><br><br>Need to share files but have no Internet connection? No problem! <b><font color=\"#ff0a0a\"><b>Zapya</b></font></b> allows you to transfer files from Android phones, iPhones, and PC <b><font color=\"#1bfced\">without using Wi-Fi or mobile data.</font></b> Not only is <b><font color=\"#ff0a0a\"><b>Zapya</b></font></b> easy to use and there is no cost to the user, it also <b><font color=\"#bf03b2\"><b><b>supports 20 languages.</b></b></font></b> File transfering has never been easier! <br><br>Start sharing files with those around you using one of the three simple ways to transfer available on <b><font color=\"#ff0a0a\"><b>Zapya</b></font></b>. <b><font color=\"#edd609\">Create a group</font></b> and invite others to join it, generate a <b><font color=\"#0055ff\">personalized QR code</font></b> for others to scan, or simply <b><font color=\"#ff56c4\">send files to those nearby.</font></b><br><br><br><b>Additional Features</b><br><br> ⚡<b>Video Discovery</b><br>Discover and watch the hottest short videos shared by other users. <br><br>⚡ <b> Phone Replication</b><br>Backup and easily transfer all of the files on your old device to a new one. To use this feature, you must grant permission to access call log (CALL_LOG prompt) and to read phone state (READ_PHONE_STATE prompt).<br> <br>⚡<b>Offline Chat</b><br>Chat and share media with friends nearby without having to use Internet or data.<br> <br>⚡<b>QR Code Sharing</b><br>Use QR codes to connect devices and share files! It makes life so much easier. <br><br>⚡<b> Group Sharing &amp; More</b><br>Not only can you share files with multiple people, you can also chat together using the instant messenger feature and see what your friend’s phone’s camera sees on your device using the remote camera feature. <br><br>⚡<b> Install All Option</b><br>Got a new phone and just want to install all of the popular apps or your saved apps? Copy the APK files from another phone or PC to the new phone. Go to “Local”, then “Files”, and then to “Apps”. Select all of the apps you want to install and then simply click “Install All”. It saves time!<br><br>⚡<b>Mac &amp; PC Support</b><br>Use your phone to backup files to your Mac or PC and use it as a wireless mouse when you are giving a presentation (PPT, etc.). <br><br><br>✓<b>Supported Platforms</b><br>Android（versions 4.0 to 9.0）, iOS, Windows XP/7/8/10, Mac OSX, Windows Phone 8.1 and 10, and Web browser<br><br>✓<b>Supported Languages</b><br>English (Default), Chinese (Simplified &amp; Traditional), Hindi, Spanish, Arabic, Thai, Burmese, Indonesian (Bahasa), Italian, Vietnamese, Russian, Persian, Tamil, Malayalam, Telegu, Malay, Turkish, Korean, and Portuguese.<br><br><b>Connect with us:</b><br>Facebook: https://www.facebook.com/izapya/<br>Twitter: https://twitter.com/zapya_official<br>Google+: https://plus.google.com/+Zapya<br>Blog: www.enjoyzapya.com<br>Website: www.izapya.com",
+			"app_link": "https://play.google.com/store/apps/details?id=com.dewmobile.kuaiya.play",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLmRld21vYmlsZS5rdWFpeWEucGxheV9pY29uXzE1NTUzMjEwMjVfMDg1/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.65",
+			"total_ratings": "1633955",
+			"seo_title": "Zapya",
+			"seo_keyword": "zapya,zapya-for-android,zapya-android-download,zapya-apk,zapya-android-apk,zapya-download",
+			"seo_description": "Download Zapya apk 5.8 (US) for Android. Zapya: The fastest cross-platform file transfer tool. Sharing File! Sharing Fun!",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:37:52",
+			"deleted_at": null
+		},
+		{
+			"id": 45,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.lx.HeroesOfAtlan",
+			"title": "Heroes of Atlan",
+			"slug": "heroes-of-atlan",
+			"short_description": "[THE GREATEST HERO RPG YOU’VE BEEN ALL WAITING FOR!!]* An EPIC turn-based RPG with hundreds of Heroes to choose from!* Customize and upgrade your Heroes and build up your party to defeat the Demon Kin...",
+			"description": "[THE GREATEST HERO RPG YOU’VE BEEN ALL WAITING FOR!!]<br><br>* An EPIC turn-based RPG with hundreds of Heroes to choose from!<br>* Customize and upgrade your Heroes and build up your party to defeat the Demon King!<br>* Join the saga and play with thousands of players from all across the world!<br>* Over a Million players worldwide<br><br>■ Traditional Mobile RPG loved by 4 million users around the world<br>- Enjoy hundreds of heroes !!<br>- Enjoy the battle with heroes in various scenarios<br>- Higher the Hero stars, stronger you get!<br><br>■ Massive and Solid Scenarios are ready!<br>- Unstoppable exploration and challenges to solve secrets<br>- Receiving various quests and unknown missions<br><br>■ Massive Ceatures that threat the continent of Atlan<br>- Defeat the Giant World Boss and keep the kingdom peace!<br><br>■ The more contents you play, the more contents you get addicted!<br>- The Clash and the Colosseum to achieve No.1 in the server<br>- Various reinforcement system to enhance the hero's strength further!<br><br>■Guild systems where cooperation and competition coexist<br>- Defeat the guild raid boss and get rewarded<br>- Collaborate with guild members to win victories in the Guild Competition and Stronghold<br><br>[Story]<br><br>The Kingdom of Atlan was a place of peace and prosperity until a great evil reigned havoc unto the world. The Demon King Beelzebub had emerged, bringing with him pure and unfettered destruction, and leaving only chaos and despair behind him. In one final battle where all hope seemed lost, the Great Sorcerer Magellan and the Guardian Eble had saved the world by sealing away the Demon King! However, after a thousand years of peace, evil still remains and his fury has reawakened! Rise up Hero, and save the Kingdom of Atlan!<br><br>[Features]<br><br>•	FREE TO PLAY!<br>•	Create your own customized party of Heroes with their own unique skills.<br>•	Test your abilities by entering weekly tournaments and fight against players from around the world.<br>•	Ride and modify spectacular Airships to excavate treasure.<br>•	Build life-long partnerships with various pets as they assist you on your adventure.<br>•	Hundreds of unique items to upgrade and customize your Heroes.<br>•	Invite your friends or make new ones to help you along your journey.<br>•	Join or form a guild to partake in intense guild battles and fight massive bosses.<br>•	Full support for tablet compatibility.<br><br>[Note]<br><br>A stable network connection is required to play.<br>Join our Facebook Community and visit our forums to expand your adventures even further!<br>•	Official Website: http://www.tritonegames.com/                                                           <br>•	Official Facebook Fanpage: http://facebook.com/HeroesOfAtlan<br>•	Official Forums: https://www.plug.game/heroesofatlan<br>•	Terms of Service: <br>http://d2sp94fc2kamgz.cloudfront.net/terms/Tritone_Terms_Of_Service_HeroesOfAtlan.html<br>•	Privacy Policy:<br>http://d2sp94fc2kamgz.cloudfront.net/terms/Tritone_Privacy_Policy_HeroesOfAtlan.html<br><br><br>*By installing this app, you grant permission to access your phone status, identity and system logs.",
+			"app_link": "https://play.google.com/store/apps/details?id=com.lx.HeroesOfAtlan",
+			"app_image_url": "https://image.winudf.com/v2/image/Y29tLmx4Lkhlcm9lc09mQXRsYW5faWNvbl8xNTIyNTEwMTg2XzA2MQ/icon.png?w=170&fakeurl=1",
+			"current_ratings": "3.7",
+			"total_ratings": "1625191",
+			"seo_title": "Heroes of Atlan",
+			"seo_keyword": "heroes-of-atlan,heroes-of-atlan-for-android,heroes-of-atlan-android-download,heroes-of-atlan-apk,heroes-of-atlan-android-apk,heroes-of-atlan-download",
+			"seo_description": "Download Heroes of Atlan apk 1.8.2 for Android. Fun, intense, tons of contents, the greatest hero RPG!",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:37:55",
+			"deleted_at": null
+		},
+		{
+			"id": 46,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.madfingergames.deadzone",
+			"title": "SHADOWGUN: DEADZONE",
+			"slug": "shadowgun-deadzone",
+			"short_description": "Gather up your posse of friends, build a team, and kick some butt in the best looking multiplayer third person shooter for mobile. This intense online bullet fest offers the deadliest weapons in the g...",
+			"description": "<b>Gather up your posse of friends, build a team, and kick some butt in the best looking multiplayer third person shooter for mobile. This intense online bullet fest offers the deadliest weapons in the galaxy to aid in your quest for glory...</b><br><br><i>“If you want evidence that mobile games are turning into their console and PC cousins, then look no further than Shadowgun: DeadZone.”</i> - <a href=\"https://apkpure.com/url?q=http%3A%2F%2Fwww.google.com%2Furl%3Fq%3Dhttp%253A%252F%252Fwww.pocketgamer.co.uk%252Fr%252FAndroid%252FShadowgun%25253A%252BDeadZone%252Fnews.asp%253Fc%253D45941%26amp%3Bsa%3DD%26amp%3Bsntz%3D1%26amp%3Busg%3DAFQjCNGwdrNOIVix4lMuSMkEkwGuNTTAZA\" rel=\"nofollow\" target=\"_blank\">PocketGamer.co.uk</a><br><i>“Shadowgun: DeadZone is one of the sharpest-looking shooters we’ve seen.”</i> - <a href=\"https://apkpure.com/url?q=http%3A%2F%2Fwww.google.com%2Furl%3Fq%3Dhttp%253A%252F%252Fwww.slidetoplay.com%252Fshadowgun-deadzone-hands-on-preview%252F%26amp%3Bsa%3DD%26amp%3Bsntz%3D1%26amp%3Busg%3DAFQjCNF3J-jckmeVqsztbaxXRp1uvQsPdw\" rel=\"nofollow\" target=\"_blank\">SlideToPlay.com</a><br><i>“They’ve made what could be the best multiplayer shooting experience on a mobile device.” TouchGen.com</i><br><br><b><h3>EXPERIENCE AWESOME MULTIPLAYER WAR WITH CONSOLE QUALITY GRAPHICS.</h3></b><br><br><b><u>ADRENALINE-PUMPING ACTION</u></b><br>• Intense <b>fast-paced multiplayer combat</b> with up to <b>12 players</b> connected online. This third person shooter puts you right in the middle of a futuristic war zone - make sure you bring plenty of bullets!<br>• Choose from two popular game modes: <b>Deathmatch</b> (a pure killing spree) and <b>Zone Control</b> (Capture the flag style war).<br>• Pick from a rogue’s gallery of <b>10 memorable characters</b>. Customise to match your own combat style!<br>• Over <b>20 unique, futuristic and deadly weapons</b> to choose from, including sub-machine guns, assault rifles and plasma throwers. Supplement your arsenal with lethal gadgets like sentry guns and landmines.<br><br><b><u>GRAPHICS: WE GOT PLENTY!</u></b><br>Shadowgun: Deadzone takes mobile PvP shooters to a new level of realism. Enter the atmospheric world of the Shadowgun and get transported by the <b>moody graphics and slick animation</b>.<br><br><b><u>FANTASTIC FEATURES</u></b><br>• Intuitive fast-paced <b>cover system</b>. If the action gets too insane you can take a breather - just walk up to an object and you’ll take cover with the minimum of fuss.<br>• <b>Earn perks</b> to pump up your experience and create your ultimate badass.<br>• Enter the <b>private server</b> and create your own war - your game, your rules!<br>• Kill your way across unique, <b>ultra-detailed maps</b> from the Refinery to the Palace.<br>• Fight, kill, die...kill again! If you are K.I.A you’ll respawn straight back into the battle.<br><br>__________________________________________<br><br>Don’t forget to follow us on social media:<br>Facebook: <a href=\"https://apkpure.com/url?q=https%3A%2F%2Fwww.google.com%2Furl%3Fq%3Dhttps%253A%252F%252Fwww.facebook.com%252FShadowgun%252F%26amp%3Bsa%3DD%26amp%3Bsntz%3D1%26amp%3Busg%3DAFQjCNGTzt_q2_sF1seUyEbjcQouMHb83g\" rel=\"nofollow\" target=\"_blank\">facebook.com/shadowgun</a><br>Twitter: <a href=\"https://apkpure.com/url?q=https%3A%2F%2Fwww.google.com%2Furl%3Fq%3Dhttps%253A%252F%252Fwww.twitter.com%252Fmadfingergames%26amp%3Bsa%3DD%26amp%3Bsntz%3D1%26amp%3Busg%3DAFQjCNE0G69Hvs9IvqBbwGbKQzDX-zU2LA\" rel=\"nofollow\" target=\"_blank\">twitter.com/madfingergames</a><br>YouTube: <a href=\"https://apkpure.com/url?q=https%3A%2F%2Fwww.youtube.com%2Fmadfingergames\" rel=\"nofollow\" target=\"_blank\">youtube.com/madfingergames</a><br>Twitch: <a href=\"https://apkpure.com/url?q=https%3A%2F%2Fwww.google.com%2Furl%3Fq%3Dhttps%253A%252F%252Fwww.twitch.tv%252Fmadfingergames%26amp%3Bsa%3DD%26amp%3Bsntz%3D1%26amp%3Busg%3DAFQjCNG4Uvw72mLMAAQOfl5BGDVtjBBKxQ\" rel=\"nofollow\" target=\"_blank\">twitch.tv/madfingergames</a><br><br>Got a question? Check <a href=\"https://apkpure.com/url?q=https%3A%2F%2Fwww.google.com%2Furl%3Fq%3Dhttps%253A%252F%252Fwww.madfingergames.com%252Fsupport%26amp%3Bsa%3DD%26amp%3Bsntz%3D1%26amp%3Busg%3DAFQjCNECXLq--wdO7pJ7VGFD_iyra9vJwg\" rel=\"nofollow\" target=\"_blank\">madfingergames.com/support</a>",
+			"app_link": "https://play.google.com/store/apps/details?id=com.madfingergames.deadzone",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLm1hZGZpbmdlcmdhbWVzLmRlYWR6b25lX2ljb25fMTU0NTg3MTIxM18wNTc/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.4",
+			"total_ratings": "881630",
+			"seo_title": "SHADOWGUN: DEADZONE",
+			"seo_keyword": "shadowgun-deadzone,shadowgun-deadzone-for-android,shadowgun-deadzone-android-download,shadowgun-deadzone-apk,shadowgun-deadzone-android-apk,shadowgun-deadzone-download",
+			"seo_description": "Download SHADOWGUN: DEADZONE apk 2.10.0 for Android. PVP multiplayer third person shooting game with unrivaled console like graphics.",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:37:58",
+			"deleted_at": null
+		},
+		{
+			"id": 47,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.glu.modwarsniper",
+			"title": "FRONTLINE COMMANDO",
+			"slug": "frontline-commando",
+			"short_description": "ONE MAN. ONE WAR. YOU ARE THE FRONTLINE COMMANDO.As the sole surviving Commando of a renegade attack against a ruthless dictator, you are stranded on the frontline and hell-bent on payback. You must u...",
+			"description": "ONE MAN. ONE WAR. YOU ARE THE FRONTLINE COMMANDO.<br><br>As the sole surviving Commando of a renegade attack against a ruthless dictator, you are stranded on the frontline and hell-bent on payback. You must use all of your specialized skills to survive the onslaught of the enemy forces and avenge your fallen soldiers.    <br><br>SEE AND FEEL THE ACTION <br>The ultimate 3rd person shooter with stunning console quality visuals, precise controls, advanced physics and destructibles. Jump in the heat of battle and push your Android device to the limit!<br><br>COMPLETE DEADLY MISSIONS<br>Emerge from destructible cover points to take down helicopters, jeeps and heavily defended enemy bases. Fight off increasingly difficult waves of enemies over a variety of combat mission types.<br><br>COMMAND AN ARSENAL OF DEADLY WEAPONS<br>Take to the frontline with an artillery of assault rifles, sniper rifles, shotguns, rocket launchers, med kits, armor and more!<br><br>PLEASE NOTE:<br>- This game is free to play, but you can choose to pay real money for some extra items, which will charge your Google account. You can disable in-app purchasing by adjusting your device settings.<br>-This game is not intended for children.<br>- Please buy carefully.<br>- Advertising appears in this game.<br>- This game may permit users to interact with one another (e.g., chat rooms, player to player chat, messaging) depending on the availability of these features. Linking to social networking sites are not intended for persons in violation of the applicable rules of such social networking sites.<br>- A network connection is required to play.<br>- For information about how Glu collects and uses your data, please read our privacy policy at: www.Glu.com/privacy<br>- If you have a problem with this game, please use the game’s “Help” feature.  <br><br>FOLLOW US at<br>Twitter @glumobile<br>facebook.com/glumobile",
+			"app_link": "https://play.google.com/store/apps/details?id=com.glu.modwarsniper",
+			"app_image_url": "https://image.winudf.com/v2/image/Y29tLmdsdS5tb2R3YXJzbmlwZXJfaWNvbl8xNTI2MDE3Mjc3XzA3Mw/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.35",
+			"total_ratings": "188030",
+			"seo_title": "FRONTLINE COMMANDO",
+			"seo_keyword": "frontline-commando,frontline-commando-for-android,frontline-commando-android-download,frontline-commando-apk,frontline-commando-android-apk,frontline-commando-download",
+			"seo_description": "Download FRONTLINE COMMANDO apk 3.0.3 for Android. ONE MAN. ONE WAR. YOU ARE THE FRONTLINE COMMANDO.",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:38:02",
+			"deleted_at": null
+		},
+		{
+			"id": 48,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.glu.flcn_new",
+			"title": "FRONTLINE COMMANDO: D-DAY",
+			"slug": "frontline-commando-d-day",
+			"short_description": "High-end, immersive tablet gameplay!Lead the charge on D-Day as the tip of the spear in the largest Allied invasion of WW2!  Defeat the occupation forces and take back France; storm the beaches, clear...",
+			"description": "High-end, immersive tablet gameplay!<br><br>Lead the charge on D-Day as the tip of the spear in the largest Allied invasion of WW2!  Defeat the occupation forces and take back France; storm the beaches, clear the trenches and liberate towns as you battle through the countryside of Normandy.<br><br>SEE AND FEEL THE ACTION!<br>Experience the ultimate 3rd person shooter with stunning console quality visuals, precise controls, advanced physics, destructible environments and full voiceovers.  Jump into the heat of battle and push your device to the limit!<br><br>HUGE SINGLE-PLAYER CAMPAIGN!<br>Experience 5 separate campaigns with 145 separate missions based on the actual beach landings; Juno, Sword, Utah, Gold and Omaha.  Destroy powerful tanks and cannons to allow allied forces to advance.  Grab a stationary gun and unload against fortified positions.  Man the Ack-Ack anti-aircraft guns to take down bombers and their escorts before they can release their payloads.<br><br>RUN THROUGH THE WARZONE!<br>Battle your way into the heart of enemy territory! Run through the battlefield dodging mines and leaping barriers as you move to the next cover point to avoid enemy fire.  Emerge from destructible cover points to engage waves of enemies!<br><br>COMMAND AN ARSENAL OF DEADLY WEAPONS!<br>Take to the frontline with an array of classic weapons from World War 2.  Grab a historic rifle to take down enemies accurately or, if you prefer, a machine-gun to unleash a hail of bullets.  Call in Artillery strikes against entrenched enemy soldiers or shoulder a bazooka to reduce a tank to rubble.    <br><br>PLEASE NOTE:<br>- This game is free to play, but you can choose to pay real money for some extra items, which will charge your Google account. You can disable in-app purchasing by adjusting your device settings.<br>-This game is not intended for children.<br>- Please buy carefully.<br>- Advertising appears in this game.<br>- This game may permit users to interact with one another (e.g., chat rooms, player to player chat, messaging) depending on the availability of these features. Linking to social networking sites are not intended for persons in violation of the applicable rules of such social networking sites.<br>- A network connection is required to play.<br>- For information about how Glu collects and uses your data, please read our privacy policy at: www.Glu.com/privacy<br>- If you have a problem with this game, please use the game’s “Help” feature.  <br><br>FOLLOW US at<br>Twitter @glumobile<br>facebook.com/glumobile<br><br>READ_CONTACTS – The game reads your contacts only to allow you to invite your friends to play.<br><br>getLine1Number - This permission was accidentally included but is not used by this game. We will remove in an update in near future.",
+			"app_link": "https://play.google.com/store/apps/details?id=com.glu.flcn_new",
+			"app_image_url": "https://image.winudf.com/v2/image/Y29tLmdsdS5mbGNuX25ld19pY29uXzE1MjYwMTcxNTBfMDYz/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.45",
+			"total_ratings": "1133204",
+			"seo_title": "FRONTLINE COMMANDO: D-DAY",
+			"seo_keyword": "frontline-commando-d-day,frontline-commando-d-day-for-android,frontline-commando-d-day-android-download,frontline-commando-d-day-apk,frontline-commando-d-day-android-apk,frontline-commando-d-day-download",
+			"seo_description": "Download FRONTLINE COMMANDO: D-DAY apk 3.0.4 for Android. Lead the charge on D-Day in the largest Allied invasion of WW2!",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:38:06",
+			"deleted_at": null
+		},
+		{
+			"id": 49,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.jiinfeng3d.bfrdemo",
+			"title": "Fighting Tiger - Liberal",
+			"slug": "fighting-tiger-liberal",
+			"short_description": "You are Gin, a Kung Fu fighter, and desperately want to leave your gang, but your gang has other ideas. You need to fight for your girlfriend and your life, which could end very soon if you make the w...",
+			"description": "You are Gin, a Kung Fu fighter, and desperately want to leave your gang, but your gang has other ideas. You need to fight for your girlfriend and your life, which could end very soon if you make the wrong move.<br><br>Features include:<br>* Special fighting styles : Liberal Kungfu ( Chinese boxing, Sanda, Bajiquan, Chinese sword ) or use a gun. To knock enemies down with protean attack.<br>* Sensitive and special 3D fighting control system :  It's very easy to control on your mobile device.<br>* Sophisticated 3D characters and large scenes!<br>* Smooth and intense motion! You can use punching, kicking, catching, throwing, and dodge... use everything to defend yourself in the brawl on the street! Combine these fighting skills to create a variety of deadly attacks.<br>* You can pick up varied weapons to strike the enemies.<br>* Learn Kung Fu and martial art using 3D interactive mode.<br><br>With Fighting Tiger - Liberal on your device, you'll battle the evil forces of the Savage-Tiger Gang and attempt to rescue your lover, Shan. You are given many different defenses and attack techniques to help you fend off these attackers who want you dead. Master all the techniques , so you can survive!",
+			"app_link": "https://play.google.com/store/apps/details?id=com.jiinfeng3d.bfrdemo",
+			"app_image_url": "https://image.winudf.com/v2/image1/Y29tLmppaW5mZW5nM2QuYmZyZGVtb19pY29uXzE1NTczODcwODdfMDc5/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.65",
+			"total_ratings": "1381881",
+			"seo_title": "Fighting Tiger - Liberal",
+			"seo_keyword": "fighting-tiger-liberal,fighting-tiger-liberal-for-android,fighting-tiger-liberal-android-download,fighting-tiger-liberal-apk,fighting-tiger-liberal-android-apk,fighting-tiger-liberal-download",
+			"seo_description": "Download Fighting Tiger - Liberal apk 2.6.0.1 for Android. This is the best 3D fighting game you are looking for !",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:38:10",
+			"deleted_at": null
+		},
+		{
+			"id": 50,
+			"user_id": 1,
+			"status_identifier": "active",
+			"app_id": "com.gamehivecorp.beattheboss3",
+			"title": "Beat the Boss 3",
+			"slug": "beat-the-boss-3",
+			"short_description": "Your dream has come true. All your life you have wanted to beat your boss, and now you finally can. With 50 million downloads to date, it is no secret that this is everybody’s favorite stress relief g...",
+			"description": "Your dream has come true. All your life you have wanted to beat your boss, and now you finally can. With 50 million downloads to date, it is no secret that this is everybody’s favorite stress relief game. Your boss knows that you are playing this game, and there is nothing he can do about it. <br><br>→ Customize your boss: Evil comes in many forms. You can make your own! <br>→ Customize your weapons: Camouflage or champagne color grenades? It’s up to you. <br>→ Premium weapons: 100+ all new lethal weapons to make your boss wet his pants. <br>→ Physics simulated: Get a satisfying reaction to all of your intense beatings<br>→ Funny one-liners: Don’t laugh too loud at work <br>→ World tour: Play in beautiful hand-crafted stages!",
+			"app_link": "https://play.google.com/store/apps/details?id=com.gamehivecorp.beattheboss3",
+			"app_image_url": "https://image.winudf.com/v2/image/Y29tLmdhbWVoaXZlY29ycC5iZWF0dGhlYm9zczNfaWNvbl8xM3B5dWU0cw/icon.png?w=170&fakeurl=1",
+			"current_ratings": "4.9",
+			"total_ratings": "1569523",
+			"seo_title": "Beat the Boss 3",
+			"seo_keyword": "beat-the-boss-3,beat-the-boss-3-for-android,beat-the-boss-3-android-download,beat-the-boss-3-apk,beat-the-boss-3-android-apk,beat-the-boss-3-download",
+			"seo_description": "Download Beat the Boss 3 apk 2.0.1 for Android. All your life you have wanted to beat your boss, and now you finally can!",
+			"is_cron_check": 0,
+			"created_at": "2020-07-21 06:35:37",
+			"updated_at": "2020-07-21 06:38:13",
+			"deleted_at": null
+		}
+	]
+}

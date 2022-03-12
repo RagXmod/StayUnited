@@ -1,0 +1,48 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "npm run development",
+        "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "watch": "npm run development -- --watch",
+        "watch-poll": "npm run watch -- --watch-poll",
+        "hot": "cross-env NODE_ENV=development node_modules/webpack-dev-server/bin/webpack-dev-server.js --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "prod": "npm run production",
+        "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
+    },
+    "devDependencies": {
+        "@babel/preset-react": "^7.0.0",
+        "@fortawesome/fontawesome-free": "^5.8.1",
+        "axios": "^0.18",
+        "babel-preset-react": "^6.23.0",
+        "bootstrap": "^4.3.1",
+        "browser-sync": "^2.26.3",
+        "browser-sync-webpack-plugin": "^2.2.2",
+        "chart.js": "^2.8.0",
+        "croppie": "^2.6.3",
+        "cross-env": "^5.2.0",
+        "jquery": "^3.3.1",
+        "laravel-mix": "^4.0.15",
+        "lodash": "^4.17.11",
+        "popper.js": "^1.14.7",
+        "react": "^16.8.6",
+        "react-dom": "^16.8.6",
+        "resolve-url-loader": "^2.3.2",
+        "sass": "^1.17.3",
+        "sass-loader": "^7.1.0",
+        "vue-template-compiler": "^2.6.10"
+    },
+    "dependencies": {
+        "animate.css": "^3.7.0",
+        "codemirror": "^5.45.0",
+        "jquery-scroll-lock": "^3.1.3",
+        "jquery.appear": "^1.0.1",
+        "js-cookie": "^2.2.0",
+        "react-bootstrap": "^1.0.0-beta.6",
+        "react-codemirror2": "^5.1.0",
+        "react-dropzone": "^10.1.3",
+        "react-paginate": "^6.3.0",
+        "react-progress-2": "^4.4.3",
+        "react-select": "^2.4.2",
+        "simplebar": "^2.6.1"
+    }
+}

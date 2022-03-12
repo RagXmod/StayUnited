@@ -1,0 +1,26 @@
+{
+    "name": "dcm/installation",
+    "description": "",
+    "authors": [
+        {
+            "name": "Anthony Pillos",
+            "email": "ianthonypillos@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Installation\\Providers\\InstallationServiceProvider",
+                "Modules\\Installation\\Providers\\RouteServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Installation\\": ""
+        }
+    }
+}
